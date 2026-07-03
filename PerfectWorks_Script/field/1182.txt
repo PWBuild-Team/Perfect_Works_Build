@@ -604,9 +604,9 @@ Billy
 "First of all, regarding
 my basic loadout of guns,
 there're three kinds:<New>
-'Handgun',<Delay 10>
-'Ether Gun',<Delay 10>
-and 'Big Gun'.<New>
+'Handgun' (<T> attack),<Delay 10>
+'Ether Gun' (<S> attack),<Delay 10>
+and 'Big Gun' (<X> attack).<New>
 Of these, only the
 Handgun can be swapped
 out for other guns of

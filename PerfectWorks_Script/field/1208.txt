@@ -11,7 +11,7 @@ Margie
 stuffed toy'!<Delay 10>
 She has a name!<New>
 Her name is..."<Close><End of Block>
-<TextBlock 3 w:46 h:2>
+<TextBlock 3 w:50 h:2>
 Margie
 "Her name is <Chu-Chu>!"<Close><End of Block>
 <TextBlock 4 w:52 h:4>
@@ -427,9 +427,9 @@ Big Brother...<Close><End of Block>
 There are three kinds in
 your basic loadout of guns.<New>
 The three are:
-'Handgun',
-'Ether Gun',
-and 'Big Gun'.<New>
+'Handgun' (<T> attack),
+'Ether Gun' (<S> attack),
+and 'Big Gun' (<X> attack).<New>
 Only the Handgun can be
 swapped out for other
 guns of the same kind.<New>
