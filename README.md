@@ -80,6 +80,7 @@ DISCLAIMER: Some of the patches were designed to work in tandem with each other.
 - Medena's name has been changed to Medina.
 - Improved the grammar of Dan's battle dialogue.
 - Sword Citan will now use the Japanese voice clips during battle when the battle undub patch is applied.
+- Shevat music channel bug in the palace has been fixed.
 
 ## Links
 
