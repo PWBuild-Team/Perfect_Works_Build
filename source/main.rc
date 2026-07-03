@@ -59,8 +59,8 @@ CAPTION "About Xenogears: Perfect Works Patcher"
 FONT 8, "MS Shell Dlg", 0, 0, 0x1
 BEGIN
     ICON            IDI_XGPW,IDC_STATIC,14,14,21,20
-	LTEXT           "Xenogears: Perfect Works Build, Version 0.11.0",IDC_STATIC,42,14,200,8,SS_NOPREFIX
-    LTEXT           "Patcher version 0.14.0",IDC_STATIC,42,26,200,8,SS_NOPREFIX
+	LTEXT           "Xenogears: Perfect Works Build, Version 0.11.1",IDC_STATIC,42,14,200,8,SS_NOPREFIX
+    LTEXT           "Patcher version 0.14.1",IDC_STATIC,42,26,200,8,SS_NOPREFIX
     LTEXT           "Copyright (c) 2022",IDC_STATIC,42,38,114,8
     DEFPUSHBUTTON   "OK",IDOK,150,41,50,14,WS_GROUP
 END
