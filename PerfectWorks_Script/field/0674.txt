@@ -9,9 +9,9 @@ But after looking at
 the results of the
 geologic tests, I
 have my doubts.<Close><End of Block>
-<TextBlock 2 w:50 h:2>
-My hubby acts sooo smart
-with his ruin theories.<New>
-Why don't we just leave
-the ruins to the Church
-of the Ethos!?<Close><Close><End of Block>
+<TextBlock 2 w:52 h:3>
+My hubby, I wonder why he
+has to make such a fuss?<New>
+Better to just leave ruins
+and whatnot to those folk
+from the Church!<Close><Close><End of Block>

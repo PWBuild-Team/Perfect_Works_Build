@@ -74,7 +74,7 @@ It was magnificent...<New>
 But those Lambs are
 unforgivable.<Delay 10> Wandering
 around at His Majesty's
-feet and what not!<Close><End of Block>
+feet and whatnot!<Close><End of Block>
 <TextBlock 15 w:50 h:3>
 There seems to be a big
 struggle on the surface.<New>

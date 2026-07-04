@@ -309,7 +309,7 @@ Zephyr
 human sight by three
 Gates.<New>
 One of the Gates is under
-the Church of the Ethos HQ,
+the Church headquarters,
 but...<Delay 20>it is unreachable,
 even with Gears.<New>
 The locations of the other

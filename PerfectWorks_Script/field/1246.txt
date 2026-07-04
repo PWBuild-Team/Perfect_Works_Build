@@ -274,11 +274,11 @@ make any promises."<Close><End of Block>
 <TextBlock 57 w:44 h:2>
 Elly
 "You'll introduce us?"<Close><End of Block>
-<TextBlock 58 w:50 h:4>
+<TextBlock 58 w:46 h:4>
 Billy
 "Yes. Let's stop by the
-Church of the Ethos 
-headquarters after this."<Close><End of Block>
+Church headquarters
+after this."<Close><End of Block>
 <TextBlock 59 w:50 h:4>
 Margie
 "Hmm. Isn't that unusual,

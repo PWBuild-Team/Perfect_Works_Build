@@ -223,7 +223,7 @@ Billy
 "We humans are...<Delay 20>
 components for God...<New>
 It wasn't just the
-Church of the Ethos...<Delay 20>
+Church...<Delay 20>
 Even God was using me
 for selfish desires..."<Close><End of Block>
 <TextBlock 27 w:50 h:4>

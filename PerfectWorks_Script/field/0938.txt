@@ -9,12 +9,12 @@ Ramsus
 in that report?"<Close><End of Block>
 <TextBlock 3 w:52 h:4>
 Shakhan
-"What? Oh, you mean the
+"What?<Delay 10> Oh, you mean the
 500-year-old mobile weapon
 excavated from the ruins?<New>
 Thanks to the help of the
-Church of the Ethos, the
-repairs are complete.<New>
+Church, the repairs are
+complete.<New>
 I thought we could unveil
 it on the day of the
 naval review..."<Close><End of Block>

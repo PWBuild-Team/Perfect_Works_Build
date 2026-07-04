@@ -53,8 +53,8 @@ Lambs<Delay 5>...<Delay 5>02-04 to Ignis
 11-16<Delay 5> to be uniformly
 distributed<Delay 5>...<New>
 Carry out<Delay 5>...<Delay 5>establishment
-of the Church of the Ethos
-as an organization<Delay 5>...<New>
+of the Church as an
+organization<Delay 5>...<New>
 <Delay 5>...<Delay 5>Supervision to be...
 by assembly of elders<Delay 5>...'<New>
 Supervision by the Gazel!?
@@ -78,10 +78,9 @@ The land dwellers in that
 Gated-off world were made
 to live as a separate race,
 which had to be supervised.<New>
-And so the Church of the
-Ethos was established to
-actually carry out that
-supervision.<New>
+And so the Church was
+established to actually
+carry out that supervision.<New>
 The Church is controlled
 by the 'Gazel Ministry',<Delay 5>
 Solaris' highest
@@ -470,7 +469,7 @@ data bank?"<Close><End of Block>
 Billy
 "This data bank holds all
 information concerning the
-Church of the Ethos.<New>
+Church.<New>
 From the past to the
 present <--> everything!<Delay 10>
 This facility is strictly
@@ -637,8 +636,8 @@ Lambs<Delay 5>...<Delay 5>02-04 to Ignis
 11-16<Delay 5> to be uniformly
 distributed<Delay 5>...<New>
 Carry out<Delay 5>...<Delay 5>establishment
-of the Church of the Ethos
-as an organization<Delay 5>...<New>
+of the Church as an
+organization<Delay 5>...<New>
 <Delay 5>...<Delay 5>Supervision to be...
 by assembly of elders<Delay 5>...'<New>
 Supervision by the Gazel!?
@@ -662,10 +661,9 @@ The land dwellers in that
 Gated-off world were made
 to live as a separate race,
 which had to be supervised.<New>
-And so the Church of the
-Ethos was established to
-actually carry out that
-supervision.<New>
+And so the Church was
+established to actually
+carry out that supervision.<New>
 The Church is controlled
 by the 'Gazel Ministry',<Delay 5>
 Solaris' highest

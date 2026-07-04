@@ -18,12 +18,12 @@ that the people have forgotten the
 cause and know only the pointless
 cycle of hostility and tragedy.<Delay 200><Delay 200><Delay 200><Close><End of Block>
 <TextBlock 4 w:70 h:11>
-The chronic, habitual warfare was
-soon to face a major change.<Delay 30>
-This was due to the 'Church of the
-Ethos',<Delay 10> caretakers of the world's
-culture,<Delay 10> offering to repair tools
-and weapons excavated from the
+The chronic, habitual warfare
+was soon to face a major change.<Delay 30>
+This was due to 'the Church',<Delay 10>
+caretakers of the world's culture,<Delay 10>
+offering to repair tools and
+weapons excavated from the
 ruins of an ancient civilization.<Delay 30>
 Both countries began excavating
 these ruins and, to bolster their

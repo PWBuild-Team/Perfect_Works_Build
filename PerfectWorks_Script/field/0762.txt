@@ -174,9 +174,9 @@ Citan
 "It is amazing that such an
 ancient scroll exists...
 and in such good condition!<New>
-I thought the Church of
-the Ethos controlled all
-things such as these..."<Close><End of Block>
+I thought the Church
+controlled all things
+such as these..."<Close><End of Block>
 <TextBlock 32 w:38 h:3>
 Bart
 "Normally, yes.<New>

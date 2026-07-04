@@ -50,9 +50,8 @@ the activation of
 the Gatekeeper
 was unexpectedly
 fortunate.<Close><End of Block>
-<TextBlock 9 w:34 h:3>
-From the Church 
-of the Ethos?<Delay 10>
+<TextBlock 9 w:32 h:2>
+From the Church?<Delay 10>
 Or perhaps<Delay 5>...<Close><End of Block>
 <TextBlock 10 w:36 h:2>
 It does not matter
@@ -229,8 +228,8 @@ sleeps beneath the
 sea floor of Aqvi.<New>
 Though its existence was
 hidden from us by the
-Church of the Ethos for
-over nineteen years."<Close><End of Block>
+Church for over nineteen
+years."<Close><End of Block>
 <TextBlock 44 w:38 h:2>
 Is that acceptable,
 Cain?<Close><End of Block>

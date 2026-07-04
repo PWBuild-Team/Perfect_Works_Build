@@ -78,7 +78,7 @@ Primera and I hid,
 and so escaped death,<Delay 10>
 but she hasn't spoken
 a word since.<Close><End of Block>
-<TextBlock 14 w:52 h:4>
+<TextBlock 14 w:48 h:4>
 Like a godsend, kind,
 strong Bishop Stone gave
 me an example to follow.<New>
@@ -88,10 +88,10 @@ he saved us.<New>
 I didn't want any
 more children to end
 up like Primera...<New>
-So I began training at the
-Church of the Ethos in
-order to become just like
-Bishop Stone someday.<Close><End of Block>
+So I began training at
+the Church in order to
+become just like Bishop
+Stone someday.<Close><End of Block>
 <TextBlock 15 w:46 h:3>
 I left Prim in the care
 of the Church and

@@ -101,11 +101,10 @@ Citan
 the broken part...<New>
 or <Weltall> will not be
 able to function at all!<New>
-If I recall correctly,<New>
+If I recall correctly, in
+the southern part of town
 there should be a workshop
-run by the Church of the
-Ethos in the southern
-part of town.<New>
+run by the Church.<New>
 Let us go there, Fei."<Close><End of Block>
 <TextBlock 21 w:50 h:4>
 Citan

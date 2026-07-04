@@ -22,11 +22,10 @@ at one of those points.<New>
 Two others are left, but
 we only know where one of
 those is, I guess?"<Close><End of Block>
-<TextBlock 3 w:50 h:4>
+<TextBlock 3 w:52 h:4>
 Citan
-"Yes, under the Church of
-the Ethos headquarters.<Delay 20>
-However..."<Close><End of Block>
+"Yes, under the Church
+headquarters.<Delay 20> Although..."<Close><End of Block>
 <TextBlock 4 w:52 h:4>
 Billy
 "There wasn't anything

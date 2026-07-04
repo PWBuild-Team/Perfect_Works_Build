@@ -165,13 +165,12 @@ unimaginably big. Something
 awesome's down there.<Close><End of Block>
 <TextBlock 41 w:48 h:3>
 That job from the
-Church of the Ethos 
-was ruined.<New>
+Church was ruined.<New>
 Unfortunately, I'll have
 to delay that job...but
 I'm a bit relieved.<Close><End of Block>
 <TextBlock 42 w:60 h:2>
-This is the supply entrance...
+This is the supply entrance...<Delay 10>
 Uh, I already told you that.<Close><End of Block>
 <TextBlock 43 w:50 h:4>
 This is the supply
@@ -180,10 +179,9 @@ This is where all the
 treasure, armor and other
 materials are brought up
 from the sea.<Close><End of Block>
-<TextBlock 44 w:48 h:3>
-This is the supply
-entrance...Uh,
-I already told you that.<Close><End of Block>
+<TextBlock 44 w:60 h:2>
+This is the supply entrance...<Delay 10>
+Uh, I already told you that.<Close><End of Block>
 <TextBlock 45 w:50 h:4>
 This is the supply
 entrance.<New>
@@ -191,8 +189,8 @@ This is where all the
 treasure, armor and other
 materials are brought up
 from the sea.<Close><End of Block>
-<TextBlock 46 w:34 h:1>
-<Opcode 10 0> OK. <Opcode 2 80><Close><End of Block>
+<TextBlock 46 w:14 h:1>
+<Opcode 10 0> okay.<Opcode 2 80><Close><End of Block>
 <TextBlock 47 w:34 h:2>
 Out of the way!
 Let me do my job!<Close><End of Block>

@@ -100,12 +100,11 @@ he'd pull through..."<Close><End of Block>
 Elly
 "Fei...
 Can you save Fei?"<Close><End of Block>
-<TextBlock 23 w:48 h:5>
+<TextBlock 23 w:54 h:4>
 Doctor
 "I cannot guarantee it!
 But the medical unit at
-the Church of the Ethos
-headquarters..."<Close><End of Block>
+the Church headquarters..."<Close><End of Block>
 <TextBlock 24 w:36 h:3>
 Elly
 "They could save

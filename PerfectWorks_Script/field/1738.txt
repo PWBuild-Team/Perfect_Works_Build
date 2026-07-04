@@ -258,10 +258,10 @@ quite innocently <--><New>
 they are devices that were
 installed to collect
 surface dwellers' bio-data.<New>
-Of course, help also came
-in the form of the variety
-of data sent by the Church
-of the Ethos."<Close><End of Block>
+Of course, help also
+came in the form of the
+variety of data sent by
+the Church."<Close><End of Block>
 <TextBlock 37 w:20 h:2>
 Citan
 "Correct."<Close><End of Block>
