@@ -3,7 +3,7 @@ Xenogears Perfect Works Build: Includes an improved translation, rebalanced game
 
 Download the latest release here:
 
-https://github.com/NoharOSP/Perfect_Works_Build/releases/tag/0.11.0
+https://github.com/NoharOSP/Perfect_Works_Build/releases/tag/0.11.1
 
 For more in-depth information about the build, visit the wiki:
 
@@ -57,6 +57,15 @@ Xenogears: Perfect Works is a collaborative project aiming to make Xenogears a m
 DISCLAIMER: Some of the patches were designed to work in tandem with each other. The 2x exp and gold patches were designed to work with the lower encounter rate patch. The monster stats and party/item patch both act as a rebalancing hack. They can be used separately from each other, but they were designed with the mindset of using them together.
 
 ## Version history
+
+### Version 0.11.1
+
+07/05/2026
+
+- Weltall attack bug has been fixed.
+- Church of the Ethos has been changed to The Church.
+- Completed expanded Billy gun tutorial.
+- Fixed camera angles during Gebler briefing.
 
 ### Version 0.11.0
 
