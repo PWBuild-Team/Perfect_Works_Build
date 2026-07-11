@@ -68,9 +68,9 @@ Citan
 "Let us hurry to the
 mirror control room while
 the coast is clear." <Close><End of Block>
-<TextBlock 17 w:38 h:3>
+<TextBlock 17 w:44 h:3>
 Myyah
-"You've no chance,
+"You've no chance, not
 with those wounds!"<Close><End of Block>
 <TextBlock 18 w:40 h:4>
 Myyah
@@ -115,9 +115,9 @@ just retreat now!<Delay 10> Guh!"<Close><End of Block>
 Myyah
 "No, Commander!
 We're pulling out!"<Close><End of Block>
-<TextBlock 25 w:38 h:3>
+<TextBlock 25 w:44 h:3>
 Myyah
-"You've no chance,
+"You've no chance, not
 with those wounds!"<Close><End of Block>
 <TextBlock 26 w:40 h:4>
 Myyah
