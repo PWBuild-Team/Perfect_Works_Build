@@ -138,7 +138,7 @@ DM or tag here if you want immediate feedback on Twitter:
 - Dead Heart of Africa: Testing
 - big4lil: Testing
 - Jerry Rice: Testing
-- SadNES cITy Translations: Xenogears translation tools
+- [SadNES cITy Translations](https://sadnescity.it/): Xenogears translation tools
 - Joshua MacDonald: xdelta
 - FFMaster: Fast text code
 - RyleFury: Deus bug fix, softsub tools
