@@ -93,10 +93,12 @@ struct tipDesc {
 	char text_deathblow[255] =
 		"Removes level requirements from\n"
 		"Deathblows. While button combos\n"
-		"are still required to learn the\n"
-		"Deathblow, the player can try to\n"
-		"learn any of them as soon as the\n"
-		"game begins.\n";
+		"are still required to learn\n"
+		"Deathblows, the player can learn\n"
+		"any of them when the game begins\n"
+		"Other rebalance patches were not\n"
+		"designed around this, so expect it\n"
+		"to make the game easier.";
 	char text_jpn_control[255] =
 		"Switch to the Japanese control\n"
 		"scheme. This applies to the\n"
@@ -120,7 +122,10 @@ struct tipDesc {
 		"quickly.\n";
 	char text_cap[255] =
 		"Turns off the 9999 damage cap. Works for\n"
-		"both character and Gear battles.\n";
+		"both character and Gear battles. The\n"
+		"rebalance patches have not been adjusted\n"
+		"around it, so expect it to make the game\n"
+		"easier.";
 	char text_bug_fix[255] =
 		"Ignores all other patches and just implements\n"
 		"the bug fixes.\n";

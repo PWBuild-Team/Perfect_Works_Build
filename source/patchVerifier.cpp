@@ -178,6 +178,15 @@ void patchVerifier::storyVerify() {
 		}
 	}
 	if (windowHandler::instantticked == BST_CHECKED) {
+		if (windowHandler::scriptticked == BST_CHECKED) {
+			Window::log_file << "Retranslated instant text directory found." << std::endl;
+			if (patchProcessor::num == 1) {
+				patchProcessor::fastName = "text_cd1";
+			}
+			if (patchProcessor::num == 2) {
+				patchProcessor::fastName = "text_cd2";
+			}
+		}
 		patchProcessor::editExe = true;
 	}
 }
