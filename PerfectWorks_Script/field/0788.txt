@@ -16,35 +16,35 @@ No...<Delay 30>something's not right.<Close><End of Block>
 <TextBlock 3 w:48 h:4>
 ...Sorry, but please
 don't talk to me now.<New>
-Yesterday morning's view
-from the lake.<Delay 30>
+The view I saw from the
+lake yesterday morning.<Delay 30>
 I'm remembering the
 sensation of that light.<Close><End of Block>
-<TextBlock 4 w:24 h:1>
-...I forgot.<Close><End of Block>
-<TextBlock 5 w:42 h:1>
-Oh...I'm remembering.<Close><End of Block>
+<TextBlock 4 w:36 h:1>
+...I've forgotten.<Close><End of Block>
+<TextBlock 5 w:32 h:1>
+Oh...I remember.<Close><End of Block>
 <TextBlock 6 w:18 h:1>
 I got it!<Close><End of Block>
 <TextBlock 7 w:50 h:3>
-I was thinking of putting
-the arrival of a new era
-into a picture.<Close><End of Block>
+I was thinking of somehow
+putting the coming of a
+new era into a picture.<Close><End of Block>
 <TextBlock 8 w:54 h:4>
 Fei
 "(Paint brushes...<Delay 30>
-I haven't touched them
+I haven't even touched one
 since I left the village.)"<Close><End of Block>
 <TextBlock 9 w:28 h:2>
-Hm?...<Delay 30>Are you
+Hm?...<Delay 30> Are you
 an artist too?<Close><End of Block>
-<TextBlock 10 w:24 h:2>
+<TextBlock 10 w:30 h:2>
 Fei
-"Ah...<Delay 30>no..."<Close><End of Block>
-<TextBlock 11 w:26 h:2>
-Oh...<Delay 30>pictures
-are great.<Close><End of Block>
-<TextBlock 12 w:30 h:3>
+"Ah...<Delay 30> N-No..."<Close><End of Block>
+<TextBlock 11 w:40 h:2>
+I see...<Delay 30>
+Paintings are great.<Close><End of Block>
+<TextBlock 12 w:38 h:3>
 Fei
-"Oh...<Delay 30>
-Oh, <Delay 30>really...?"<Close><Close><End of Block>
+"Ah...<Delay 30>
+Oh,<Delay 30> is that so...?"<Close><Close><End of Block>

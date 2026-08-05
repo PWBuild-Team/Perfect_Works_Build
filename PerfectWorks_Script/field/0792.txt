@@ -74,7 +74,7 @@ Bart
   of the Solaris Empire, is
   located in the skies above.<New>
   Solaris is separated from
-  the land by dimensional
+  the land by dimensional-
   distortion fields known
   as 'Gates'.<New>
   Without the use of
@@ -134,27 +134,27 @@ Citan
 blowing today..."<Close><End of Block>
 <TextBlock 21 w:48 h:4>
 Sigurd
-"Well, we will go ahead
+"Well, we'll go ahead
 and prepare the ship for
 launch."<Close><End of Block>
 <TextBlock 22 w:48 h:4>
 The town representatives
-have been meeting at the
-assembly hall since this
-morning.<Close><End of Block>
+have been in discussion
+at the assembly hall
+since this morning.<Close><End of Block>
 <TextBlock 23 w:52 h:3>
-I hear it is because
+I hear it's because
 Marguerite has returned...<New>
-They are trying to decide
-how to deal with Av as
-the 'Nisan parish'.<Close><End of Block>
-<TextBlock 24 w:50 h:2>
+They're deciding how to
+handle Av from now on,
+as the Nisan parish.<Close><End of Block>
+<TextBlock 24 w:52 h:2>
 I can understand why
-everyone is worried.<New>
+everyone's worried.<New>
 But the Holy Mother
 has finally returned...<New>
-We should be celebrating,
-shouldn't we?<Close><End of Block>
+The first thing we should
+do is celebrate, isn't it?<Close><End of Block>
 <TextBlock 25 w:42 h:4>
 Margie
 "These are the people
@@ -187,7 +187,7 @@ regarding your next move,
 if he may..."<Close><End of Block>
 <TextBlock 29 w:34 h:3>
 Bart
-"Alright...
+"I see.
 So where is Sig?"<Close><End of Block>
 <TextBlock 30 w:52 h:3>
 Mason
@@ -217,15 +217,16 @@ suspicious of
 Sigurd...?"<Close><End of Block>
 <TextBlock 37 w:54 h:4>
 Bart
-"Well...I mean...
+"Well...I mean...<Delay 5>
 it was just so sudden.<New>
 I kind of expected to hear
-something different...like
+something different...<Delay 5>like
 that they were rivals since
 childhood or something...<New>
-But that's nothing compared
-to the story he just told
-us, is it?"<Close><End of Block>
+But that would've been
+nothing compared to the
+story he just told us,
+would it?"<Close><End of Block>
 <TextBlock 38 w:54 h:4>
 Citan
 "Hmm.<Delay 30> So hearing his story
@@ -254,11 +255,11 @@ this with you till now."<Close><End of Block>
 Citan
 "Looking at the conduct
 of Solaris toward other
-countries up until now...<New>
-...it has never gone
-beyond simply maintaining
-their own empire, or
-'self-preservation'.<New>
+countries up until now,<New>
+it has never gone beyond
+the scope of simply
+maintaining their own
+empire.<New>
 And as you have seen, their
 military power is immense.<New>
 Perhaps Sigurd thought to
@@ -272,7 +273,7 @@ deal with Solaris later.<New>
 Which is a much better plan
 than rushing straight into
 a war he knew we could not
-win. It's quite logical."<Close><End of Block>
+win. It is quite logical."<Close><End of Block>
 <TextBlock 42 w:54 h:3>
 Bart
 "Sounds like you understand
@@ -309,7 +310,7 @@ The words had changed, but
 it was still no different
 from what Solaris itself
 had been doing until then.<New>
-He had no intentions of
+He had no intention of
 bringing everyone a
 better way of life."<Close><End of Block>
 <TextBlock 46 w:48 h:4>
@@ -331,13 +332,13 @@ Bart
 "As long as they're
 working with Shakhan,
 there's no way around it.<New>
-The way things are going,
+The way things're going,
 I'm sure we'll have to
 fight them sooner or
 later."<Close><End of Block>
 <TextBlock 50 w:54 h:4>
 Citan
-"Hmm...
+"Hmm...<Delay 5>
 I suppose so, but...<New>
 Even if we were to defeat
 the Geburah forces here,
@@ -355,11 +356,11 @@ I think it is time we
 try to get help from
 a greater number of
 people."<Close><End of Block>
-<TextBlock 51 w:46 h:4>
+<TextBlock 51 w:48 h:4>
 Bart
 "So defeating Shakhan's
-not going to get rid of
-the likes of Geburah..."<Close><End of Block>
+not gonna get rid of the
+likes of Geburah..."<Close><End of Block>
 <TextBlock 52 w:46 h:3>
 Bart
 "I know what you're
@@ -371,12 +372,12 @@ first gain thy throne!'
 Citan
 "Hmm...
 You could put it that way."<Close><End of Block>
-<TextBlock 54 w:48 h:3>
+<TextBlock 54 w:46 h:3>
 Bart
-"What d'you mean 'you
+"What do you mean 'you
 could put it that way'?<New>
-But then again, maybe it
-IS time I did something
+Well,<Delay 5> maybe it IS
+time I did something
 about that."<Close><End of Block>
 <TextBlock 55 w:34 h:2>
 This road leads
@@ -385,9 +386,9 @@ to the cathedral.<Close><End of Block>
 Oh, Bart!
 I'm glad you're well.<Close><End of Block>
 <TextBlock 57 w:52 h:2>
-I've already let the
-convent know.<New>
-Please take Margie up
+I've already informed the
+people at the convent.<New>
+Please take Margie over
 there as soon as possible.<New>
 She'll be so happy...
 and so will the sisters!<Close><End of Block>
@@ -396,12 +397,12 @@ Margie
 "I must hurry and
 see the sisters."<Close><End of Block>
 <TextBlock 59 w:50 h:2>
-I've already let the
-convent know.<New>
-Go to them quickly and
-show them you're alright.<New>
+I've already informed the
+people at the convent.<New>
+Go there quickly and let
+them see you're alright.<New>
 I'm sure they'll be
-happy to see you!<Close><End of Block>
+overjoyed!<Close><End of Block>
 <TextBlock 60 w:26 h:1>
 Welcome back!<Close><End of Block>
 <TextBlock 61 w:52 h:3>
@@ -410,11 +411,12 @@ port contacted us just
 before you came into town.<Close><End of Block>
 <TextBlock 62 w:48 h:1>
 I'm so glad you're safe!<Close><End of Block>
-<TextBlock 63 w:54 h:2>
-My dad always says,
-'It's peaceful here'...<New>
-But what is 'peace' anyway?
-I don't really understand.<Close><End of Block>
+<TextBlock 63 w:42 h:2>
+'It's peaceful here'.<New>
+That's what my daddy
+always says.<New>
+But what's peace?<Delay 5>
+I don't get it.<Close><End of Block>
 <TextBlock 64 w:22 h:1>
 Mr. Pirate!<Close><End of Block>
 <TextBlock 65 w:42 h:2>
@@ -422,11 +424,11 @@ Will you let me ride
 in your ship someday?<Close><End of Block>
 <TextBlock 66 w:40 h:4>
 Bart
-"Hahaha!
+"Hahaha!<Delay 5>
 Maybe when you get a
 little older, kid!"<Close><End of Block>
-<TextBlock 67 w:34 h:2>
-Are bad people
+<TextBlock 67 w:36 h:2>
+Are the bad people
 coming to get us?<Close><End of Block>
 <TextBlock 68 w:46 h:4>
 Hey, you're a stranger,
@@ -436,13 +438,13 @@ are lots of strangers
 who do bad things, so
 I should be careful.<New>
 Are you a bad person?<Close><End of Block>
-<TextBlock 69 w:42 h:1>
-Margie has come back!<Close><End of Block>
-<TextBlock 70 w:44 h:4>
-My dad was saying that
-there was going to be
-a war, so we should
-move somewhere else.<Close><End of Block>
+<TextBlock 69 w:38 h:1>
+Margie's come back!<Close><End of Block>
+<TextBlock 70 w:40 h:4>
+My dad said there's
+gonna be a war soon,
+so we should move
+somewhere else.<Close><End of Block>
 <TextBlock 71 w:52 h:1>
 How's my young lord doing?<Close><End of Block>
 <TextBlock 72 w:28 h:3>
@@ -451,7 +453,7 @@ Bart
 'young lord'!"<Close><End of Block>
 <TextBlock 73 w:48 h:3>
 (Oh! I forgot...<Delay 10>
-Your true identity is
+Your true identity's
 supposed to be a secret.<New>
 There's only a handful
 of people in this town
@@ -466,7 +468,7 @@ a show this time!<Close><End of Block>
 <TextBlock 75 w:48 h:4>
 Bart
 "(Shhh! Keep it down!
-My true identity is
+My true identity's
 supposed to be a secret!<New>
 What if a spy from the
 Royal Capital snuck in
@@ -480,32 +482,31 @@ I've heard that the
 time has finally come.<New>
 But now I won't be
 able to call you my
-young lord anymore...
-...Your Majesty!<Close><End of Block>
-<TextBlock 78 w:52 h:4>
+young lord anymore...<Delay 10>
+Your Majesty!<Close><End of Block>
+<TextBlock 78 w:44 h:3>
 Bart
-"Well...<Delay 30>let's keep it as
-young lord.<Delay 10> 'Your Majesty'
-is going a bit too far!<New>
-Not that I'm suited to,
-or like to be called,
-either title anyway!"<Close><End of Block>
+"Aw man...<Delay 5>let's just
+keep it as young lord!<Delay 10><New>
+The point is, these
+titles aren't really
+my style..."<Close><End of Block>
 <TextBlock 79 w:36 h:2>
 How are you,
 my young lord?<New>
 I knew you'd come
 back in one piece!<Close><End of Block>
-<TextBlock 80 w:38 h:3>
-Are you a pilgrim?
-Young pilgrims like
-you are very rare.<Close><End of Block>
-<TextBlock 81 w:42 h:2>
-How is my young lord?<New>
+<TextBlock 80 w:40 h:3>
+Are you pilgrims?
+That's rare for
+youngsters like you.<Close><End of Block>
+<TextBlock 81 w:40 h:2>
+How's my young lord?<New>
 I knew you'd all
 come back alive!<Close><End of Block>
 <TextBlock 82 w:54 h:4>
 You're friends of my young
-lord, right? Since you are
+lord, right? Since you're
 friends with him, I'm sure
 you already know, but...<New>
 he'll be the leader of this
@@ -535,20 +536,16 @@ Fei
 <TextBlock 86 w:40 h:2>
 Bart
 "He means Shakhan!"<Close><End of Block>
-<TextBlock 87 w:46 h:3>
-Yes.
-It's alright to try and
-avenge your father...<New>
-...but I don't think
-things will be that
-easy!<Close><End of Block>
-<TextBlock 88 w:38 h:3>
+<TextBlock 87 w:50 h:3>
+That's right.<New>
+It's all well and good to
+avenge your father,<Delay 5> but
+it may not be that easy!<Close><End of Block>
+<TextBlock 88 w:54 h:4>
 Bart
-"I don't want to
-hurt anyone.<New>
-I want you to know
-I'm always thinking
-about that."<Close><End of Block>
+"I don't want anyone to get
+hurt.<Delay 10> That's the one thing
+I always keep in mind."<Close><End of Block>
 <TextBlock 89 w:26 h:1>
 Do your best!<Close><End of Block>
 <TextBlock 90 w:26 h:1>
@@ -559,28 +556,31 @@ while you're still young!<New>
 If you don't expand your
 horizons, you'll regret
 it when you get old.<Close><End of Block>
-<TextBlock 92 w:50 h:3>
-I've had enough troubles.
-I just want to live life
-peacefully.<Close><End of Block>
-<TextBlock 93 w:60 h:2>
-You must be from another land.
-How's the outside world?<New>
-Rumor has it that political
-instability is growing...<New>
-But that's hardly surprising,
-given the current governments.<Close><End of Block>
+<TextBlock 92 w:48 h:3>
+Me, I've had my share of
+troubles.<Delay 5> I just want to
+live life peacefully.<Close><End of Block>
+<TextBlock 93 w:46 h:3>
+You must be from
+another land. How's
+the outside world?<New>
+Rumor has it that
+political instability
+is growing...<New>
+But that's hardly
+surprising, given the
+current administration.<Close><End of Block>
 <TextBlock 94 w:54 h:5>
-So it has finally begun.
-My late father always said,
-'Don't miss the greater
-happiness by being misled
-by minor sufferings'!<New>
-It hurts me to see our
-children placed in danger.
-But if it moves our country
-in the right direction,
-then it's to their benefit.<Close><End of Block>
+So it's finally begun.<New>
+My late father always said
+'don't let the temporary
+suffering blind you to
+the greater happiness'.<New>
+I hate to see our children
+placed in danger, but...
+If it moves the country in
+the right direction then
+it's for their benefit too.<Close><End of Block>
 <TextBlock 95 w:52 h:1>
 Ahh, it's such a nice day.<Close><End of Block>
 <TextBlock 96 w:50 h:3>
@@ -592,30 +592,30 @@ Holy Mother returning...<New>
 Since they call her the
 Holy Mother she must
 be really old and frail!<Close><End of Block>
-<TextBlock 97 w:58 h:3>
-I had no idea...
+<TextBlock 97 w:54 h:3>
+I had no idea...<Delay 5>
 Why, the Holy Mother
-is younger than I am!?<New>
+is younger than I am!<New>
 I'm new here, so I don't
 know much...<New>
-I don't know exactly what
-is going on, but let's just
-avoid any trouble now, okay!?<Close><End of Block>
-<TextBlock 98 w:50 h:3>
-This land...
-extends aaaaall the way
-around the lake...<New>
-Which extends aaaaall the
+I don't know exactly what's
+going on, but at least
+there's no trouble, huh?<Close><End of Block>
+<TextBlock 98 w:52 h:3>
+This area, it's laid out
+so the town wraps aaaaall
+the way around the lake...<New>
+which wraps aaaaall the
 way around the cathedral.<New>
-Just for fun, you might
-want to go aaaaall the
-way around it yourself.<New>
+You might want to try
+going aaaaall the way
+around it yourself later.<New>
 Not that there's much to
 see at aaaaall, mind you.<Close><End of Block>
-<TextBlock 99 w:44 h:3>
-It does the heart good
-to see the innocent
-play of children.<Close><End of Block>
+<TextBlock 99 w:38 h:3>
+It eases the heart
+to see the children
+playing innocently.<Close><End of Block>
 <TextBlock 100 w:54 h:2>
 Most of the families with
 children have evacuated.<New>
@@ -623,11 +623,11 @@ They were afraid of getting
 caught up in a battle here.<New>
 It's so lonely now.
 How I miss them...<Close><End of Block>
-<TextBlock 101 w:44 h:3>
+<TextBlock 101 w:42 h:3>
 No matter where you
 go in this world,
-war is everywhere.<New>
-This town could be the
+there's war.<New>
+This town's about the
 only place that isn't
 involved in conflict.<Close><End of Block>
 <TextBlock 102 w:48 h:4>
@@ -639,54 +639,59 @@ since this morning.<Close><End of Block>
 I hear they're talking
 about a plan to deal with
 the troops from Av.<New>
-Some of them think the
-return of Margie is a
-nuisance.<Close><End of Block>
-<TextBlock 104 w:56 h:3>
+Apparently some of them
+are bothered by Margie's
+return.<Close><End of Block>
+<TextBlock 104 w:50 h:3>
 I can understand why
-everyone is worried.<New>
-But shouldn't we be counting
-our blessings that the Holy
-Mother resides in Nisan...?<Close><End of Block>
-<TextBlock 105 w:58 h:4>
-The town representatives have
-finished their discussions
-and are moving into action.<New>
-They have dispersed to
+everyone's worried.<New>
+But it's only because the
+Holy Mother's here in
+Nisan...<New>
+As the people who reside
+here, shouldn't we count
+our blessings?<Close><End of Block>
+<TextBlock 105 w:62 h:4>
+Looks like the town's
+representatives have
+concluded discussions and
+are taking their next steps.<New>
+They've dispersed to coordinate
+with the residents hoping to
 prepare their defenses and
-accommodations for the
-residents desiring to escape.<Close><End of Block>
+evacuate.<Close><End of Block>
 <TextBlock 106 w:54 h:1>
 May heaven protect you all.<Close><End of Block>
-<TextBlock 107 w:46 h:3>
+<TextBlock 107 w:46 h:4>
 Neither of us serve
 heaven within the
 Nisan cathedral...<New>
-But we pray here daily,
-as ones who have lived
-here for many years.<Close><End of Block>
+But as people who have
+lived in this land for
+many years, we offer
+our prayers here daily.<Close><End of Block>
 <TextBlock 108 w:36 h:2>
 May all things be
 as heaven wills...<Close><End of Block>
-<TextBlock 109 w:50 h:2>
-God bless you. And I wish
-you good fortune too.<Close><End of Block>
+<TextBlock 109 w:30 h:2>
+I pray for your
+good fortune.<Close><End of Block>
 <TextBlock 110 w:26 h:1>
 I'll get you!<Close><End of Block>
-<TextBlock 111 w:36 h:1>
-I'm gonna get you!<Close><End of Block>
+<TextBlock 111 w:26 h:1>
+I'll get you!<Close><End of Block>
 <TextBlock 112 w:28 h:2>
 Outta the way,
 outta the way!<Close><End of Block>
 <TextBlock 113 w:28 h:2>
-Outta the way!
-Outta the way!<Close><End of Block>
+Outta the way,
+outta the way!<Close><End of Block>
 <TextBlock 114 w:28 h:2>
 Outta the way,
 outta the way!<Close><End of Block>
 <TextBlock 115 w:28 h:2>
-Outta the way!
-Outta the way!<Close><End of Block>
+Outta the way,
+outta the way!<Close><End of Block>
 <TextBlock 116 w:16 h:1>
  Studio <Close><End of Block>
 <TextBlock 117 w:48 h:2>

@@ -5,15 +5,15 @@ arrived a few days ago.<Close><End of Block>
 <TextBlock 2 w:50 h:2>
 Walking around the desert
 is hard work!<Close><End of Block>
-<TextBlock 3 w:48 h:3>
-Is the rumor that there
-are pirates in the Royal
-Capital true?<Close><End of Block>
+<TextBlock 3 w:44 h:3>
+Is the rumor true that
+bandits broke into the
+Royal Capital!?<Close><End of Block>
 <TextBlock 4 w:50 h:4>
 Through a special
 arrangement with the town
-representatives, we're
-getting lodging.<Close><End of Block>
+representatives, they're
+renting us lodgings.<Close><End of Block>
 <TextBlock 5 w:40 h:4>
 I'm very sorry but
 we're all full.
@@ -25,26 +25,26 @@ Received special herbal tea!<Close><End of Block>
 Lost a little weight.<Close><End of Block>
 <TextBlock 8 w:22 h:1>
 Come again!<Close><End of Block>
-<TextBlock 9 w:44 h:4>
-We are providing you
-with a vacant house.<Delay 10>
-<Opcode 1 255>    Okay, understood!
-    What's that there?<Close><End of Block>
+<TextBlock 9 w:56 h:4>
+We're providing the vacant
+house across the way to you.<Delay 10>
+<Opcode 1 255>    Okay, understood
+    But that, there!<Close><End of Block>
 <TextBlock 10 w:48 h:2>
 Huh?
-...<Delay 30>That?<New>
-I'm so glad you like it!
-Please take it.<Close><End of Block>
+...<Delay 30>Oh, that?<New>
+Did you like it!?
+Please, don't hold back.<Close><End of Block>
 <TextBlock 11 w:56 h:1>
 Received special herbal tea!<Close><End of Block>
-<TextBlock 12 w:40 h:2>
-We are providing you
-with a vacant house.<Close><End of Block>
-<TextBlock 13 w:50 h:3>
+<TextBlock 12 w:56 h:2>
+We're providing the vacant
+house across the way to you.<Close><End of Block>
+<TextBlock 13 w:44 h:3>
 Welcome!<New>
-Since you're the ones who
-saved our town we'll let
-you stay for free.<Close><End of Block>
+Since you're the ones
+who saved our town,
+you can stay for free.<Close><End of Block>
 <TextBlock 14 w:20 h:3>
 Stay here?<Delay 10>
 <Opcode 1 255>    Yes

@@ -75,14 +75,14 @@ Input activation code.<Close><End of Block>
     Retry<Close><End of Block>
 <TextBlock 19 w:46 h:1>
 Main system activated.<Close><End of Block>
-<TextBlock 20 w:20 h:1>
-Code error<Close><End of Block>
-<TextBlock 21 w:20 h:1>
-Code error<Close><End of Block>
-<TextBlock 22 w:20 h:1>
-Code error<Close><End of Block>
-<TextBlock 23 w:20 h:1>
-Code error<Close><End of Block>
+<TextBlock 20 w:22 h:1>
+Code error.<Close><End of Block>
+<TextBlock 21 w:22 h:1>
+Code error.<Close><End of Block>
+<TextBlock 22 w:22 h:1>
+Code error.<Close><End of Block>
+<TextBlock 23 w:22 h:1>
+Code error.<Close><End of Block>
 <TextBlock 24 w:50 h:4>
 The positions of these
 blocks seem to correspond

@@ -99,10 +99,10 @@ Now that's the Agnes
 I know!"<Close><End of Block>
 <TextBlock 21 w:44 h:1>
 Margie, I am so glad.<Close><End of Block>
-<TextBlock 22 w:52 h:3>
+<TextBlock 22 w:48 h:3>
 Bart
 "It's been a while since
-the last time I was here."<Close><End of Block>
+we were last here, huh?"<Close><End of Block>
 <TextBlock 23 w:50 h:2>
 Bart
 "...?<New>
@@ -127,7 +127,7 @@ You've been through
 enough, okay?"<Close><End of Block>
 <TextBlock 28 w:52 h:3>
 Margie
-"...If you are trying to
+"...If you're trying to
 make me cry, you'll fail."<Close><End of Block>
 <TextBlock 29 w:46 h:3>
 Margie
@@ -146,11 +146,11 @@ break down and cry..."<Close><End of Block>
 Bart
 "Yeah, you're right...<New>
 That's just the way
-she has always been.<New>
+she's always been.<New>
 For all her talk, she
 understands her position
 well...<New>
-Maybe there are a few
+Maybe there're a few
 things I could learn
 from her, too."<Close><End of Block>
 <TextBlock 32 w:42 h:2>
@@ -170,10 +170,10 @@ It's embarrassing!"<Close><End of Block>
 Margie
 "But to me, Bart hasn't
 changed much since then."<Close><End of Block>
-<TextBlock 36 w:46 h:4>
+<TextBlock 36 w:36 h:4>
 Bart
 "What!?
-You mean that you think
+You trying to say
 I'm still a kid!?"<Close><End of Block>
 <TextBlock 37 w:42 h:3>
 Margie
@@ -264,15 +264,14 @@ about a lot of things...<New>
 Sometimes I don't
 understand what he's
 talking about, either."<Close><End of Block>
-<TextBlock 52 w:46 h:4>
+<TextBlock 52 w:48 h:3>
 Bart
-"...Hah!
-Forcing them to fly
-together...?<New>
-It would be less
-bothersome if they
-could fly on their own,
-don't you think, Fei?"<Close><End of Block>
+"...I mean,
+whatever, but...<New>
+Having it take two of
+them to fly like that...<New>
+It'd be pretty
+annoying,<Delay 5> right, Fei?"<Close><End of Block>
 <TextBlock 53 w:54 h:4>
 Margie
 "Bart!
@@ -291,9 +290,8 @@ did we?<New>
 You're really supposed to
 go through some checks
 before you can see it...<New>
-But this time I think it
-will be alright if I make
-a special exception."<Close><End of Block>
+but I'll make an exception
+and show it to you!"<Close><End of Block>
 <TextBlock 56 w:28 h:2>
 Fei
 "Lady Sophia?"<Close><End of Block>
@@ -331,90 +329,94 @@ and to express our joy to
 heaven, let us finish
 singing our hymn."<Close><End of Block>
 <TextBlock 62 w:48 h:3>
-(...You must have
-been through so much
+(...Oh, what she
+must've gone through
 at the Royal Capital...)<Close><End of Block>
-<TextBlock 63 w:46 h:2>
-No unauthorized persons
-   beyond this point.<Close><End of Block>
-<TextBlock 64 w:44 h:3>
-To come here when you
-are so young is a sign
-of your interest!<Close><End of Block>
-<TextBlock 65 w:14 h:1>
-( ... )<Close><End of Block>
-<TextBlock 66 w:34 h:3>
+<TextBlock 63 w:46 h:3>
+The general public are
+asked to refrain from 
+proceeding any farther.<Close><End of Block>
+<TextBlock 64 w:46 h:3>
+I'm intrigued that ones
+so young would come to
+a place like this.<Close><End of Block>
+<TextBlock 65 w:10 h:1>
+(...)<Close><End of Block>
+<TextBlock 66 w:24 h:3>
 Hey, hey!
-Don't go up there
-like that!<Close><End of Block>
-<TextBlock 67 w:54 h:3>
+You can't go
+up there.<Close><End of Block>
+<TextBlock 67 w:54 h:4>
 I moved from another
 town to live here...<New>
-But they say some young
-people do the opposite
-and move away from here.<New>
-I wonder if it is because
-they want something more
-than peace in their hearts?<New>
-I guess that is just how
+But it seems the young
+folk are doing the opposite
+and moving away from here.<New>
+I wonder if it's because
+there are things they want
+to pursue even more than
+peace of mind?<New>
+I guess that's just how
 young people are today!<Close><End of Block>
 <TextBlock 68 w:58 h:3>
 My husband was a soldier in
 the Royal Capital's army...<New>
 But he died a few years back,
-near the border of Kislev.<New>
-Since then, I have been
+near the border with Kislev.<New>
+Since then, I've been
 coming here every year on
 the anniversary of his death.<Close><End of Block>
 <TextBlock 69 w:56 h:3>
 I live in the Royal Capital,<Delay 30>
-but my oh my...<Delay 30>, this was
+but my oh my...<Delay 30>this was
 definitely worth the trip!<New>
-I never knew it was
-so beautiful!<Close><End of Block>
-<TextBlock 70 w:54 h:1>
-Who's that guy you're with?<New>
-What's his problem...!?<New>
-(...<Delay 30> 'castle fetish'!?)<Close><End of Block>
-<TextBlock 71 w:28 h:4>
+I had no idea it was
+so impressive!<Close><End of Block>
+<TextBlock 70 w:44 h:2>
+What's that guy you're
+with all about?<New>
+Oh!<Delay 10> Could that be it?<New>
+(...<Delay 10>He's a castle
+enthusiast!)<Close><End of Block>
+<TextBlock 71 w:54 h:4>
 Fei
 "Huh?<Delay 30>
-Ah... Maybe...
-<Delay 30>I think."<Close><End of Block>
+Um...no...<Delay 30>
+At least I don't think so."<Close><End of Block>
 <TextBlock 72 w:56 h:3>
 I live in the Royal Capital,<Delay 30>
-but my oh my...<Delay 30>, this was
+but my oh my...<Delay 30>this was
 definitely worth the trip!<New>
-I never knew it was
-so beautiful!<Close><End of Block>
-<TextBlock 73 w:36 h:3>
+I had no idea it was
+so impressive!<Close><End of Block>
+<TextBlock 73 w:30 h:3>
 Bart
-(Hmm...
-Yes you're right!)<Close><End of Block>
-<TextBlock 74 w:38 h:2>
-Fatima Castle is no
-comparison to this.<Close><End of Block>
+"(Yep.<Delay 10>
+You're right!)"<Close><End of Block>
+<TextBlock 74 w:48 h:2>
+Fatima Castle is nothing
+compared to this.<Close><End of Block>
 <TextBlock 75 w:40 h:3>
 Bart
-(Hmm...
-Yes you're...<Delay 60> What!)<Close><End of Block>
+"(Yep.<Delay 10>
+You're ri<--><Delay 30> What!?)"<Close><End of Block>
 <TextBlock 76 w:42 h:4>
 Bart
-"Hey you!<Delay 30>
-Are you putting
-down Fatima Castle!?"<Close><End of Block>
-<TextBlock 77 w:50 h:1>
-No, I didn't mean that...<Close><End of Block>
-<TextBlock 78 w:34 h:1>
-Who is this guy!?<Close><End of Block>
-<TextBlock 79 w:30 h:2>
+"Why you!<Delay 30>
+You got a problem
+with Fatima Castle!?"<Close><End of Block>
+<TextBlock 77 w:34 h:2>
+Oh,<Delay 5> no,<Delay 5> I didn't
+mean to suggest<--><Close><End of Block>
+<TextBlock 78 w:50 h:1>
+Wh-What's with this guy!?<Close><End of Block>
+<TextBlock 79 w:28 h:2>
 Fei
-"H, hey! Bart!"<Close><End of Block>
-<TextBlock 80 w:50 h:4>
+"H-Hey, Bart!"<Close><End of Block>
+<TextBlock 80 w:48 h:3>
 Bart
-"Don't you be dissin' me.
-You don't even know
-who you're looking at!"<Close><End of Block>
+"Now you listen to me,
+believe it or not I'm<-->"<Close><End of Block>
 <TextBlock 81 w:40 h:3>
 Bart
 "Damn... Never mind,
@@ -422,42 +424,42 @@ just forget it!"<Close><End of Block>
 <TextBlock 82 w:50 h:4>
 I'm on a pilgrimage all
 over this country, and
-recently traveled to the
-Royal Capital area.<New>
+recently traveled around
+the Royal Capital area.<New>
 I just got back here a
 few days ago, but will
-probably be leaving here
+probably be setting out
 again in a few days time.<Close><End of Block>
 <TextBlock 83 w:46 h:3>
 I want to see with my
-own eyes what will
-become of this country.<Close><End of Block>
-<TextBlock 84 w:64 h:5>
-Preparations should be starting
-near the border of this Sect's
-country for the charge by
-the Royal Capital's army.<New>
-But a miscalculated move
-directed on the enemy is
-certain to backfire
-on us, so we'll be taking covert
-action for a while.<New>
-I'm on my way there now, but I
-thought I'd offer a prayer
-before I go.<Close><End of Block>
+own eyes what'll become
+of this country.<Close><End of Block>
+<TextBlock 84 w:58 h:5>
+Preparation should be getting
+underway around about now,
+in anticipation of the Royal
+Capital Army's attack near
+the Nisan borderline.<New>
+But since provoking them
+unnecessarily could backfire,
+we'll be taking action from
+behind closed doors for now.<New>
+I plan to go there too,
+but I thought I'd offer
+a prayer first.<Close><End of Block>
 <TextBlock 85 w:54 h:4>
 As a matter of fact, the
 guy next to me and I were
 born here.<New>
 Years ago, we both got
 tired of the peaceful but
-boring life here, so we
-ran away from home.<New>
+boring atmosphere here, so
+we ran away from home.<New>
 But we both ended up
 enlisting in the army.<New>
-It's not that we have any
+It's not like we have any
 particularly happy memories
-or whatever here...<New>
-it's just that, after all,
+of here, but...<New>
+After all's said and done,
 this is the land of our
 birth, so, y'know...<Close><Close><End of Block>

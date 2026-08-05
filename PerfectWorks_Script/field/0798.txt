@@ -67,7 +67,7 @@ The royal brothers and their
 wives oversaw many prosperous
 reigns and eras.<New>
 I'm looking forward to the
-day when, as the holy mother
+day when, as the Holy Mother
 of the Nisan Sect,<New>
 you will take your place on
 the throne as Bartholomew's
@@ -87,14 +87,14 @@ the best friendship."<Close><End of Block>
 Agnes
 "Well Marguerite, at the
 rate that you are maturing
-into a beautiful woman...<New>
-...I don't think Bart will
-be able to ignore you much
-longer."<Close><End of Block>
-<TextBlock 17 w:34 h:3>
+into a beautiful woman,<New>
+I don't think Bart will
+be able to ignore you for
+much longer."<Close><End of Block>
+<TextBlock 17 w:40 h:3>
 Margie
-"Stop it, <Delay 30>you're
-embarrassing me!"<Close><End of Block>
+"Eek, <Delay 30>don't say that
+embarrassing stuff!"<Close><End of Block>
 <TextBlock 18 w:36 h:4>
 Sigurd
 "I'll complete the
@@ -122,9 +122,9 @@ be an army advancing from
 the Royal Capital, the
 Sect's representatives
 have been in discussion.<Close><End of Block>
-<TextBlock 23 w:30 h:3>
+<TextBlock 23 w:28 h:3>
 Bart
-"What have they
+"What've they
 come up with?"<Close><End of Block>
 <TextBlock 24 w:54 h:4>
 For now, they just plan to
@@ -136,13 +136,14 @@ about what's going on.<Close><End of Block>
 <TextBlock 25 w:40 h:2>
 Bart
 "That's reassuring."<Close><End of Block>
-<TextBlock 26 w:50 h:3>
+<TextBlock 26 w:52 h:3>
 Yes.<New>
-However the residents are
-starting to feel uneasy.<New>
-People are starting to
-take refuge up north
-in the mountains.<Close><End of Block>
+But on the other hand,
+the residents are starting
+to show signs of unease.<New>
+People have started
+evacuating deep into the
+mountains to the north.<Close><End of Block>
 <TextBlock 27 w:38 h:2>
 Bart
 "Can't blame them."<Close><End of Block>
@@ -174,9 +175,9 @@ Mother's return.<Close><End of Block>
 <TextBlock 34 w:20 h:1>
 ...<Delay 30>O-Oh!!<Close><End of Block>
 <TextBlock 35 w:42 h:1>
-N-No problems, sir!!<Close><End of Block>
-<TextBlock 36 w:36 h:1>
-No problems, sir!!<Close><End of Block>
+N-Nothing to report!!<Close><End of Block>
+<TextBlock 36 w:38 h:1>
+Nothing to report!!<Close><End of Block>
 <TextBlock 37 w:30 h:3>
 Board the ship?<Delay 10>
 <Opcode 1 255>    Yes
@@ -184,19 +185,19 @@ Board the ship?<Delay 10>
 <TextBlock 38 w:52 h:3>
 Preparations for the
 campaign are done <--> just
-finishing one final check.<New>
+completing one final check.<New>
 The Young Master is
 taking Marguerite to
-Nisan.<Close><End of Block>
+Nisan!<Close><End of Block>
 <TextBlock 39 w:40 h:1>
 Everything is ready.<Close><End of Block>
-<TextBlock 40 w:36 h:1>
-No problems, sir!!<Close><End of Block>
-<TextBlock 41 w:36 h:1>
-No problems, sir!!<Close><End of Block>
+<TextBlock 40 w:38 h:1>
+Nothing to report!!<Close><End of Block>
+<TextBlock 41 w:38 h:1>
+Nothing to report!!<Close><End of Block>
 <TextBlock 42 w:46 h:2>
 The sisters are waiting
-in the cathedral.<Close><End of Block>
+at the cathedral.<Close><End of Block>
 <TextBlock 43 w:26 h:1>
 Welcome back.<Close><End of Block>
 <TextBlock 44 w:26 h:1>

@@ -607,13 +607,11 @@ to us, Commander?"<Close><End of Block>
 <TextBlock 121 w:22 h:2>
 Myyah
 "You four?"<Close><End of Block>
-<TextBlock 122 w:34 h:3>
+<TextBlock 122 w:52 h:4>
 Dominia
-"Rest assured, we
-will give our all<New>
-to meet the
-Commander's
-expectations."<Close><End of Block>
+"Rest assured, we will
+give our all to meet the
+Commander's expectations."<Close><End of Block>
 <TextBlock 123 w:42 h:4>
 Cherubina
 "So, you get well,
@@ -1369,10 +1367,10 @@ What!?<Close><End of Block>
 <TextBlock 273 w:54 h:4>
 Karellen
 "Cain, the one obstacle to
-the fulfilment of 'my'
+the fulfillment of 'my'
 goal, is no more.<New>
 Possessing the absolute
-authority over we 'humans'
+authority over us 'humans'
 that he did, he was an
 obstacle to me.<New>
 The only one who could

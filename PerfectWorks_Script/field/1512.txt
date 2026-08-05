@@ -147,7 +147,7 @@ the Queen...?"<Close><End of Block>
 <Chu-Chu>
 "Alright! <Chu-Chu>'s
 going chu help too!"<Close><End of Block>
-<TextBlock 26 w:52 h:4>
+<TextBlock 26 w:54 h:4>
 <Chu-Chu>
 "Nuh-uh... <Chu-Chu>'s not
 a good girl.<Delay 20> I'm at that

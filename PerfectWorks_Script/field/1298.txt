@@ -94,9 +94,9 @@ Then everyone<Delay 5>...<Delay 5>"<Close><End of Block>
 Rico
 "Looks like they finished
 patching up Fei."<Close><End of Block>
-<TextBlock 20 w:36 h:3>
+<TextBlock 20 w:40 h:3>
 Rico
-"Will we go to the
+"Should we go to the
 infirmary, then?"<Close><End of Block>
 <TextBlock 21 w:24 h:3>
 Rico

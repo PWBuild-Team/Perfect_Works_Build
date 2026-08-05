@@ -16,8 +16,9 @@ How could you!?"<Close><End of Block>
 Bart
 "It can't be<Delay 5>...<Delay 5>
 brainwashing!?"<Close><End of Block>
-<TextBlock 6 w:38 h:1>
-Not brainwashing...<Close><End of Block>
+<TextBlock 6 w:42 h:2>
+Karellen
+"Not brainwashing..."<Close><End of Block>
 <TextBlock 7 w:34 h:3>
 Citan
 "Unification with

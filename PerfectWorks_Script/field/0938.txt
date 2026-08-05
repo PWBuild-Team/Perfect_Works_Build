@@ -98,12 +98,11 @@ But...<Delay 10>he's necessary,
 for Carl.<Delay 10> He's the very
 meaning of Carl's
 existence."<Close><End of Block>
-<TextBlock 16 w:46 h:4>
+<TextBlock 16 w:54 h:4>
 Myyah
-"In any case, I should
-thank you.<New>
-You did<Delay 10> help me
-once, didn't you?"<Close><End of Block>
+"Ah, yes.<Delay 10> That aside, I
+really should thank you.<Delay 10>
+You saved her, didn't you?"<Close><End of Block>
 <TextBlock 17 w:10 h:2>
 Grahf
 "..."<Close><End of Block>

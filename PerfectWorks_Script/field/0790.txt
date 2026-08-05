@@ -1,45 +1,49 @@
-<TextBlock 1 w:42 h:2>
-I alternate gate duty
-with the guy outside.<Close><End of Block>
-<TextBlock 2 w:52 h:3>
-You people...<Delay 30>
-You're not residents here.<New>
-I know from your aura.<Delay 30>
-I too, once lived near
-the Royal Capital.<New>
-I swindled people using
-fake goods when I lived
-there.<New>
-I came to hate doing
-those things...<New>
-Then I heard of this place
-from some pilgrims.<New>
-I alternate gate duty
-with the guy outside but,
-it's pretty interesting.<New>
-Everyday I see the
-pilgrim's faces and get
-impressions, like<New>
-this person is very
-troubled, <Delay 30>...and such.<New>
-I used to use that
-ability to get money
-from people...<New>
-Now I'd never think of 
-doing that.<Close><End of Block>
-<TextBlock 3 w:52 h:4>
-I'm from the royal army
+<TextBlock 1 w:52 h:2>
+Me and the guy out front
+take turns with gate duty.<Close><End of Block>
+<TextBlock 2 w:60 h:3>
+You all...<Delay 30>
+You're not residents
+here, huh?<New>
+I can tell from the vibes.<Delay 30>
+I used to live in a town
+near the Royal Capital too.<New>
+To tell the truth, I was
+running scams when I lived
+there, though.<New>
+I eventually grew to hate
+doing that stuff...<New>
+It was then that I heard
+talk of this place from a
+pilgrim who came to town.<New>
+Now, me and the guy out front
+take turns with gate duty, but
+it's a pretty interesting job.<New>
+Every day, I guess so many
+things when I see the faces
+of all the pilgrims!<New>
+'Ah, this person bears
+a heavy burden'...<Delay 30>
+that kind of thing.<New>
+In the old days, keeping my
+eye on people that way was
+what earned me money, but...<New>
+I'd never think of trying
+to do that again now.<Close><End of Block>
+<TextBlock 3 w:50 h:4>
+I came here from the
+Royal Capital Army that's
 stationed down south.<New>
-I may work for the current
-government but my heart
-belongs to Nisan. I cannot
-desert it.<New>
-I hear there are lots of
-people like me who are
-gathering here.<New>
-The residents here are
-kindly renting me this
-room...<New>
-Now I'm waiting here
-until something starts
-happening.<Close><Close><End of Block>
+Although I work for the
+current government, on an
+emotional level I can't
+forsake Nisan.<New>
+I hear that lots of other
+people besides me are
+gathering here too.<New>
+So, the residents here
+are kindly renting me
+this room...<New>
+Now I'm just standing by
+until there's some kind
+of development.<Close><Close><End of Block>

@@ -30,82 +30,87 @@ Bart
 on all of you!<New>
 He's a dead man the
 next time I see him!"<Close><End of Block>
-<TextBlock 7 w:34 h:1>
-How's Breidablik?<Close><End of Block>
-<TextBlock 8 w:50 h:4>
-It's under martial law so
-it's gotten progressively
+<TextBlock 7 w:28 h:2>
+How are things
+in Breidablik?<Close><End of Block>
+<TextBlock 8 w:52 h:4>
+It's under martial law, so
+it's getting progressively
 harder to contact our
 agents in the city.<New>
-According to the info we
-finally got just a while
+According to the info
+we got just a short time
 ago, there's no major
-activity.<New>
-We think they've found
-some reason to attack and
-are getting ready now..."<Close><End of Block>
-<TextBlock 9 w:44 h:1>
-The possiblity exists.<Close><End of Block>
-<TextBlock 10 w:54 h:3>
-However I've heard that
-Shakhan's power base in the
-Capital is eroding away.<New>
-He's probably weaker than
-we thought.<Close><End of Block>
-<TextBlock 11 w:50 h:2>
-Anyway, it's happened and
-we're committed now.<Close><End of Block>
-<TextBlock 12 w:40 h:1>
-I feel the same way.<Close><End of Block>
-<TextBlock 13 w:52 h:2>
-Now that I think about it,
+activity at present.<New>
+But we think they're
+getting ready to find
+some pretext to invade
+this place..."<Close><End of Block>
+<TextBlock 9 w:40 h:1>
+That's a possiblity.<Close><End of Block>
+<TextBlock 10 w:58 h:3>
+However, unsurprisingly under
+Shakhan's regime, corruption
+is rife even in the Capital.<New>
+Things may be more fragile
+than we thought.<Close><End of Block>
+<TextBlock 11 w:42 h:3>
+In any case, now that
+it's come to this we
+can't back down.<Close><End of Block>
+<TextBlock 12 w:18 h:1>
+I concur.<Close><End of Block>
+<TextBlock 13 w:38 h:2>
+When I look back on
 twelve years ago...<Close><End of Block>
-<TextBlock 14 w:52 h:4>
+<TextBlock 14 w:54 h:4>
 Ever since the coup d'etat
-by Shakhan, there's been
-a lot of tension in our
-country.<New>
-With Marguerite back now,
-I agree that the former
-dynasty should be returned
-to power.<Close><End of Block>
-<TextBlock 15 w:56 h:2>
-Everyone feels the same
-but we must look at reality.<New>
-Do we have the strength to
-do that now?<Close><End of Block>
-<TextBlock 16 w:52 h:6>
-Now I hear Bartholomew,
-the one who brought back
-Marguerite, has started
-moving around out in the
-open. I'm certain Shakhan
-is preparing a large army.<Close><End of Block>
-<TextBlock 17 w:42 h:2>
-Shakhan may be coming
-here soon...<Close><End of Block>
-<TextBlock 18 w:10 h:1>
- ... <Close><End of Block>
-<TextBlock 19 w:50 h:2>
-What's gonna happen to us
-if he captures this area?<Close><End of Block>
-<TextBlock 20 w:48 h:1>
-Will everyone be killed?<Close><End of Block>
-<TextBlock 21 w:52 h:5>
+instigated by that man,
+Shakhan, our land has been
+put under enormous strain.<New>
+Now that Marguerite has
+returned, I share the
+desire for reinstatement
+of the former royal family.<Close><End of Block>
+<TextBlock 15 w:58 h:2>
+We all feel the same way, but
+we must look at the facts.<New>
+Do we really have that kind
+of power right now?<Close><End of Block>
+<TextBlock 16 w:48 h:5>
+Now I hear that Master
+Bartholomew made quite
+a spectacle of himself
+while securing the
+return of Marguerite.<New>
+There's no doubt Shakhan
+will be preparing a
+large army.<Close><End of Block>
+<TextBlock 17 w:36 h:3>
+And he may turn
+his attention here
+at last...<Close><End of Block>
+<TextBlock 18 w:18 h:1>
+.........<Close><End of Block>
+<TextBlock 19 w:46 h:2>
+What'll happen to us if
+he occupies this area?<Close><End of Block>
+<TextBlock 20 w:44 h:1>
+Will we all be killed?<Close><End of Block>
+<TextBlock 21 w:50 h:4>
 I seriously doubt that.<Delay 30>
-Even he won't want to risk
-provoking any kind of
-outrage from the citizens.<New>
-Especially in this
-situation, he will
-definitely want to avoid
-putting himself in a
-compromising situation.<Close><End of Block>
-<TextBlock 22 w:50 h:2>
-We should set up a hiding
-place just in case...<Close><End of Block>
-<TextBlock 23 w:28 h:1>
-Maybe there...<Close><End of Block>
+Even he surely wouldn't
+want to provoke animosity
+from the citizens.<New>
+Given the situation, he
+won't want to compromise
+his own standing.<Close><End of Block>
+<TextBlock 22 w:60 h:3>
+We should begin preparation
+and checking of the evacuation
+site, just in case...<Close><End of Block>
+<TextBlock 23 w:36 h:1>
+Oh, that place...?<Close><End of Block>
 <TextBlock 24 w:48 h:4>
 Sigurd
 "I went to the tool shop
@@ -144,8 +149,8 @@ and I was the fleet
 commander."<Close><End of Block>
 <TextBlock 30 w:46 h:4>
 Bart
-"Anyway...forget those
-old stories.<Delay 30>
+"Anyway...enough with
+the old stories.<Delay 30>
 We should get started."<Close><End of Block>
 <TextBlock 31 w:28 h:4>
 Bart
@@ -189,7 +194,7 @@ the defense force.<New>
 The problem is how to deal
 with Geburah while we're
 doing that...<New>
-They will most likely move
+They'll most likely move
 at Shakhan's request.
 They're not just gonna sit
 by and watch quietly."<Close><End of Block>
@@ -226,14 +231,14 @@ bait?"<Close><End of Block>
 <TextBlock 41 w:14 h:2>
 Fei
 "Doc!?"<Close><End of Block>
-<TextBlock 42 w:50 h:4>
+<TextBlock 42 w:46 h:4>
 Sigurd
 "Shakhan is very
 sensitive to Nisan
 and Kislev's actions.<New>
 If Nisan starts moving
-he will probably leave
-it up to Geburah, but..."<Close><End of Block>
+he'll probably leave it
+up to Geburah, but..."<Close><End of Block>
 <TextBlock 43 w:42 h:4>
 Citan
 "Of course, doing
@@ -352,9 +357,9 @@ Bart
 Anyway, Citan, d'you
 think he could strike
 our Gear forces?"<Close><End of Block>
-<TextBlock 64 w:50 h:3>
+<TextBlock 64 w:52 h:3>
 Citan
-"It is not a problem.<New>
+"It will not be a problem.<New>
 Even with Vanderkam, we
 have enough forces left
 to pull off the feint.<New>
@@ -415,7 +420,7 @@ Margie
 Sister, are you wounded?"<Close><End of Block>
 <TextBlock 77 w:54 h:4>
 Sister Agnes
-"I'm fine. <Delay 30>
+"I'm fine.<Delay 30>
 Marguerite and Bartholomew,
 I'm sorry..."<Close><End of Block>
 <TextBlock 78 w:48 h:3>

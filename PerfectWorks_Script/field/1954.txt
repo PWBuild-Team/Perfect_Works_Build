@@ -108,7 +108,7 @@ Lacan
 Lighten up, man<Delay 5>...<Opcode 2 120><Close><End of Block>
 <TextBlock 22 w:50 h:4>
 Karellen
-"Despite appearances,<New>
+"Believe it or not,<New>
 in the old days there
 were times when I went
 too far and did some

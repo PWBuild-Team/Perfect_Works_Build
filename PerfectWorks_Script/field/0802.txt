@@ -104,7 +104,7 @@ Citan
 Margie
 "I don't know...<New>
 But my grandmother
-might have known
+might've known
 about it..."<Close><End of Block>
 <TextBlock 23 w:52 h:3>
 Margie

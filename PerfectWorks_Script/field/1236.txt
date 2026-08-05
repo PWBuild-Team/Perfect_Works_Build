@@ -215,7 +215,7 @@ see very well. But it
 looks like...<Delay 10>a battle!?"<Close><End of Block>
 <TextBlock 46 w:34 h:4>
 Fei
-"Will we try to
+"Should we try to
 go to the bridge,
 too?"<Close><End of Block>
 <TextBlock 47 w:14 h:2>

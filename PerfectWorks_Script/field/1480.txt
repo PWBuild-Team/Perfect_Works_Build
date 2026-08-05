@@ -93,12 +93,12 @@ Billy
 Shevat...<Delay 20>
 The answer lies here."<Close><End of Block>
 <TextBlock 17 w:48 h:4>
-Girl
+Maria
 "This is the dock floor,
 located in the lowest
 layer of Shevat."<Close><End of Block>
 <TextBlock 18 w:38 h:4>
-Girl
+Maria
 "Excuse me for
 earlier.<Delay 20> My name is
 Maria Balthasar."<Close><End of Block>

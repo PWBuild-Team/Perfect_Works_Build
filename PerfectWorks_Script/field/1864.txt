@@ -49,7 +49,7 @@ have to release
 the door lock..."<Close><End of Block>
 <TextBlock 12 w:40 h:3>
 Fei
-"Will we take a
+"Should we take a
 look around nearby?"<Close><End of Block>
 <TextBlock 13 w:32 h:2>
 Door lock system

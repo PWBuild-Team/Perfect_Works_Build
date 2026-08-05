@@ -1000,17 +1000,17 @@ I'm here by choice, because
 I myself felt something
 wasn't right...<Delay 10>
 So don't worry about me."<Close><End of Block>
-<TextBlock 154 w:52 h:4>
+<TextBlock 154 w:54 h:4>
 Fei
 "Well, there's nothing
 else for it <--> let's try
 to go there.<New>
 We need to find out the
 truth <--> about the records
-we found in the Church HQ,<New>
+you found in the Church HQ,<New>
 and about what Billy's
 father told us.<New>
-Plus...
+Plus...<Delay 10>
 I must go to Shevat for
 my own personal reasons."<Close><End of Block>
 <TextBlock 155 w:48 h:4>

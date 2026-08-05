@@ -20,8 +20,8 @@ of their kind."<Close><End of Block>
 <TextBlock 5 w:48 h:4>
 Elly
 "If <Chu-Chu> saw this,
-she'd surely faint
-out of happiness!"<Close><End of Block>
+she'd surely faint from
+happiness!"<Close><End of Block>
 <TextBlock 6 w:42 h:3>
 Bart
 "Ha ha!<Delay 20>

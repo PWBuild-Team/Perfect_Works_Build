@@ -63,15 +63,15 @@ Fei
 "Let's go back!<Delay 10>
 We have to help
 your father!"<Close><End of Block>
-<TextBlock 17 w:48 h:4>
+<TextBlock 17 w:50 h:4>
 Elly
 "We can't!<Delay 10>
 Going now will only
 get you arrested.<New>
-My parents will be fine.
-They both have countless
-military honors with
-the secret service.<New>
+My parents will be fine,
+on account of my father's
+countless military honors
+with the secret service.<New>
 If it comes to it, after
 everyone is rescued I'll
 turn myself in and that

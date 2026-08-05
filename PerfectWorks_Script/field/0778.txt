@@ -1,29 +1,28 @@
 <TextBlock 1 w:32 h:2>
 Bart
 "Are you ready?"<Close><End of Block>
-<TextBlock 2 w:46 h:4>
+<TextBlock 2 w:44 h:4>
 Bart
 "I'll be waiting here,
-so call me when you are
+so call me when you're
 ready to go."<Close><End of Block>
 <TextBlock 3 w:46 h:4>
 Sigurd
-"The cave Shakhan is
+"The cave Shakhan's
 heading for is directly
 west of Nisan.<New>
 It's possible the
 remainder of his forces
 are gathering there."<Close><End of Block>
-<TextBlock 4 w:50 h:4>
+<TextBlock 4 w:52 h:4>
 Sigurd
 "There's still some time
-until we leave. Why don't
-you make preparations?"<Close><End of Block>
-<TextBlock 5 w:32 h:4>
+until we leave.<Delay 5> Don't rush
+making your preparations."<Close><End of Block>
+<TextBlock 5 w:48 h:3>
 Sigurd
-"I should have
-been honest with
-him sooner..."<Close><End of Block>
+"I should've been honest
+with him sooner..."<Close><End of Block>
 <TextBlock 6 w:36 h:4>
 Citan
 "It is best not to
@@ -59,24 +58,23 @@ this day for a long time."<Close><End of Block>
 <TextBlock 11 w:26 h:2>
 Margie
 "Be careful."<Close><End of Block>
-<TextBlock 12 w:42 h:4>
+<TextBlock 12 w:48 h:4>
 Margie
-"Bart told me.
-You're helping out
-with the plan, too?<New>
-So you're caught up
-in all of this now,
-as well?"<Close><End of Block>
-<TextBlock 13 w:40 h:4>
+"I heard about it from
+Bart.<Delay 5> You'll take part
+in the operation, too?<New>
+You've gotten really
+caught up in this, huh?"<Close><End of Block>
+<TextBlock 13 w:52 h:4>
 Fei
-"I've come this far,
-so I might as well
-stay till the end."<Close><End of Block>
-<TextBlock 14 w:30 h:4>
+"Well, I've come this far,
+so I might as well see it
+through to the end."<Close><End of Block>
+<TextBlock 14 w:34 h:4>
 Margie
-"Thanks.
-I know you'll
-do a good job!"<Close><End of Block>
+"Thanks.<Delay 5>
+I just know it'll
+go smoothly!"<Close><End of Block>
 <TextBlock 15 w:52 h:2>
 Agnes
 "Be careful, Bartholomew."<Close><End of Block>
@@ -87,22 +85,22 @@ Bartholomew...<New>
 I'm so happy to see
 you two getting along
 so well."<Close><End of Block>
-<TextBlock 17 w:42 h:4>
+<TextBlock 17 w:52 h:4>
 Margie
 "Sister, please stop!<Delay 30>
-You're embarrassing
-me again."<Close><End of Block>
+You're about to say weird
+stuff again, aren't you!?"<Close><End of Block>
 <TextBlock 18 w:50 h:3>
 Agnes
-"It's not embarrassing.<New>
+"It's not weird!<New>
 Since long ago, the Nisan
 mothers and the kings of
 Av have always<-->"<Close><End of Block>
 <TextBlock 19 w:40 h:3>
 Margie
-"Hey!<Delay 30>
+"Noooo!<Delay 30>
 Enough about this...<New>
-Ah...!<Delay 30>
+Agh...!<Delay 30>
 Ouch ouch ouch!"<Close><End of Block>
 <TextBlock 20 w:26 h:4>
 Bart
@@ -186,24 +184,25 @@ the sea!"<Close><End of Block>
 "So I wanna go chu!"<Delay 10>
 <Opcode 1 255>    I guess it's okay
     Sorry!<Close><End of Block>
-<TextBlock 36 w:52 h:3>
-Traveling?
-Surely it is tiring.<New>
-You're going to that inn?
-I'm sure they'll have good
-food for you.<Close><End of Block>
-<TextBlock 37 w:48 h:2>
-We work in the cathedral
-over there.<Close><End of Block>
+<TextBlock 36 w:44 h:4>
+Are you travelers?
+You must be tired.<New>
+Could you go to that
+inn across the way?
+I'm sure they'll treat
+you to something nice.<Close><End of Block>
+<TextBlock 37 w:44 h:2>
+Believe it or not, we
+work in the cathedral.<Close><End of Block>
 <TextBlock 38 w:40 h:2>
 Fei
 "...So you're nuns?"<Close><End of Block>
-<TextBlock 39 w:56 h:3>
-Yes, that is correct.<New>
-We are wandering the land...<New>
-searching for the
-connection between Nisan
-and the outside world.<Close><End of Block>
+<TextBlock 39 w:54 h:4>
+Well, more or less.<New>
+But we wander across the
+country...searching for
+the relevance of Nisan's
+teachings in today's world.<Close><End of Block>
 <TextBlock 40 w:48 h:3>
 Sigurd
 "Whenever I come here it
@@ -225,16 +224,16 @@ Sigurd
 <TextBlock 44 w:14 h:2>
 Bart
 "Yeah."<Close><End of Block>
-<TextBlock 45 w:46 h:4>
+<TextBlock 45 w:42 h:4>
 Bart
 "Sig...<New>
-What's up with you and
-that Geburah officer?
 What's the connection
-between you and him...?<New>
-You know,<Delay 30> you sure know
-a lot about Geburah for
-some reason!"<Close><End of Block>
+between you and that
+Geburah officer?<New>
+You sure seem to be
+awfully well informed
+about him...<Delay 5>
+and about Geburah."<Close><End of Block>
 <TextBlock 46 w:30 h:3>
 Sigurd
 "...Alright.
@@ -399,9 +398,9 @@ Sigurd
 use to refer to us who
 live on the surface.<New>
 As I said before, they use
-such 'surface dwellers' or
-'land dwellers' as manual
-labor."<Close><End of Block>
+such 'surface dwellers'
+as manual labor in the
+national administration."<Close><End of Block>
 <TextBlock 74 w:54 h:4>
 Sigurd
 "Those in the workforce
@@ -409,7 +408,7 @@ range from industrial
 workers to soldiers.<New>
 Solaris gathers that
 workforce from among the
-land dwellers.<New>
+surface dwellers.<New>
 Jobs are divided up
 according to who's most
 suitable. Sometimes people
@@ -491,16 +490,16 @@ abilities...<New>
 after graduating, he rose
 through the ranks with
 unparalleled speed."<Close><End of Block>
-<TextBlock 86 w:54 h:3>
+<TextBlock 86 w:48 h:3>
 Sigurd
 "That man had a singular
 vision.<New>
 And he gathered those of
 like mind in order to
 realize that vision.<New>
-Even land dwellers, if they
-had talent, were brought
-into the army."<Close><End of Block>
+Even surface dwellers,
+if they had talent, were
+brought into the army."<Close><End of Block>
 <TextBlock 87 w:42 h:3>
 Bart
 "So you two were

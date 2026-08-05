@@ -5,7 +5,7 @@ didn't leave because he
 couldn't bear the war.<Delay 15><New>
 I know<Delay 5>...<Delay 5>he'll be back.<Close><End of Block>
 <TextBlock 2 w:52 h:3>
-The war will end, grandma.
+The war will end, Grandma.
 It's almost over<Delay 5>...<Delay 5> So
 don't say 'before I die'.'<Close><End of Block>
 <TextBlock 3 w:52 h:4>

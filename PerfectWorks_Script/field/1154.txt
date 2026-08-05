@@ -83,13 +83,11 @@ to us, Commander?"<Close><End of Block>
 <TextBlock 20 w:22 h:2>
 Myyah
 "You four?"<Close><End of Block>
-<TextBlock 21 w:34 h:3>
+<TextBlock 21 w:52 h:4>
 Dominia
-"Rest assured, we
-will give our all<New>
-to meet the
-Commander's
-expectations."<Close><End of Block>
+"Rest assured, we will
+give our all to meet the
+Commander's expectations."<Close><End of Block>
 <TextBlock 22 w:42 h:4>
 Cherubina
 "So, you get well,

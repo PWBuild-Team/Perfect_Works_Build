@@ -5,28 +5,30 @@ Bart
 Bartholomew, I heard from
 my husband.<Delay 30> Things were
 pretty tough for you!<New>
-Oh...<Delay 30>
-just...thinking about
-Shakhan gets my goat!<New>
+Honestly...<Delay 30>just thinking
+about that Shakhan makes
+my blood boil!<New>
 You get him, Bartholomew!<Close><End of Block>
 <TextBlock 3 w:52 h:4>
-Not too many people are
+Not very many people are
 returning to town.<Delay 30>
-So business is a little...<New>
-But <Delay 30>that must mean the
-atmosphere is changing for
-the better everywhere in
-the country.<New>
-Not like before,<Delay 30>
-when people were taking
-refuge here.<New>
-Well if you think about
-it that way...<Delay 30>
-I think things might be
-pretty good.<New>
-Oh, I keep talking and
-talking.<Delay 30>
-Sorry, hahahaha!<Close><End of Block>
+Because of that, business
+is a little...<Delay 5>well...<New>
+But you know, I can't help
+but think that the mood is
+changing for the better up
+and down the country.<New>
+I suppose the reason
+people had been drifting
+here is because it wasn't
+like that before.<New>
+Well, I think about it
+that way...<Delay 30>and I wonder
+if things might actually
+be pretty good.<New>
+Oh my, I just keep
+talking and talking.<Delay 30>
+Sorry, ho ho ho!<Close><End of Block>
 <TextBlock 4 w:42 h:2>
 Lately, this town has
 gotten lonely.<New>
@@ -73,32 +75,32 @@ here."<Close><End of Block>
     Nothing<Close><End of Block>
 <TextBlock 17 w:50 h:3>
 Young Master, the old man
-from the gun room sent me
-here for supplies.<New>
-If you want, I can also
-get Gear parts you may
-need. Just tell me.<Close><End of Block>
+from the ship's gun room
+sent me to run errands.<New>
+Just speak to me and I'll
+take care of anything
+Gear-parts related!<Close><End of Block>
 <TextBlock 18 w:52 h:4>
 Bart
-"Whoa, good preparations!
-If that's the case, please
-get the parts we need."<Close><End of Block>
-<TextBlock 19 w:46 h:3>
-The old man from the
-gun room sent me
-here for supplies.<New>
-If you want, I can also
-get Gear parts you may
-need. Just tell me.<Close><End of Block>
-<TextBlock 20 w:40 h:3>
-There's no souvenir
-shop in this town...<New>
-This isn't a
+"Ohh, good plan!<Delay 10>
+Then I'm counting on you."<Close><End of Block>
+<TextBlock 19 w:50 h:3>
+I'm the one the old guy
+from the ship's Gear dock
+sent to run errands.<New>
+Just speak to me and I'll
+take care of anything
+Gear-parts related!<Close><End of Block><Close><End of Block>
+<TextBlock 20 w:38 h:3>
+I guess there's
+no souvenir shop
+in this town.<New>
+Huh, isn't it a
 tourist attraction?<Delay 30>
 I guess not.<Close><End of Block>
-<TextBlock 21 w:50 h:3>
+<TextBlock 21 w:44 h:3>
 *sigh*...
-That guy there...<New>
+That customer there...<New>
 Once in a while we get
 those ignorant types
 coming to our town.<Close><End of Block>
@@ -106,60 +108,60 @@ coming to our town.<Close><End of Block>
 They have no idea about
 the kind of situation
 we're all in.<Close><End of Block>
-<TextBlock 23 w:46 h:4>
-I hate them...
-Those people who are so
-ignorant about what's
-happening in the world.<New>
+<TextBlock 23 w:44 h:4>
+I really hate them.
+People who are so out
+of touch like that.<New>
 Don't tell me you guys
-are like that too?<Close><End of Block>
+are that type too?<Close><End of Block>
 <TextBlock 24 w:52 h:2>
-This place has gotten
-to be a pain.<New>
-My family is fleeing north
-to the mountains.<New>
-I'm here to buy supplies.<Close><End of Block>
-<TextBlock 25 w:52 h:4>
-I came here in the hopes
-of finding some souvenirs.<New>
+Even this place has become
+a hassle.<New>
+My family's fleeing north
+into the mountains.<New>
+I'm here to buy stuff
+in preparation.<Close><End of Block>
+<TextBlock 25 w:48 h:4>
+I wonder if there's
+anything that'd make
+a nice keepsake.<New>
 On the off-chance that
 there is some military
-clash, I'll hold out and
-defend this place.<New>
-If Shakhan is crushed, the
-country will change.<New>
+clash, I'll protect this
+place till the end.<New>
+If Shakhan gets crushed,
+the country will change.<New>
 If that happens I'll go
 home, propose to my girl
 and start a new job.<Close><End of Block>
 <TextBlock 26 w:38 h:2>
 Hey, aren't you the
-Young Master?<Close><End of Block>
-<TextBlock 27 w:8 h:1>
-Hey!<Close><End of Block>
+Young Master!?<Close><End of Block>
+<TextBlock 27 w:22 h:1>
+Look, dear!<Close><End of Block>
 <TextBlock 28 w:8 h:1>
 Huh?<Close><End of Block>
-<TextBlock 29 w:8 h:1>
-Huh?<Close><End of Block>
+<TextBlock 29 w:6 h:1>
+Oh!<Close><End of Block>
 <TextBlock 30 w:38 h:1>
 It's Bartholomew!<New>
 Are you doing well?<Close><End of Block>
 <TextBlock 31 w:28 h:2>
 Bart
-"Good enough!"<Close><End of Block>
-<TextBlock 32 w:40 h:2>
-Don't try to 
-overdo it.<New>
-Hey, are those your
-friends back there?<Close><End of Block>
+"Well enough!"<Close><End of Block>
+<TextBlock 32 w:42 h:2>
+Don't overdo it, now.<New>
+Hey, are they friends
+of yours back there?<Close><End of Block>
 <TextBlock 33 w:30 h:3>
 Bart
-"Yeah.
+"Yeah.<Delay 10>
 Fei and Citan."<Close><End of Block>
-<TextBlock 34 w:54 h:2>
-Friends of the Young Master
+<TextBlock 34 w:58 h:2>
+Friends of the Young Master's
 are friends of ours.<New>
 Take your time and
 look around.<Close><End of Block>
 <TextBlock 35 w:18 h:2>
 Bart
-"Thanks."<Close><Close><End of Block>
+"Thanks!"<Close><Close><End of Block>

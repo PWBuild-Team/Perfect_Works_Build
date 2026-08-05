@@ -40,7 +40,7 @@ or die.<New>
 A battle to see who'll
 command that wisdom,
 and become the true
-ruler of this world!?<New>
+rulers of this world!?<New>
 It's clear the Ministry
 will devote their maximum
 military strength to the
@@ -79,7 +79,7 @@ They're the same as
 Hammer<Delay 5>...<Delay 10> Could you
 destroy them now!?<New>
 Could you kill people <-->
-they who were once our
+those who were once our
 allies <--> so that we
 ourselves will survive!?<New>
 Well!?"<Close><End of Block>

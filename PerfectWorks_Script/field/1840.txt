@@ -675,9 +675,9 @@ Elly
 "You're right...<Delay 30>
 A woman's selfishness...<Delay 5>
 I guess."<Close><End of Block>
-<TextBlock 77 w:30 h:2>
+<TextBlock 77 w:28 h:2>
 Helmholtz
-"A woman's<Delay 5>...?"<Close><End of Block>
+"A woman's<-->?"<Close><End of Block>
 <TextBlock 78 w:46 h:4>
 Elly
 "I'm no holy woman.<Delay 10> I'm

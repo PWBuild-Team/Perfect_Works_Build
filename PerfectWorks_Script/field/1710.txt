@@ -34,7 +34,7 @@ It can't be true..."<Close><End of Block>
 <TextBlock 9 w:44 h:3>
 Citan
 "The Soylent System.<New>
-The biological testing
+The biological-testing
 lab and processing
 facility of Solaris."<Close><End of Block>
 <TextBlock 10 w:44 h:3>

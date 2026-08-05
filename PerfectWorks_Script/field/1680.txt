@@ -107,7 +107,7 @@ seen something like
 it before..."<Close><End of Block>
 <TextBlock 19 w:34 h:3>
 Fei
-"Will we...<Delay 10>try
+"Should we...<Delay 10>try
 checking it out?"<Close><End of Block>
 <TextBlock 20 w:36 h:4>
 Elly

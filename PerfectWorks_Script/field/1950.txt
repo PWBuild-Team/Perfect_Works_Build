@@ -33,8 +33,8 @@ about nothing but
 martial arts<Delay 5>...<Delay 5>..."<Close><End of Block>
 <TextBlock 8 w:46 h:3>
 Karellen
-"Hey, <Delay 5>that's mean.<New>
-Despite appearances,
+"Hey,<Delay 5> that's mean.<New>
+Believe it or not,
 I'm the best of all
 the master's students."<Close><End of Block>
 <TextBlock 9 w:38 h:4>

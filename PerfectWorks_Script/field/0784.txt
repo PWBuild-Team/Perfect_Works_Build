@@ -33,11 +33,11 @@ The western guard along
 Nisan's border is little
 more than a surveillance
 team."<Close><End of Block>
-<TextBlock 7 w:48 h:3>
+<TextBlock 7 w:44 h:3>
 Sigurd
 "In order to recapture
 the Royal Capital,<New>
-it will be necessary to
+it'll be necessary to
 draw the defense force
 away from Breidablik."<Close><End of Block>
 <TextBlock 8 w:42 h:3>
@@ -48,12 +48,12 @@ made Gears, correct?"<Close><End of Block>
 Bart
 "Yeah, we captured 
 some earlier."<Close><End of Block>
-<TextBlock 10 w:46 h:4>
+<TextBlock 10 w:42 h:4>
 Citan
 "What if we use those
-Gears to make a raid on
-the western guard...<New>
-...here at the border
+Gears to make a raid
+on the western guard,<New>
+here at the border
 with Nisan?"<Close><End of Block>
 <TextBlock 11 w:52 h:4>
 Bart

@@ -14,32 +14,32 @@ shortly."<Close><End of Block>
 Margie
 "I wonder what kind of
 person Lady Sophia was.<New>
-I would have loved to
-have met her."<Close><End of Block>
-<TextBlock 4 w:48 h:1>
-I've got do my best too!<Close><End of Block>
+I would've loved to
+meet her."<Close><End of Block>
+<TextBlock 4 w:54 h:1>
+I've got to do my best too!<Close><End of Block>
 <TextBlock 5 w:54 h:2>
 A new era is approaching...<Delay 30>
 I've got to do my best too!<Close><End of Block>
 <TextBlock 6 w:36 h:2>
 Everyone is alive!<Delay 30>
-Thank God.<Close><End of Block>
-<TextBlock 7 w:54 h:2>
+I'm so glad.<Close><End of Block>
+<TextBlock 7 w:56 h:3>
 We're transcribing scrolls.<New>
 Scrolls over a hundred
-years old get worn out,<New>
-so we renew them. It is one
-of our daily tasks.<Close><End of Block>
+years old get worn out,
+so we renew them.<New>
+It's one of our daily tasks.<Close><End of Block>
 <TextBlock 8 w:30 h:1>
 Take care, now!<Close><End of Block>
 <TextBlock 9 w:54 h:4>
 Just because the monarchy
 has been abolished, it
-does not mean that peace
+doesn't mean that peace
 will automatically prevail.<New>
-From now on, citizens must
-build this country anew
-with their own hands.<New>
+From now on, the citizens
+must build this country
+anew with their own hands.<New>
 Undoubtedly, new ordeals
 will await us.<Close><End of Block>
 <TextBlock 10 w:52 h:1>
@@ -47,21 +47,21 @@ Thank heavens you're safe!<Close><End of Block>
 <TextBlock 11 w:52 h:3>
 Why does war never
 disappear from this world?<New>
-To me, it is clear that
-it is meaningless...<New>
-Perhaps it is our fate
+To me, it's clear that
+it's meaningless...<New>
+Perhaps it's our fate
 to be forever in discord
-with each other?<Close><End of Block>
+with other people?<Close><End of Block>
 <TextBlock 12 w:46 h:2>
 We look forward to the
-dawn of the true world!<Close><End of Block>
+dawn of our true world!<Close><End of Block>
 <TextBlock 13 w:56 h:4>
 Recognition of the existence
 of Solaris may present a new
 way of looking at the Nisan
 orthodoxy.<New>
 In that sense, I believe
-we have finally reached a
+we've finally reached a
 new starting point.<Close><End of Block>
 <TextBlock 14 w:50 h:3>
 After seeing everyone in
@@ -71,30 +71,30 @@ of hope rose within me!<Close><End of Block>
 The road we must take
 is out there somewhere.<New>
 A way out of the confusion
-we are now facing...<New>
+we're now facing...<New>
 The Sister who sits diagonally
 across from me is desperately
 looking for that answer.<Close><End of Block>
 <TextBlock 16 w:60 h:4>
-I thought it appropriate for
-you and your deeds to be
-told to future generations.<New>
-So I have discussed this with
+I thought it appropriate
+that what you've all done be
+relayed to future generations.<New>
+So I've discussed this with
 Sister Agnes and we concluded
-that your many travels and
-experiences be recorded by me.<New>
+that I will record your many
+travels and experiences.<New>
 Therefore,<Delay 30>
 please come back alive!<New>
-Your accomplishments will be
-passed on from generation to
-generation!<Close><End of Block>
+Your deeds will surely be
+recounted in the world that
+is to come!<Close><End of Block>
 <TextBlock 17 w:46 h:2>
 (...<Delay 30>Somewhere...<Delay 30>
 It must be somewhere...<New>
 The truth that we have
 not yet come to know.)<Close><End of Block>
 <TextBlock 18 w:40 h:1>
-Oh!?<Delay 30> That scared me.<Close><End of Block>
+Oh!<Delay 30> You startled me.<Close><End of Block>
 <TextBlock 19 w:44 h:2>
 Fei
 "You're very devoted."<Close><End of Block>
@@ -107,30 +107,29 @@ a lot of things...<New>
 And I've come to realize<Delay 30>
 the world isn't right
 the way it is now!<Close><End of Block>
-<TextBlock 21 w:54 h:2>
-Yes, <Delay 30> the world isn't right
+<TextBlock 21 w:52 h:2>
+Yes,<Delay 30> the world isn't right
 the way it is now!<Close><End of Block>
-<TextBlock 22 w:54 h:2>
-Yes, <Delay 30> the world isn't right
+<TextBlock 22 w:52 h:2>
+Yes,<Delay 30> the world isn't right
 the way it is now!<Close><End of Block>
 <TextBlock 23 w:50 h:3>
 The others left in order
 to go help the evacuating
 citizens.<New>
-I remained to help Sister
-Agnes look after herself
-and the things here.<Close><End of Block>
+I've stayed behind to
+help Sister Agnes with
+her affairs here.<Close><End of Block>
 <TextBlock 24 w:56 h:3>
-Voluntarily declaring
-republicanism yourself
-is amazing.<New>
-It would be great if
-Bartholomew became
-president.<New>
-But, it would not be much of
-a change from the way things
-are now, though would it?<New>
-In any case, I think
+I thought it was amazing
+to announce the republic
+in person.<New>
+It'd be great if Bartholomew
+could become president.<New>
+But I wonder if that's not
+really all that different
+from having a king.<New>
+In any case, I'm sure
 Master Bartholomew would
 be just fine.<Close><End of Block>
 <TextBlock 25 w:48 h:4>
@@ -177,11 +176,11 @@ Citan
 "That is too bad!
 So there really is
 nothing left at all!?"<Close><End of Block>
-<TextBlock 30 w:56 h:4>
+<TextBlock 30 w:54 h:4>
 Agnes
 "For someone who has helped
 Marguerite, I would have
-loved to have shared them...<New>
+loved to share them...<New>
 But unfortunately I am
 unable to help, here..."<Close><End of Block>
 <TextBlock 31 w:52 h:4>
@@ -193,8 +192,8 @@ it. I was just inquiring."<Close><End of Block>
 Citan
 "But it does seem
 somewhat strange...<New>
-If such a majestic building
-as this survived history,<New>
+If a majestic building such
+as this still exists,<New>
 then it seems likely a
 scroll or two would have
 remained, too."<Close><End of Block>
@@ -212,24 +211,24 @@ Citan
 "...I see.<Delay 30>
 So everything was lost in
 the darkness of history."<Close><End of Block>
-<TextBlock 35 w:50 h:5>
+<TextBlock 35 w:40 h:5>
 Agnes
-"I was speaking earlier
-with Marguerite, and she
-led me to believe that
-you are heading to Av."<Close><End of Block>
+"I was talking with
+Marguerite earlier.<Delay 10>
+I hear that you will
+be heading to Av."<Close><End of Block>
 <TextBlock 36 w:46 h:4>
 Bart
-"Yeah. We might cause a
+"Yeah.<Delay 10> We might cause a
 little trouble for the
 folks of Nisan...<New>
 But it's something that
-I simply cannot avoid."<Close><End of Block>
+I simply can't avoid."<Close><End of Block>
 <TextBlock 37 w:56 h:3>
 Agnes
 "Yes, I understand.<New>
-Just that, if you allow me
-to say my true feelings...<New>
+Only, if you allow me
+to speak my true feelings...<New>
 I wish that you could find
 a way to bring peace to this
 country without bloodshed...<New>
@@ -240,9 +239,9 @@ thought before making this
 decision.<New>
 We of Nisan will be with
 you, Master Bartholomew."<Close><End of Block>
-<TextBlock 38 w:34 h:2>
+<TextBlock 38 w:24 h:2>
 Bart
-"Thanks, Sister."<Close><End of Block>
+"Thank you."<Close><End of Block>
 <TextBlock 39 w:12 h:2>
 Fei
 "Yes."<Close><End of Block>
@@ -256,14 +255,13 @@ Fei
 with Margie."<Close><End of Block>
 <TextBlock 42 w:56 h:3>
 Agnes
-"I see, my child.<Delay 30>
+"I see.<Delay 30>
 Then please tell him this...<New>
  'We will always be with
  you, Master Bartholomew'."<Close><End of Block>
-<TextBlock 43 w:44 h:3>
+<TextBlock 43 w:26 h:2>
 Fei
-"I'll be sure to relay
-that to him, Sister."<Close><End of Block>
+"You got it."<Close><End of Block>
 <TextBlock 44 w:48 h:4>
 Agnes
 "The one depicted in the
@@ -308,11 +306,11 @@ Citan
 "That is too bad!
 So there really is
 nothing left at all!?"<Close><End of Block>
-<TextBlock 49 w:56 h:4>
+<TextBlock 49 w:54 h:4>
 Agnes
 "For someone who has helped
 Marguerite, I would have
-loved to have shared them...<New>
+loved to share them...<New>
 But unfortunately I am
 unable to help, here..."<Close><End of Block>
 <TextBlock 50 w:52 h:4>
@@ -324,8 +322,8 @@ it. I was just inquiring."<Close><End of Block>
 Citan
 "But it does seem
 somewhat strange...<New>
-If such a majestic building
-as this survived history,<New>
+If a majestic building such
+as this still exists,<New>
 then it seems likely a
 scroll or two would have
 remained, too."<Close><End of Block>
@@ -343,24 +341,24 @@ Citan
 "...I see.<Delay 30>
 So everything was lost in
 the darkness of history."<Close><End of Block>
-<TextBlock 54 w:50 h:5>
+<TextBlock 54 w:40 h:5>
 Agnes
-"I was speaking earlier
-with Marguerite, and she
-led me to believe that
-you are heading to Av."<Close><End of Block>
+"I was talking with
+Marguerite earlier.<Delay 10>
+I hear that you will
+be heading to Av."<Close><End of Block>
 <TextBlock 55 w:46 h:4>
 Bart
-"Yeah. We might cause a
+"Yeah.<Delay 10> We might cause a
 little trouble for the
 folks of Nisan...<New>
 But it's something that
-I simply cannot avoid."<Close><End of Block>
+I simply can't avoid."<Close><End of Block>
 <TextBlock 56 w:56 h:3>
 Agnes
 "Yes, I understand.<New>
-Just that, if you allow me
-to say my true feelings...<New>
+Only, if you allow me
+to speak my true feelings...<New>
 I wish that you could find
 a way to bring peace to this
 country without bloodshed...<New>
@@ -371,9 +369,9 @@ thought before making this
 decision.<New>
 We of Nisan will be with
 you, Master Bartholomew."<Close><End of Block>
-<TextBlock 57 w:34 h:2>
+<TextBlock 57 w:24 h:2>
 Bart
-"Thanks, Sister."<Close><End of Block>
+"Thank you."<Close><End of Block>
 <TextBlock 58 w:12 h:2>
 Fei
 "Yes."<Close><End of Block>
@@ -387,19 +385,17 @@ Fei
 with Margie."<Close><End of Block>
 <TextBlock 61 w:56 h:3>
 Agnes
-"I see, my child.<Delay 30>
+"I see.<Delay 30>
 Then please tell him this...<New>
  'We will always be with
  you, Master Bartholomew'."<Close><End of Block>
-<TextBlock 62 w:44 h:3>
+<TextBlock 62 w:26 h:2>
 Fei
-"I'll be sure to relay
-that to him, Sister."<Close><End of Block>
-<TextBlock 63 w:42 h:4>
+"You got it."<Close><End of Block>
+<TextBlock 63 w:36 h:3>
 Agnes
-"I shall pray that
-your battles are safe
-and successful."<Close><End of Block>
+"I wish you all
+the best of luck."<Close><End of Block>
 <TextBlock 64 w:54 h:3>
 Agnes
 "Everyone is safe and well!
@@ -407,22 +403,23 @@ Oh<Delay 30>... Thank heavens.<New>
 How is Marguerite?<New>
 We here are all doing well,
 so please tell her that."<Close><End of Block>
-<TextBlock 65 w:48 h:4>
+<TextBlock 65 w:44 h:4>
 Agnes
 "I hope nothing has
 happened to the Holy
 Mother's remains...<New>
-If the mausoleum becomes
-damaged in any way, I'll
-have no right to live."<Close><End of Block>
-<TextBlock 66 w:54 h:4>
+If the mausoleum gets
+damaged because of me,
+I will not deserve to
+live."<Close><End of Block>
+<TextBlock 66 w:44 h:4>
 Bart
 "Don't be so hard
 on yourself.<New>
-You sisters have done your
-best to protect the town,
-right?
-Just leave the rest to us."<Close><End of Block>
+You sisters have done
+your best to protect
+the town, right?<Delay 10> Just
+leave the rest to us."<Close><End of Block>
 <TextBlock 67 w:54 h:4>
 Agnes
 "Finally, we can create
@@ -432,22 +429,22 @@ I hope that I can be of
 assistance to Master
 Bartholemew.<New>
 Before we do that though,
-we'll have to determine the
-the real relation between
+we have to be clear on
+what's happening between
 Bartholomew and Marguerite.<New>
-But come to think of it,
-that is really up to
-them to work out..."<Close><End of Block>
+Of course, that is really
+up to them, but...<Delay 5>
+at any rate I am rooting
+for them both."<Close><End of Block>
 <TextBlock 68 w:56 h:5>
 Agnes
-"To pass on the deeds you
-people have accomplished,
-we have decided to record
-your journey...<New>
+"In order to relay your
+accomplishments to future
+generations, we have decided
+to record your journey...<New>
 As the ones who, along with
 the Holy Mother Marguerite,
-lead us to our true world...<New>
-You will live forever in
-the hearts and minds of
-the people that live on
-this planet."<Close><Close><End of Block>
+led us to our true world...<New>
+you will all live on
+forever within the people
+of this world."<Close><Close><End of Block>

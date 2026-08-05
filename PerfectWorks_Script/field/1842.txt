@@ -540,7 +540,7 @@ to conceal it<Delay 5>..."<Close><End of Block>
 Citan
 "The error that your
 people made?"<Close><End of Block>
-<TextBlock 60 w:52 h:4>
+<TextBlock 60 w:54 h:4>
 Zephyr
 "500 years ago,<Delay 5> we of
 Shevat went to war to gain
@@ -548,13 +548,14 @@ independence from Solaris.<New>
 But we were possessed by
 the 'lust for power'<Delay 5>...<New>
 At the height of the
-upheaval,<Delay 5> fearing that the
-will of the people would
-consolidate under Nisan's<New>
-Sacred Mother Sophia and
-not Shevat,<Delay 5> our council of
-elders at that time...<Delay 5>
-made a deal with Solaris."<Close><End of Block>
+upheaval,<New>
+fearing that the people's
+will would consolidate
+under Nisan's Sacred Mother
+Sophia and not Shevat,<New>
+our council of elders at
+that time...<Delay 5>made a deal
+with Solaris."<Close><End of Block>
 <TextBlock 61 w:36 h:2>
 Citan
 "A deal, you say?"<Close><End of Block>
