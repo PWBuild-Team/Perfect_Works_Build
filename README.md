@@ -3,7 +3,7 @@ Xenogears Perfect Works Build: Includes an improved translation, rebalanced game
 
 Download the latest release here:
 
-https://github.com/NoharOSP/Perfect_Works_Build/releases/tag/0.11.1
+https://github.com/NoharOSP/Perfect_Works_Build/releases/tag/0.11.2
 
 For more in-depth information about the build, visit the wiki:
 
@@ -46,7 +46,7 @@ WARNING: When a ROM has been made, do not resume progress by loading a save stat
 
 - Name/terminology changes: 100%
 - Main script: 100%
-- NPC script: 15% (plus all name/terminology changes)
+- NPC script: 25% (plus all name/terminology changes)
 
 ## Introduction
 
@@ -57,6 +57,30 @@ Xenogears: Perfect Works is a collaborative project aiming to make Xenogears a m
 DISCLAIMER: Some of the patches were designed to work in tandem with each other. The 2x exp and gold patches were designed to work with the lower encounter rate patch. The monster stats and party/item patch both act as a rebalancing hack. They can be used separately from each other, but they were designed with the mindset of using them together.
 
 ## Version history
+
+### Version 0.11.2
+
+08/09/2026
+
+- NPC script up to Nisan has been updated.
+- Fixed a bug from the original game where Ether amp is reset when entering a Gear shop menu.
+- Def Up now works correctly with all patches, though block will also be more frequent.
+- Corrected a typo with Power Aeon's name.
+- Adjusted the name lengths of Cyclone Kick, Double Shock, ThermoThump, Tsunami Ice, and Pile Crusher.
+- Fixes have been made to Babel Tower's exterior mirror platform.
+- The Power Shut Down alert has been changed to Stall.
+- The Eth Eng Out of Control alert has been changed to Ether-machine Fault.
+- The Eth Eng Shutdown alert has been changed to Ether Amp Down.
+- The Out of Fuel alert has been changed to Low On Fuel.
+- Merkabah window sizes have been corrected.
+- Shevat jukebox audio bug has been fixed.
+- Bracer's Def Up boost applies to Bart rather than the opponent.
+- Anima Dungeon shop no longer duplicates Black Helm and Black Leather.
+- AutoBooster has been removed from the Yggdrasil II/Thames shop until bugs associated with it have been fixed. 
+- Fire Bomb and Pile Crusher no longer inflict Pierce and will now play their animations with rebalanced items/characters.
+- Fixed a graphical bug with the Solaris skybridge.
+- Added clarity to the tooltips for the no damage cap and no Deathblow level patches.
+- When the instant text and script patches are merged, fast text variants of retranslated scenes will be used.
 
 ### Version 0.11.1
 
@@ -126,7 +150,7 @@ DM or tag here if you want immediate feedback on Twitter:
 - ividyon: Translation
 - CosmicFrame: Testing
 - The Minester: Testing
-- RayDreamer (@PromisedPain): Testing
+- RayDreamer: Testing
 - ChaoticBrave: Testing and dropdown menu code
 - Aero JP: Testing
 - Kiahnte: Testing
@@ -143,5 +167,3 @@ DM or tag here if you want immediate feedback on Twitter:
 - FFMaster: Fast text code
 - RyleFury: Deus bug fix, softsub tools
 - Sephiroth1311: Deus bug fix
-
-
