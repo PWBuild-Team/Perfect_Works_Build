@@ -8,7 +8,7 @@
 <Opcode 1 255>Noooo!<Opcode 2 5><Close><End of Block>
 <TextBlock 5 w:30 h:2>
 <Opcode 14 1>It was a scene
-from hell.<Delay 100><Close><End of Block>
+from hell.<Opcode 2 90><Close><End of Block>
 <TextBlock 6 w:48 h:4>
 <Opcode 14 1>When Father was away,<Delay 10>
 'Fei' would be taken to

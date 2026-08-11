@@ -105,7 +105,7 @@ Maria
 "..."<Close><End of Block>
 <TextBlock 24 w:34 h:2>
 Maria
-"<Seibzehn>..."<Opcode 2 200><Close><End of Block>
+"<Seibzehn>..."<Opcode 2 120><Close><End of Block>
 <TextBlock 25 w:32 h:2>
 Maria
 "<Seibzehn>!!"<Close><End of Block>
@@ -238,7 +238,7 @@ Don't get so cocky.<Delay 20>
 The party's just begun.<New>
 But, well, whatever.
 My mission is complete.<Delay 20>
-All that's left is..."<Close><End of Block>
+All that's left is<Delay 5>..."<Close><End of Block>
 <TextBlock 39 w:40 h:3>
 Dominia
 "Maria, I'm afraid
@@ -261,9 +261,8 @@ Jesse
 "I think you've played
 with fire enough for
 today.<Delay 20> Just go home.<New>
-Maria is the only
-one who can operate
-<Seibzehn>.<New>
+Maria's the only one who
+can operate <Seibzehn>.<New>
 You should be well aware
 of that."<Close><End of Block>
 <TextBlock 43 w:48 h:4>
@@ -294,7 +293,7 @@ around the city."<Close><End of Block>
 <TextBlock 46 w:48 h:3>
 Maria
 "<Seibzehn> here was
-developed by my father<New>
+developed by my father,<New>
 at the research
 institute in Solaris..."<Close><End of Block>
 <TextBlock 47 w:52 h:4>
@@ -320,11 +319,11 @@ protect you...'"<Close><End of Block>
 <TextBlock 49 w:52 h:4>
 Maria
 "On that day nine years
-ago, my father defended me<New>
-when I almost failed to
-escape, and he ended up
-being left behind,
-alone..."<Close><End of Block>
+ago,<New>
+my father defended me when
+I almost failed to escape,
+and he ended up being left
+behind, alone..."<Close><End of Block>
 <TextBlock 50 w:48 h:4>
 Maria
 "My father's voice,
