@@ -59,10 +59,10 @@ bool patchProcessor::gamefileVerify() {
 // Initialise patch list
 void patchProcessor::initialisePatchLists() {
 	Window::log_file << "Initialise patch names." << std::endl;
-	patchList.emplace_back(encountersName);
 	patchList.emplace_back(itemspellsName);
 	patchList.emplace_back(jpnName);
 	patchList.emplace_back(scriptName);
+	patchList.emplace_back(encountersName);
 	patchList.emplace_back(fmvName);
 	patchList.emplace_back(fmvPatch);
 	patchList.emplace_back(storyModeName);
