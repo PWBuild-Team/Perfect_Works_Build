@@ -399,16 +399,13 @@ Billy
 Event error.
 Billy is not in the lead
 position.<Close><End of Block>
-<TextBlock 95 w:36 h:2>
-<Chu-Chu>
-"Don't chu worry."<Close><End of Block>
+<TextBlock 95 w:32 h:1>
+Don't chu worry.<Close><End of Block>
 <TextBlock 96 w:26 h:2>
 Billy
 "<Chu-Chu>!"<Close><End of Block>
-<TextBlock 97 w:30 h:3>
-Maria
-"Stay calm
-and take aim!"<Close><End of Block>
+<TextBlock 97 w:46 h:1>
+Stay calm and take aim!<Close><End of Block>
 <TextBlock 98 w:16 h:2>
 Billy
 "Maria!"<Close><End of Block>
@@ -594,7 +591,7 @@ Fei
 "Whoa, whoa!
 Is that really such
 a good idea!?"<Close><End of Block>
-<TextBlock 131 w:40 h:4>
+<TextBlock 131 w:44 h:4>
 Bart
 "Alright,<Delay 30> let's
 hurry up and get the
