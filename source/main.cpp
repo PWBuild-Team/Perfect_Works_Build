@@ -204,7 +204,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 					ClientToScreen(pDropDown->hdr.hwndFrom, &pt);
 
 					HMENU hSplitMenu = CreatePopupMenu();
-					AppendMenu(hSplitMenu, MF_BYPOSITION, (UINT_PTR)IDM_NORMAL, L"0x");
+					AppendMenu(hSplitMenu, MF_BYPOSITION, (UINT_PTR)IDM_NORMAL, L"1x");
 					AppendMenu(hSplitMenu, MF_BYPOSITION, (UINT_PTR)IDM_HALF, L"1.5x");
 					AppendMenu(hSplitMenu, MF_BYPOSITION, (UINT_PTR)IDM_DOUBLE, L"2x");
 

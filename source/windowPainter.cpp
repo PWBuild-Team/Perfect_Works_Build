@@ -182,11 +182,11 @@ void windowPainter::drawDropdown(std::string option) {
 	// Set drop down menu window text
 	if (option == "normal") {
 		if (Window::dropDown->hdr.hwndFrom == GetDlgItem(Window::winHwnd, 9004)) {
-			SetWindowText(Window::expList, L"0x");
+			SetWindowText(Window::expList, L"1x");
 			Window::expModifier = option;
 		}
 		if (Window::dropDown->hdr.hwndFrom == GetDlgItem(Window::winHwnd, 9005)) {
-			SetWindowText(Window::goldList, L"0x");
+			SetWindowText(Window::goldList, L"1x");
 			Window::goldModifier = option;
 		}
 	}
