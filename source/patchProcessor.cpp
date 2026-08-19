@@ -59,6 +59,8 @@ bool patchProcessor::gamefileVerify() {
 // Initialise patch list
 void patchProcessor::initialisePatchLists() {
 	Window::log_file << "Initialise patch names." << std::endl;
+	patchList.emplace_back(expName);
+	patchList.emplace_back(goldName);
 	patchList.emplace_back(itemspellsName);
 	patchList.emplace_back(scriptName);
 	patchList.emplace_back(jpnName);
@@ -69,8 +71,6 @@ void patchProcessor::initialisePatchLists() {
 	patchList.emplace_back(bugName);
 	patchList.emplace_back(resizeName);
 	patchList.emplace_back(portraitsName);
-	patchList.emplace_back(expName);
-	patchList.emplace_back(goldName);
 	patchList.emplace_back(monsterName);
 	patchList.emplace_back(musicName);
 	patchList.emplace_back(arenaName);
