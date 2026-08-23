@@ -58,6 +58,19 @@ DISCLAIMER: Some of the patches were designed to work in tandem with each other.
 
 ## Version history
 
+### Version 0.11.3
+
+08/23/2026
+
+- Half encounters now work correctly when the script patch is used.
+- The correct control icons will now be shown before using a Deathblow if the Japanese control patch is used.
+- The Drive descriptions have been corrected in shops.
+- Key scenes have had dialogue boxes dismissed before fading out.
+- Dropdown menu text for the default experience and gold modifiers has been corrected.
+- We, the Wounded Shall Advance into the Light is used over Premonition when Elly arrives at Golgotha in all patches.
+- Bugs have been fixed with Ft Jasper during the Gate 2 sequence.
+- A bug has been fixed where experience and gold changes overwrite other patches.
+
 ### Version 0.11.2
 
 08/09/2026
@@ -167,3 +180,5 @@ DM or tag here if you want immediate feedback on Twitter:
 - FFMaster: Fast text code
 - RyleFury: Deus bug fix, softsub tools
 - Sephiroth1311: Deus bug fix
+
+
