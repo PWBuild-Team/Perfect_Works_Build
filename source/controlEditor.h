@@ -1,6 +1,7 @@
 #pragma once
 #include "pch.h"
 #include "helper/gameFileTools.h"
+#include "helper/fileSystemTools.h"
 #include "Window.h"
 #include <string>
 #include <filesystem>

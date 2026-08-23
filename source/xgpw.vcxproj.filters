@@ -78,6 +78,9 @@
     <ClInclude Include="gameplayFileEditor.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="helper\fileSystemTools.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -132,6 +135,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="gameplayFileEditor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="helper\fileSystemTools.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
