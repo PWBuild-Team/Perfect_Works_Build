@@ -3,7 +3,7 @@ Xenogears Perfect Works Build: Includes an improved translation, rebalanced game
 
 Download the latest release here:
 
-https://github.com/NoharOSP/Perfect_Works_Build/releases/tag/0.11.2
+https://github.com/NoharOSP/Perfect_Works_Build/releases/tag/0.11.3
 
 For more in-depth information about the build, visit the wiki:
 
