@@ -8,6 +8,7 @@
 #include "partyStatEditor.h"
 #include "audioEditor.h"
 #include "helper/gameFileTools.h"
+#include "helper/fileSystemTools.h"
 #include "gameplayFileEditor.h"
 
 class fileEditor
