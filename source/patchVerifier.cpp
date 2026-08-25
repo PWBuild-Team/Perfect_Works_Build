@@ -282,14 +282,12 @@ void patchVerifier::modeVerify() {
 
 void patchVerifier::bugVerify() {
 	// Bug patch is not applied with items/spells and script as they already have it applied.
-	if (!windowHandler::itemspellsticked == BST_CHECKED) {
-		Window::log_file << "Bug fix directory found." << std::endl;
-		if (patchProcessor::num == 1) {
-			patchProcessor::bugName = "bug_fix1";
-		}
-		if (patchProcessor::num == 2) {
-			patchProcessor::bugName = "bug_fix2";
-		}
+	Window::log_file << "Bug fix directory found." << std::endl;
+	if (patchProcessor::num == 1) {
+		patchProcessor::bugName = "bug_fix1";
+	}
+	if (patchProcessor::num == 2) {
+		patchProcessor::bugName = "bug_fix2";
 	}
 }
 

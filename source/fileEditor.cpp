@@ -25,6 +25,9 @@ void fileEditor::gameplayEdits() {
 			gameplayFileEditor::removeCap(entry.path().string());
 		}
 	}
+	if (windowHandler::itemspellsticked == BST_CHECKED) {
+		gameplayFileEditor::battleFileEdits();
+	}
 }
 
 void fileEditor::scriptEdits() {
@@ -39,7 +42,7 @@ void fileEditor::scriptEdits() {
 	fileSystemTools::toTemp();
 	// Decompress file
 	int batch_decompress = system("..\\..\\Tools\\xenopack.exe -u 2614");
-	// Copy Japanese control images
+	// Copy script files
 	std::filesystem::copy("..\\script_subfiles\\2614\\file37", "file37", std::filesystem::copy_options::overwrite_existing);
 	// Recompress file
 	int batch_recompress = system("..\\..\\Tools\\xenopack.exe -p 2614");

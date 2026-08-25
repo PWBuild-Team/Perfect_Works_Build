@@ -61,8 +61,8 @@ void patchProcessor::initialisePatchLists() {
 	Window::log_file << "Initialise patch names." << std::endl;
 	patchList.emplace_back(expName);
 	patchList.emplace_back(goldName);
-	patchList.emplace_back(itemspellsName);
 	patchList.emplace_back(bugName);
+	patchList.emplace_back(itemspellsName);
 	patchList.emplace_back(scriptName);
 	patchList.emplace_back(jpnName);
 	patchList.emplace_back(encountersName);
