@@ -75,18 +75,18 @@ the attenuation rate...?<New>
 Yes, within the
 atmosphere that's going
 to be pretty high."<Close><End of Block>
-<TextBlock 20 w:48 h:3>
+<TextBlock 20 w:46 h:4>
 Throne
-"...Don't you even say a
-word to me!<New>
-...whatever you're up to
-Throne's Gear 'Skyghene'
-will surely crush you!"<Close><End of Block>
-<TextBlock 21 w:52 h:4>
+"...Just stop talking.<New>
+...Hmph, no matter what
+they're up to, my Gear
+Skyscreech is going to
+crush them!"<Close><End of Block>
+<TextBlock 21 w:48 h:4>
 Throne
-"Hmmph,<Delay 30> I can't believe
-you'd even think of such a
-stupid plan."<Close><End of Block>
+"Hmph,<Delay 30> I can't believe
+you'd even think of such
+a stupid plan."<Close><End of Block>
 <TextBlock 22 w:52 h:3>
 Throne
 "Talk big while
@@ -111,11 +111,12 @@ tough!!!<New>
 By the way, speaking of
 repetitions, I can do 300
 pull-ups now!"<Close><End of Block>
-<TextBlock 25 w:46 h:3>
+<TextBlock 25 w:50 h:4>
 Seraphita
-"Oh yeah, yeah!
-That's it! I remember!<New>
-It's tofu soup,<Delay 30> right?"<Close><End of Block>
+"Oh yeeeaaaah!
+That was it! That was it!<New>
+The condensation rate!!<Delay 30>
+Right?"<Close><End of Block>
 <TextBlock 26 w:30 h:2>
 Seraphita
 "...SO stupid!"<Close><End of Block>
@@ -239,4 +240,4 @@ of them...!!"<Close><End of Block>
 <TextBlock 59 w:34 h:3>
 Throne
 "I thought I told
-you not to talk!"<Close><Close><End of Block>
+you to shut up!"<Close><Close><End of Block>
