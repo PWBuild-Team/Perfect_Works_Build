@@ -129,6 +129,9 @@ struct tipDesc {
 	char text_bug_fix[255] =
 		"Ignores all other patches and just implements\n"
 		"the bug fixes.\n";
+	char text_metricText[255] =
+		"Switches character weight from the imperial\n"
+		"system to the metric system.\n";
 };
 
 class Window
@@ -183,6 +186,7 @@ public:
 	inline static HWND instant;
 	inline static HWND cap;
 	inline static HWND bugFix;
+	inline static HWND metric;
 	inline static HINSTANCE winInst;
 	inline static int winX;
 	inline static int winY;

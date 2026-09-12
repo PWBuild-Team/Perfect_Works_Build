@@ -76,10 +76,12 @@ void windowPainter::storyWindows() {
 	pWin->script = CreateWindow(L"BUTTON", L"Script/name changes", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(Window::winX * Window::storyx), (int)(Window::winY * 0.30), 120, 25, Window::winHwnd, (HMENU)9002, Window::winInst, NULL);
 	pWin->fasttext = CreateWindow(L"BUTTON", L"Fast text", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(Window::winX * Window::storyx), (int)(Window::winY * 0.36), 110, 25, Window::winHwnd, (HMENU)9002, Window::winInst, NULL);
 	pWin->instant = CreateWindow(L"BUTTON", L"Instant text", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(Window::winX * Window::storyx), (int)(Window::winY * 0.42), 110, 25, Window::winHwnd, (HMENU)9002, Window::winInst, NULL);
+	pWin->metric = CreateWindow(L"BUTTON", L"Metric system", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(Window::winX * Window::storyx), (int)(Window::winY * 0.48), 110, 25, Window::winHwnd, (HMENU)9002, Window::winInst, NULL);
 	// Put in window list
 	Window::windList.emplace_back(Window::fasttext);
 	Window::windList.emplace_back(Window::script);
 	Window::windList.emplace_back(Window::instant);
+	Window::windList.emplace_back(Window::metric);
 }
 
 void windowPainter::audioWindows() {
