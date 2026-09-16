@@ -38,5 +38,6 @@ public:
 	inline static LRESULT instantticked;
 	inline static LRESULT capticked;
 	inline static LRESULT bugticked;
+	inline static LRESULT metricticked;
 };
 

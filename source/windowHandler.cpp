@@ -163,4 +163,8 @@ void windowHandler::checkModes() {
 			}
 		}
 	}
+	metricticked = SendMessage(Window::metric, BM_GETCHECK, NULL, NULL);
+	if (metricticked == BST_CHECKED) {
+		SendMessage(Window::metric, BM_SETCHECK, BST_UNCHECKED, NULL);
+	}
 }

@@ -189,6 +189,10 @@ void patchVerifier::storyVerify() {
 		}
 		patchProcessor::editExe = true;
 	}
+	if (windowHandler::metricticked == BST_CHECKED) {
+		Window::log_file << "Metric system directory found." << std::endl;
+		patchProcessor::metricsName = "metrics";
+	}
 }
 
 void patchVerifier::audioVerify() {

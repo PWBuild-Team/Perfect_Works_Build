@@ -61,5 +61,6 @@ public:
 	inline static std::string slusDisc2 = "sub_executable\\disc2";
 	inline static std::string gamefilePath = "gamefiles";
 	inline static std::vector<std::string> patchList;
+	inline static std::string metricsName = "";
 };
 

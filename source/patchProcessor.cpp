@@ -80,6 +80,7 @@ void patchProcessor::initialisePatchLists() {
 	patchList.emplace_back(roniName);
 	patchList.emplace_back(cafeName);
 	patchList.emplace_back(deathblowName);
+	patchList.emplace_back(metricsName);
 }
 
 bool patchProcessor::oneDriveCheck() {
@@ -167,6 +168,7 @@ void patchProcessor::reinitialisePatches() {
 	deathblowName = "";
 	jpnName = "";
 	musicName = "";
+	metricsName = "";
 }
 
 // Clear patch lists
