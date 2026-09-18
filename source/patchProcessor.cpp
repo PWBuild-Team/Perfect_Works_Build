@@ -62,6 +62,7 @@ void patchProcessor::initialisePatchLists() {
 	patchList.emplace_back(expName);
 	patchList.emplace_back(goldName);
 	patchList.emplace_back(bugName);
+	patchList.emplace_back(metricsName);
 	patchList.emplace_back(itemspellsName);
 	patchList.emplace_back(scriptName);
 	patchList.emplace_back(jpnName);
@@ -80,7 +81,6 @@ void patchProcessor::initialisePatchLists() {
 	patchList.emplace_back(roniName);
 	patchList.emplace_back(cafeName);
 	patchList.emplace_back(deathblowName);
-	patchList.emplace_back(metricsName);
 }
 
 bool patchProcessor::oneDriveCheck() {

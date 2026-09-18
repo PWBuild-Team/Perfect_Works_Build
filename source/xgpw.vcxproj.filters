@@ -81,6 +81,9 @@
     <ClInclude Include="helper\fileSystemTools.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="helper\dataTools.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -138,6 +141,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="helper\fileSystemTools.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="helper\dataTools.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

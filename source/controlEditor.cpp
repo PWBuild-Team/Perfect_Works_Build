@@ -57,8 +57,8 @@ void controlEditor::editExecutable(std::string file) {
 	if (trimfile == "0022" || (trimfile == "SLUS_006.64" || trimfile == "SLUS_006.69")) {
 		std::filesystem::current_path(Window::home);
 		// Read data documenting control differences and put it into vectors
-		std::vector<int> offsets = popOffset(exediff);
-		std::vector<int> values = popValues(exediff);
+		std::vector<int> offsets = dataTools::popOffset(exediff);
+		std::vector<int> values = dataTools::popValues(exediff);
 		// Open file
 		std::filesystem::current_path(patchProcessor::gamefilePath);
 		std::filesystem::current_path(applyPatch::temp);
@@ -84,8 +84,8 @@ void controlEditor::editBattleExe(std::string file) {
 		std::filesystem::current_path(Window::home);
 		int batch_decompress = system("Tools\\xenocomp.exe -d gamefiles\\temp\\0038 gamefiles\\temp\\0038.dec");
 		// Read data documenting control differences and put it into vectors
-		std::vector<int> offsets = popOffset(battlediff);
-		std::vector<int> values = popValues(battlediff);
+		std::vector<int> offsets = dataTools::popOffset(battlediff);
+		std::vector<int> values = dataTools::popValues(battlediff);
 		// Open file
 		std::string decomp = "0038.dec";
 		std::fstream fileContents;
@@ -110,32 +110,4 @@ void controlEditor::editBattleExe(std::string file) {
 	else {
 		return;
 	}
-}
-
-std::vector<int> controlEditor::popOffset(std::string dataFile) {
-	std::string line;
-	std::fstream exedata;
-	std::vector<int> offsets;
-	exedata.open(dataFile);
-	while (getline(exedata, line)) {
-		int pos = line.find(",");
-		std::string offset = line.substr(0, pos);
-		offsets.emplace_back(stoi(line));
-	}
-	exedata.close();
-	return offsets;
-}
-
-std::vector<int> controlEditor::popValues(std::string dataFile) {
-	std::string line;
-	std::fstream exedata;
-	std::vector<int> values;
-	exedata.open(dataFile);
-	while (getline(exedata, line)) {
-		int pos = line.find(",");
-		std::string value = line.substr(pos + 1);
-		values.emplace_back(stoi(value, nullptr, 16));
-	}
-	exedata.close();
-	return values;
 }

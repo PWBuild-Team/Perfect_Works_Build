@@ -50,6 +50,24 @@ void fileEditor::scriptEdits() {
 		gameFileTools::remove2614Decomp();
 		std::filesystem::current_path("..\\");
 	}
+	if (windowHandler::metricticked == BST_CHECKED && windowHandler::itemspellsticked == BST_CHECKED) {
+		std::filesystem::current_path(Window::home);
+		// Read data documenting menu exe differences and put it into vectors
+		std::vector<int> offsets = dataTools::popOffset(menuexe);
+		std::vector<int> values = dataTools::popValues(menuexe);
+		// Open file
+		std::filesystem::current_path(patchProcessor::gamefilePath);
+		std::filesystem::current_path(applyPatch::temp);
+		std::fstream fileContents;
+		fileContents.open("2597", std::ios::in | std::ios::out | std::ios::binary);
+		// Edit file
+		for (int i = 0; i < offsets.size(); i++) {
+			fileContents.seekp(offsets[i], std::ios_base::beg);
+			fileContents.write(reinterpret_cast <char*>(&values[i]), 1);
+		}
+		fileContents.close();
+		std::filesystem::current_path("..\\");
+	}
 }
 
 void fileEditor::audioEdits() {

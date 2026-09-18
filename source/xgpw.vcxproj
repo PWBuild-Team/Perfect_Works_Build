@@ -161,6 +161,7 @@
     <ClInclude Include="applyPatch.h" />
     <ClInclude Include="audioEditor.h" />
     <ClInclude Include="controlEditor.h" />
+    <ClInclude Include="helper\dataTools.h" />
     <ClInclude Include="fileEditor.h" />
     <ClInclude Include="helper\fileSystemTools.h" />
     <ClInclude Include="framework.h" />
@@ -185,6 +186,10 @@
     <ClCompile Include="applyPatch.cpp" />
     <ClCompile Include="audioEditor.cpp" />
     <ClCompile Include="controlEditor.cpp" />
+    <ClCompile Include="helper\dataTools.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">NotUsing</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">NotUsing</PrecompiledHeader>
+    </ClCompile>
     <ClCompile Include="fileEditor.cpp" />
     <ClCompile Include="helper\fileSystemTools.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">NotUsing</PrecompiledHeader>

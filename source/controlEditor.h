@@ -2,6 +2,7 @@
 #include "pch.h"
 #include "helper/gameFileTools.h"
 #include "helper/fileSystemTools.h"
+#include "helper/dataTools.h"
 #include "Window.h"
 #include <string>
 #include <filesystem>
@@ -16,8 +17,6 @@ public:
 	static void editBattleFile(std::string trimfile);
 	static void editExecutable(std::string file);
 	static void editBattleExe(std::string file);
-	static std::vector<int> popOffset(std::string dataFile);
-	static std::vector<int> popValues(std::string dataFile);
 
 	// Global variables
 public:
