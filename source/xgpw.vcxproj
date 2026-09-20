@@ -169,6 +169,7 @@
     <ClInclude Include="graphicalEditor.h" />
     <ClInclude Include="helper\gameFileTools.h" />
     <ClInclude Include="main.h" />
+    <ClInclude Include="metricEditor.h" />
     <ClInclude Include="monsterEditor.h" />
     <ClInclude Include="windowPainter.h" />
     <ClInclude Include="partyStatEditor.h" />
@@ -202,6 +203,7 @@
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">NotUsing</PrecompiledHeader>
     </ClCompile>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="metricEditor.cpp" />
     <ClCompile Include="monsterEditor.cpp" />
     <ClCompile Include="windowPainter.cpp" />
     <ClCompile Include="partyStatEditor.cpp" />

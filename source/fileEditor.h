@@ -11,6 +11,7 @@
 #include "helper/fileSystemTools.h"
 #include "gameplayFileEditor.h"
 #include "helper/dataTools.h"
+#include "metricEditor.h"
 
 class fileEditor
 {
@@ -28,6 +29,6 @@ public:
 
 	// Global variables
 public: 
-	inline static std::string menuexe = "data\\metrics\\2597.csv";
+	
 };
 

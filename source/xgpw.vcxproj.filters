@@ -84,6 +84,9 @@
     <ClInclude Include="helper\dataTools.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="metricEditor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -144,6 +147,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="helper\dataTools.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="metricEditor.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
