@@ -56,6 +56,50 @@ Xenogears: Perfect Works is a collaborative project aiming to make Xenogears a m
 
 DISCLAIMER: Some of the patches were designed to work in tandem with each other. The 2x exp and gold patches were designed to work with the lower encounter rate patch. The monster stats and party/item patch both act as a rebalancing hack. They can be used separately from each other, but they were designed with the mindset of using them together.
 
+## Options
+
+### Graphics
+
+- Face fixes (resize): Fixes bugs with portraits and resizes them when running the game at its native aspect ratio.
+- Face fixes (normal): Fixes bugs with portraits without resizing.
+- No battle flashes: Turns off battle flashes.
+- Perfect Works Roni: Uses Roni's Perfect Works portrait.
+- Emeralda cafe fix: Fixes an oversight where Emeralda used her nanomachine tube sprites when sitting down.
+
+### Gameplay
+
+- 1/2 encounters: Halves the game's encounter rate.
+- Modify experience: Increase experience yield from enemies by 1.5x or 2x.
+- Modify gold: Increase gold yield from enemies by 1.5x or 2x.
+- Rebalanced enemies: Changes stats of specific enemies and bosses to make them more challenging.
+- Rebalanced party/items: Modifies the stats and abilities of the party, as well as adds new items while adjusting existing ones.
+- No Deathblow levels: All Deathblows are available to learn at level 1.
+- No damage cap: The damage displayed can exceed 9999.
+
+### Arena
+
+- Normal: Battle Arena is unchanged.
+- Basic mode: Rebalances the Battle Arena.
+- Expert mode: Same as above, but additional tweaks are made for the PVP experience.
+
+### Story
+
+- Script/name changes: Retranslates the game's script.
+- Fast text: Increases the text scroll speed.
+- Instant text: Text displays instantly.
+
+### Audio
+
+- FMV undub: Switches the FMVs to the Japanese versions using subtitles that are more accurate than the original translation.
+- Battle undub: Switches voices heard during battles to the Japanese versions.
+- Music changes: Changes music placement in specific scenes so that they're more appropriate.
+
+### Modes
+
+- Story mode: Eliminates any form of difficulty so the player can enjoy the story.
+- JPN controls: Switches to the Japanese control scheme.
+- Bug fix only: Only applies bug fixes.
+
 ## Version history
 
 ### Version 0.11.3
