@@ -796,10 +796,10 @@ there a while?
 <TextBlock 158 w:42 h:2>
 Fei
 "That's a good idea."<Close><End of Block>
-<TextBlock 159 w:32 h:3>
+<TextBlock 159 w:28 h:3>
 Bart
-"Oi, Fei,
-it's my ship!"<Close><End of Block>
+"Hold up, Fei,
+it's MY ship!"<Close><End of Block>
 <TextBlock 160 w:38 h:4>
 Captain
 "Oi, oi, the lady

@@ -128,11 +128,11 @@ Billy
 Bart isn't lying <-->
 Citan is the one
 who rescued us!"<Close><End of Block>
-<TextBlock 30 w:40 h:4>
+<TextBlock 30 w:38 h:4>
 Billy
 "No Limiter?<Delay 10>
 Isn't that because
-Elly is a Solarian?"<Close><End of Block>
+Elly's a Solarian?"<Close><End of Block>
 <TextBlock 31 w:48 h:4>
 Billy
 "Yes.<New>

@@ -1,44 +1,47 @@
-<TextBlock 1 w:28 h:3>
-Wanna go back?<Delay 10>
+<TextBlock 1 w:42 h:3>
+Do you wish to leave?<Delay 10>
 <Opcode 1 255>    Yes
     No<Close><End of Block>
 <TextBlock 2 w:32 h:3>
-This is...
-'Merry-Go-Pop'
+This way is...
+Merry-Go-Pop.
 One game is 10G.<Close><End of Block>
 <TextBlock 3 w:40 h:3>
 Do you want to play?<Delay 10>
 <Opcode 1 255>    Play
-    No way<Close><End of Block>
+    Don't play<Close><End of Block>
 <TextBlock 4 w:32 h:4>
 Who will play?<Delay 10>
 <Opcode 1 255>    <Perso1>
     <Perso2>
     <Perso3><Close><End of Block>
-<TextBlock 5 w:38 h:1>
-Not enough money...<Close><End of Block>
-<TextBlock 6 w:34 h:3>
-This is...
-'Whose Balloons?'
+<TextBlock 5 w:30 h:2>
+You don't have
+enough money...<Close><End of Block>
+<TextBlock 6 w:38 h:3>
+This way is...
+Who's-Who Balloons.
 One game is 10G.<Close><End of Block>
 <TextBlock 7 w:40 h:3>
 Do you want to play?<Delay 10>
 <Opcode 1 255>    Play
-    No way<Close><End of Block>
+    Don't play<Close><End of Block>
 <TextBlock 8 w:32 h:4>
 Who will play?<Delay 10>
 <Opcode 1 255>    <Perso1>
     <Perso2>
     <Perso3><Close><End of Block>
-<TextBlock 9 w:38 h:1>
-Not enough money...<Close><End of Block>
-<TextBlock 10 w:34 h:3>
-This is...
-'Mirror of Truth'
+<TextBlock 9 w:30 h:2>
+You don't have
+enough money...<Close><End of Block>
+<TextBlock 10 w:40 h:3>
+This way is...
+the Mirror of Truth.
 One game is 10G.<Close><End of Block>
 <TextBlock 11 w:40 h:3>
 Do you want to play?<Delay 10>
 <Opcode 1 255>    Play
-    No way<Close><End of Block>
-<TextBlock 12 w:38 h:1>
-Not enough money...<Close><Close><End of Block>
+    Don't play<Close><End of Block>
+<TextBlock 12 w:30 h:2>
+You don't have
+enough money...<Close><Close><End of Block>

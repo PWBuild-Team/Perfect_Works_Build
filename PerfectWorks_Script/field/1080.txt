@@ -7,10 +7,10 @@ Fei
 "N-No...<Delay 40>
 Nothing to do
 with us..."<Close><End of Block>
-<TextBlock 3 w:36 h:3>
+<TextBlock 3 w:34 h:3>
 Fei
 "Huh?
-What do you mean?"<Close><End of Block>
+What d'you mean?"<Close><End of Block>
 <TextBlock 4 w:32 h:3>
 Rico
 "Tch!

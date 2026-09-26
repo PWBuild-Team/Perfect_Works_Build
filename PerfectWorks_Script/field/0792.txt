@@ -374,7 +374,7 @@ Citan
 You could put it that way."<Close><End of Block>
 <TextBlock 54 w:46 h:3>
 Bart
-"What do you mean 'you
+"What d'you mean 'you
 could put it that way'?<New>
 Well,<Delay 5> maybe it IS
 time I did something

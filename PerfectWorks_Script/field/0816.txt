@@ -23,14 +23,14 @@ have registered for
 the Tournament."<Close><End of Block>
 <TextBlock 6 w:50 h:4>
 Citan
-"Good morning.
-Operation 'Rescue Margie'
-is now underway!"<Close><End of Block>
+"Good morning.<Delay 10> Well then,
+'Operation Rescue Margie'
+is finally underway!"<Close><End of Block>
 <TextBlock 7 w:54 h:4>
 Citan
 "First, Fei and I will
 prepare for the Tournament
-at the arena.<New>
+over at the venue.<New>
 When the Tournament starts,
 Bart will enter the
 waterway through the well
@@ -47,7 +47,9 @@ at the Tournament to draw
 the guards' attention for
 as long as possible.<New>
 During that time, you can
-rescue Margie.<Close><End of Block>
+rescue Margie, who is
+being held in the castle
+tower.<Close><End of Block>
 <TextBlock 8 w:42 h:3>
 Any questions?"<Delay 10>
 <Opcode 1 255>    Got it
@@ -70,21 +72,25 @@ More sightseeing
 in Av?"<Delay 10>
 <Opcode 1 255>    Yes
     Rest<Close><End of Block>
-<TextBlock 13 w:46 h:3>
+<TextBlock 13 w:42 h:4>
 Bart
 "Really?<New>
-If we succeed tomorrow,
-I won't be comin' back
-here for a while."<Close><End of Block>
-<TextBlock 14 w:48 h:3>
+I guess if we succeed
+tomorrow, we won't be
+comin' back here for
+a while."<Close><End of Block>
+<TextBlock 14 w:44 h:4>
 Bart
-"Yeah, tomorrow will be
+"Right.
+Tomorrow's gonna be
 tough for both of us."<Close><End of Block>
-<TextBlock 15 w:42 h:3>
+<TextBlock 15 w:40 h:4>
 Bart
-"Did you register for
-the Tournament? What?<New>
-Not yet? Hurry and go
+"Did you finish
+registering for
+the Tournament?<New>
+Not yet? What're you
+doing!? Hurry and go
 sign up."<Close><End of Block>
 <TextBlock 16 w:42 h:4>
 Bart
@@ -94,99 +100,105 @@ get ready, too."<Close><End of Block>
 <TextBlock 17 w:38 h:2>
 Is this plan really
 going to work?<Close><End of Block>
-<TextBlock 18 w:52 h:4>
+<TextBlock 18 w:54 h:4>
 Bart
-"It's already started.
-If something's wrong now,
-then that's tough!<New>
+"It's already in motion.
+If you've found a flaw now,
+there's not much we can do!<New>
 What're you worried about?
 Fei'll do fine.
 Besides, Citan's with him,
 too.<New>
 Now, all I gotta do is
-sneak into the castle
-via the well.
-No problem."<Close><End of Block>
-<TextBlock 19 w:20 h:1>
-I pray so.<Close><End of Block>
-<TextBlock 20 w:34 h:4>
+get to the well and sneak
+into the castle from
+underground.<Delay 10> No problem."<Close><End of Block>
+<TextBlock 19 w:26 h:1>
+I suppose so.<Close><End of Block>
+<TextBlock 20 w:42 h:4>
 Bart
-"Well, I'm going.<Delay 5>
-Margie's waiting
-in the citadel."<Close><End of Block>
-<TextBlock 21 w:34 h:3>
-Well, then...
-do be careful.<New>
-And thank you for
-helping Mother
-Marguerite.<Close><End of Block>
-<TextBlock 22 w:40 h:4>
+"Well, here goes.<Delay 5>
+Margie was in the
+castle tower, right?"<Close><End of Block>
+<TextBlock 21 w:48 h:4>
+Yes.<Delay 5>
+Do be careful.<Delay 5>
+Thank you so much for
+helping our Holy Mother.<Close><End of Block>
+<TextBlock 22 w:36 h:4>
 Bart
 "No sweat!
 You'd better get
 outta Av now, too.<New>
-Things are gonna get
-outta hand soon."<Close><End of Block>
+We're gonna cause
+quite a stir."<Close><End of Block>
 <TextBlock 23 w:20 h:1>
 Thank you.<Close><End of Block>
 <TextBlock 24 w:4 h:1>
 !!<Opcode 2 30><Close><End of Block>
-<TextBlock 25 w:44 h:4>
-What's going on!?
-How dare you come into
+<TextBlock 25 w:42 h:4>
+Wh-What's going on!?
+All of you! Coming in
 other people's rooms
-through the window...<Close><End of Block>
+through the window<--><Close><End of Block>
 <TextBlock 26 w:38 h:1>
 Prince Bartholomew!<Close><End of Block>
-<TextBlock 27 w:44 h:3>
-...I'm sorry. I heard
-Prince Bartholomew was
-coming here...<New>
+<TextBlock 27 w:48 h:3>
+...I'm sorry. I'd heard
+Prince Bartholomew would
+be coming here...<New>
 I just never expected
 it would be through
 the window...<Close><End of Block>
 <TextBlock 28 w:30 h:1>
 Please come in.<Close><End of Block>
-<TextBlock 29 w:32 h:2>
-Excuse me, but
-who are they...?<Close><End of Block>
+<TextBlock 29 w:50 h:2>
+Excuse me, Your Highness,
+but who are they...?<Close><End of Block>
 <TextBlock 30 w:46 h:4>
-<Opcode 14 1>Bart
-"Oh, this is Fei and
+Bart
+<Opcode 14 1>"Oh, this is Fei and
 Citan. They're going to
-help rescue Margie."<Close><End of Block>
-<TextBlock 31 w:52 h:4>
+help me rescue Margie."<Close><End of Block>
+<TextBlock 31 w:50 h:4>
 Thank you for coming here
 in this desert heat.
-I am a servant of the
-Nisan Sect.<New>
+I am here on the orders
+of the Nisan Sect.<New>
 Ever since Shakhan took
 Mother Marguerite, I've
 been looking into ways
 to get her back.<New>
 I've been trying to find
-out where she's being
-held,<New>
-listening to workers
-talk about the comings
-and goings at the castle,<New>
-and giving food to the
-guards who are preparing
-for the Tournament, to
-loosen their lips too.<New>
-Yesterday, I finally got
-some information...
-Margie's in the citadel.<New>
-The problem is how to
+out where she's been
+held all this time <--><New>
+listening through the
+night to the grumblings
+of the workers coming
+and going,<New>
+providing meals for all
+the guards getting ready
+for the festival <-->
+it's been a nightmare.<New>
+And then yesterday,
+I was finally able to
+get a hold of some
+key information.<New>
+The Holy Mother is being
+held in the castle tower.
+The question is how to
 slip into the castle...<New>
-I thought about it a lot,
-but it looks pretty bleak.
+It would be quite an
+undertaking...and I've
+thought about it from all
+angles, but...<New>
 I'm sorry.<Close><End of Block>
-<TextBlock 32 w:50 h:3>
+<TextBlock 32 w:46 h:4>
 Bart
-"No big deal. At least
-we know where she is now.<New>
-You just relax, we'll
+"Don't worry about it.
+At least we know where
+she is now.<New>
+You just relax <--> we'll
 find a way to slip into
 the castle."<Close><End of Block>
 <TextBlock 33 w:54 h:3>
@@ -194,15 +206,18 @@ My apologies. If there's
 anything else I can do
 to help, just ask...<New>
 Do you have any good leads?<Close><End of Block>
-<TextBlock 34 w:38 h:2>
-Did you find a way
-into the castle?<Close><End of Block>
-<TextBlock 35 w:40 h:2>
-Did you find a way
-to use the festival?<Close><End of Block>
-<TextBlock 36 w:40 h:2>
-Any new information?
-Good ideas?<Close><End of Block>
+<TextBlock 34 w:34 h:3>
+Have you found a
+way to infiltrate
+the castle?<Close><End of Block>
+<TextBlock 35 w:36 h:3>
+Have you found a
+way to make use of
+the festival?<Close><End of Block>
+<TextBlock 36 w:46 h:3>
+Did you get any useful
+intel? Have you thought
+of a good strategy?<Close><End of Block>
 <TextBlock 37 w:32 h:2>
 Any luck finding
 the well key?<Close><End of Block>
@@ -210,151 +225,159 @@ the well key?<Close><End of Block>
 Bart
 "Yeah, the old guy next
 to the well had it."<Close><End of Block>
-<TextBlock 39 w:44 h:3>
+<TextBlock 39 w:40 h:4>
 Citan
-"Not yet. We are going
-to look for it again."<Close><End of Block>
-<TextBlock 40 w:44 h:4>
+"No, not yet. We are
+going to try looking
+for it again."<Close><End of Block>
+<TextBlock 40 w:40 h:4>
 Bart
 "Not yet. Right now
 we're gonna hit the
 streets for info.<New>
-We'll think about the
+We'll figure out the
 rest later."<Close><End of Block>
 <TextBlock 41 w:50 h:4>
-I see. I'm very relieved
+Understood.<Delay 10> I'm relieved
 that you're all here.
 Please come see me again
 if you hear anything new.<Close><End of Block>
-<TextBlock 42 w:54 h:4>
+<TextBlock 42 w:50 h:4>
 Bart
-"I just remembered where
-Breidablik's water supply
-comes from...<New>
-Spring water rises up from
-under the castle and flows
+"I remembered where the
+town's water comes from.<New>
+The spring water beneath
+Fatima Castle is supplied
 to the town via a series
 of underground waterways.<New>
-We can sneak into the
-castle by going through
-these underground
-waterways.<New>
-We can access them via the
-town's wells. The waterways
+We'll sneak in by going
+through those underground
+waterways!<New>
+You access them via the
+town's wells, and they
 should lead right to the
-castle's reservoir.<New>
-If we're able to get that
-far, we should be able to
-sneak into the other rooms
-of the castle from there."<Close><End of Block>
-<TextBlock 43 w:50 h:4>
+castle reservoir.<New>
+If we can get that far,
+everything'll work out."<Close><End of Block>
+<TextBlock 43 w:52 h:4>
 Citan
-"A good idea, but I have
-one further suggestion.<New>
-There is a festival going
-on now. There must be a
-way we can use it to our
-advantage."<Close><End of Block>
+"It is a good idea, but
+not quite foolproof.<New>
+Apparently there is a
+festival on at the moment.<Delay 5>
+There may be a way we can
+use it to our advantage."<Close><End of Block>
 <TextBlock 44 w:2 h:1>
 !<Opcode 2 30><Close><End of Block>
-<TextBlock 45 w:40 h:3>
-North of town is a
-plaza. The castle is
-beyond that.<New>
-I'm sure you'll find
+<TextBlock 45 w:46 h:3>
+North of town is the
+festival plaza, and
+beyond that the castle.<New>
+Perhaps you'll find
 something there.<Close><End of Block>
-<TextBlock 46 w:52 h:4>
+<TextBlock 46 w:54 h:4>
 Citan
 "Tomorrow is the
 Tournament. There will
-be betting at the arena.<New>
-Surely the soldiers' minds
-will be on the Tournament
+be betting at the venue.<New>
+The soldiers' minds will
+surely be on the Tournament
 more than on their job.<New>
 We must use this to our
 advantage."<Close><End of Block>
-<TextBlock 47 w:34 h:1>
-What do you mean?<Close><End of Block>
-<TextBlock 48 w:44 h:4>
+<TextBlock 47 w:22 h:1>
+Use it how?<Close><End of Block>
+<TextBlock 48 w:48 h:3>
 Citan
-"Fei will participate.
-We will have him put
-on a big show there."<Close><End of Block>
+"Fei will participate.<New>
+We will have him shake
+up the contest and cause
+a commotion."<Close><End of Block>
 <TextBlock 49 w:54 h:4>
 Bart
 "Tomorrow's the Tournament.<New>
-Nothing's more popular than
-gambling at these things.<New>
-All the guards will be
-placing bets.<New>
-They'll be more interested
-in the fight than their
-jobs. We gotta use this.
-Fei! You've gotta fight!"<Close><End of Block>
+It's a martial-arts
+contest, but it'll be
+rife with gambling more
+than anything else.<New>
+All the guards'll be
+placing bets. They'll be
+more focused on the bouts
+than on security.<New>
+We've gotta use this.
+Fei! You've gotta enter!"<Close><End of Block>
 <TextBlock 50 w:20 h:2>
 Fei
 "Huh? Me?"<Close><End of Block>
-<TextBlock 51 w:54 h:4>
+<TextBlock 51 w:46 h:4>
 Bart
-"Everyone would know me.
-Besides, I know the castle
-well so I should sneak in."<Close><End of Block>
-<TextBlock 52 w:46 h:4>
+"My secret would be out
+if I participated.<New>
+Besides, I know the
+castle's layout, so
+really my role'll be
+to do the sneaking in."<Close><End of Block>
+<TextBlock 52 w:42 h:3>
 I'm sure today's the
-last day to sign up for
-the Tournament. You'd
-better register soon.<Close><End of Block>
+last day to sign up
+for the Tournament.<New>
+You'd better register
+over at the castle
+before it's too late.<Close><End of Block>
 <TextBlock 53 w:48 h:3>
 Citan
 "No need to worry.
 Fei already registered."<Close><End of Block>
 <TextBlock 54 w:50 h:4>
 Citan
-"Even if using that ploy,
-how will you actually get
-into the castle?"<Close><End of Block>
-<TextBlock 55 w:52 h:4>
+"Supposing we go with the
+diversion, what will your
+infiltration method be?"<Close><End of Block>
+<TextBlock 55 w:50 h:4>
 Bart
-"...We gotta get more
-info.<Delay 30> I'm sure we'll get a
-good idea from somewhere."<Close><End of Block>
+"...We gotta gather a bit
+more info.<Delay 30> I'm sure we'll
+come up with something."<Close><End of Block>
 <TextBlock 56 w:52 h:3>
 Citan
 "Very well.<New>
-If we get any good ideas
+If we find a good approach
 we will meet back here and
 plan our strategy."<Close><End of Block>
-<TextBlock 57 w:52 h:4>
+<TextBlock 57 w:50 h:4>
 Citan
-"Tomorrow, Fei will be in
-the Tournament at Fatima
-Castle.<New>
-We will put on a good show
-to distract the guards.<New>
-Then Bart will infiltrate
-the castle through the
-underground waterways
-by way of the well.<New>
+"Tomorrow, Fei will take
+part in the Tournament at
+Fatima Castle.<New>
+When he causes a bit of
+a stir, security will
+become lax.<New>
+Meanwhile, Bart will
+infiltrate the castle
+through the underground
+waterways via the well.<New>
 I will accompany Fei to
 the Tournament. I will
-also help work the crowd
-and secure our escape."<Close><End of Block>
+help stir things up, and
+secure an escape route."<Close><End of Block>
 <TextBlock 58 w:50 h:4>
 Citan
-"Well, then...<New>
-Fei is in the Tournament.
-He will draw the guards'
-attention.<New>
-Then Bart will enter the
-castle through the
+"Alright then.<New>
+Fei joins the Tournament.
+He will shake up the
+contest and draw the
+guards' attention.<New>
+Meanwhile, Bart will
+infiltrate the castle
+through the underground
 waterways via the well.<New>
-After that he will rescue
-Marguerite from the
-citadel.<New>
+He will then rescue
+Miss Margie from the
+castle tower.<New>
 I will accompany Fei to
 the Tournament. I will
-also help work the crowd
-and secure our escape."<Close><End of Block>
+help stir things up, and
+secure an escape route."<Close><End of Block>
 <TextBlock 59 w:50 h:4>
 Citan
 "...<Delay 50>There is one problem.
@@ -367,27 +390,30 @@ and fast!"<Close><End of Block>
 <TextBlock 61 w:50 h:4>
 Citan
 "Preparations for our
-plan are complete.<New>
+infiltration mission
+are complete.<New>
 We will stay in the hotel
 for tonight and start out
 tomorrow.<New>
-We are free to do what we
-like for now.
-Let us have a look around
-the town."<Close><End of Block>
-<TextBlock 62 w:42 h:3>
+We are free to do what
+we like for now.<Delay 10>
+Fei, how about having a
+look around Breidablik?"<Close><End of Block>
+<TextBlock 62 w:42 h:4>
 Citan
-"Now to register for
+"Now all that is left
+is to register for
 the Tournament.<New>
-Fei, make for the
-castle while touring
-the town."<Close><End of Block>
-<TextBlock 63 w:46 h:1>
-Sorry I can't help you.<Close><End of Block>
+Fei, please head to
+the castle as part of
+your sightseeing."<Close><End of Block>
+<TextBlock 63 w:32 h:2>
+Sorry I can't be
+of more help.<Close><End of Block>
 <TextBlock 64 w:40 h:3>
 Please take care.
-I wish you the best
-of luck.<Close><End of Block>
+I pray that you will
+be victorious.<Close><End of Block>
 <TextBlock 65 w:34 h:4>
 Please take care.
 I will pray for
@@ -396,17 +422,17 @@ return safely.<Close><End of Block>
 <TextBlock 66 w:2 h:1>
 !<Delay 30><Close><End of Block>
 <TextBlock 67 w:48 h:4>
-Wh-Who are you!?
-Just barging into a
-lady's room.
-And from the window!<New>
+Wh-Wh-Who are you!?
+J-J-Just barging into a
+lady's room! And through
+the window, no less!<New>
 Oh, I think I'm going to
 faint. How rude you are!<Delay 30>
-What a dangerous town.
+What a dangerous town!
 Get out, now!<Close><End of Block>
-<TextBlock 68 w:44 h:2>
-What are you doing?
-Get out of here, now! <Opcode 2 30><Close><End of Block>
-<TextBlock 69 w:44 h:2>
+<TextBlock 68 w:42 h:2>
+What are you doing!?
+Get out of here, now!<Opcode 2 30><Close><End of Block>
+<TextBlock 69 w:42 h:2>
 No, don't come any
-closer! Get out, now! <Opcode 2 30><Close><End of Block>
+closer! Get out, now!<Opcode 2 30><Close><End of Block>

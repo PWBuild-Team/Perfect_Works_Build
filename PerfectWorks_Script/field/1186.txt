@@ -589,11 +589,11 @@ And when the catapults
 are opened, you can't
 use the main cannon.<Delay 10>
 Ahh, so many problems...<Close><End of Block>
-<TextBlock 89 w:52 h:4>
-The azimuth compass wasn't
-in its proper position.
-I'd better fix it while we
-are at an anchorage...<Close><End of Block>
+<TextBlock 89 w:50 h:4>
+A director was out of
+alignment by quite a bit.
+I'd better fix it while
+we're berthed...<Close><End of Block>
 <TextBlock 90 w:50 h:5>
 I want to change this to
 a firing radar with a

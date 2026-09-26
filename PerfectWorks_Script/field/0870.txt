@@ -106,9 +106,11 @@ yourselves hired."<Close><End of Block>
 !<Opcode 2 30><Close><End of Block>
 <TextBlock 18 w:2 h:1>
 !<Opcode 2 30><Close><End of Block>
-<TextBlock 19 w:42 h:1>
+<TextBlock 19 w:38 h:1>
 We will protect Av.<Close><End of Block>
-<TextBlock 20 w:48 h:3>
-This is the former
-Geburah base. It's under
-inspection <--> no entry.<Close><Close><End of Block>
+<TextBlock 20 w:54 h:3>
+Through here is the former
+Geburah base.<New>
+You won't be able to enter
+the rooms that're currently
+under investigation.<Close><Close><End of Block>

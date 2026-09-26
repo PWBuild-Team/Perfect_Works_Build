@@ -1,16 +1,15 @@
 <TextBlock 1 w:54 h:4>
 Mason
-"...*sob*...*sob*...
-Oh to think that Marguerite
-has now returned...<New>
+"*sob* Oh to think that
+Miss Marguerite will be
+returning to Nisan...<New>
 Come to think of it, this
 is the second time we have
-had to flee from the Royal
-Capital.<New>
-It seems an awful long
-time ago...
-That night that I took
-them with me to escape..."<Close><End of Block>
+fled the Royal Capital.<New>
+It seems an awfully long
+time ago, the night I got
+the two little ones out of
+there."<Close><End of Block>
 <TextBlock 2 w:54 h:4>
 Bart
 "Yeah and on top of that he

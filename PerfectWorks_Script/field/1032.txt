@@ -424,12 +424,12 @@ like the prison barracks?<New>
 There must be some special
 reason for you to grace
 us with your presence?"<Close><End of Block>
-<TextBlock 81 w:54 h:4>
+<TextBlock 81 w:44 h:4>
 Rico
 "Yes there is.<New>
-<Delay 5>...<Delay 5>I came in regard to the
-incident of the explosion
-during the first rounds of
+<Delay 5>...<Delay 5>I came in regard to
+the explosion incident
+in the first rounds of
 the Battling Contest."<Close><End of Block>
 <TextBlock 82 w:48 h:4>
 Fei
@@ -438,7 +438,7 @@ Fei
 happened the other day!"<Close><End of Block>
 <TextBlock 83 w:56 h:4>
 Citan
-"The explosion accident that
+"The explosion incident that
 Fei got caught up in during
 that bout?<New>
 What has that got to do

@@ -1,17 +1,19 @@
 <TextBlock 1 w:48 h:4>
  
-Welcome to the...
-   'Mirror of Truth'.
-<New>
-Is this the real world?<Delay 30>
-Is that the real world?<Delay 30>
-I'll show you the truth.<Close><End of Block>
-<TextBlock 2 w:44 h:2>
-This is great. <Delay 30>
-The three fat stooges!<Close><End of Block>
+       Welcome to
+  the Mirror of Truth. <New>
+  Is the real world on
+this side of the mirror?<Delay 30>
+  Or on the other side
+     of the mirror?<New>
+   I'll show you your
+     true physique.<Close><End of Block>
+<TextBlock 2 w:36 h:2>
+This is great.<Delay 30>
+A trio of fatties!<Close><End of Block>
 <TextBlock 3 w:22 h:3>
-Finished?<Delay 10>
+Had enough?<Delay 10>
 <Opcode 1 255>    Yes
-    Not Yet<Close><End of Block>
-<TextBlock 4 w:40 h:1>
-The exit's that way.<Close><Close><End of Block>
+    Not yet<Close><End of Block>
+<TextBlock 4 w:44 h:1>
+The exit's over there.<Close><Close><End of Block>

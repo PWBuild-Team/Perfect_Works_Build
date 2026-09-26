@@ -1,134 +1,137 @@
-<TextBlock 1 w:38 h:4>
+<TextBlock 1 w:40 h:4>
  
- Welcome to...
- 'Whose Balloons?'
-               <Close><End of Block>
-<TextBlock 2 w:50 h:3>
-Here are the rules.<New>
+     Welcome to
+ Who's-Who Balloons <Close><End of Block>
+<TextBlock 2 w:50 h:4>
+    Alright, I shall
+   explain the rules.<New>
 Children holding balloons
-will come floating down.<New>
-Their balloons will fly
-away as they let go of
-them.<New>
-You must catch the
-balloons and return 
-them to the children.<New>
-Return as many balloons
-as possible within the
-time limit.<Close><End of Block>
+     will come down.<New>
+They will immediately let
+  go of their balloons,
+   which will start to
+      float freely.<New>
+  You must return each
+balloon to the child who
+  had been holding it.<New>
+ Return as many balloons
+    to the children as
+   possible within the
+       time limit.<Close><End of Block>
 <TextBlock 3 w:46 h:4>
-Next I'll explain 
-the 'Bingo' bonus.<New>
-None of the sixteen
-'Bingo' panels are
-lit now.<New>
-Whenever you return a
-balloon to a child, a
-panel will either light
-up or go out.<New>
-When you get four lit
-panels in a row, it's
-a 'Bingo'!<New>
-Each 'Bingo' returns
-five times the prizes!<Close><End of Block>
-<TextBlock 4 w:30 h:4>
-Choose a level.<Delay 10>
+  Next I'll explain
+   the Bingo bonus.<New>
+  The sixteen panels
+ not currently lit up
+ are the Bingo panels.<New>
+ Whenever you return a
+ balloon to a child, a
+panel light will either
+    go on or go off.<New>
+  If you get four lit
+   panels in a line,
+   that's a 'Bingo'.<New>
+ Prizes are multiplied
+by five for each Bingo.<Close><End of Block>
+<TextBlock 4 w:44 h:4>
+Please choose a level.<Delay 10>
 <Opcode 1 255>    Easy
     Hard
-    Explanation<Close><End of Block>
+    Explain the game<Close><End of Block>
 <TextBlock 5 w:32 h:3>
 <Opcode 1 255> 
- Start the game 
-             <Close><End of Block>
+ Start the game <Close><End of Block>
 <TextBlock 6 w:42 h:2>
-You returned... <Delay 30>
-<Opcode 10 0> balloons<Close><End of Block>
-<TextBlock 7 w:32 h:3>
-Your prize is...<Delay 30>
-<Opcode 10 0>
-<Opcode 4 20><Close><End of Block>
-<TextBlock 8 w:24 h:3>
-Received
-<Opcode 10 0>
-<Opcode 4 20><Close><End of Block>
-<TextBlock 9 w:20 h:1>
-That's all<Close><End of Block>
-<TextBlock 10 w:16 h:1>
-Thanks! <Opcode 2 30><Close><End of Block>
-<TextBlock 11 w:24 h:2>
-Please find 
+   You returned...<Delay 30>
+     <Opcode 10 0> balloons. <Close><End of Block>
+<TextBlock 7 w:42 h:3>
+  Your prize is...<Delay 30>
+    <Opcode 10 0> x
+      <Opcode 4 20><Close><End of Block>
+<TextBlock 8 w:42 h:3>
+   Received
+   <Opcode 10 0> x
+   <Opcode 4 20><Close><End of Block>
+<TextBlock 9 w:38 h:2>
+    With that,
+I bid you farewell.<Close><End of Block>
+<TextBlock 10 w:14 h:1>
+Thanks!<Opcode 2 30><Close><End of Block>
+<TextBlock 11 w:22 h:2>
+Please find
 my balloon.<Opcode 2 30><Close><End of Block>
 <TextBlock 12 w:30 h:1>
 Nope. Not mine!<Opcode 2 30><Close><End of Block>
-<TextBlock 13 w:16 h:1>
-Thanks! <Opcode 2 30><Close><End of Block>
-<TextBlock 14 w:24 h:2>
-Please find 
+<TextBlock 13 w:14 h:1>
+Thanks!<Opcode 2 30><Close><End of Block>
+<TextBlock 14 w:22 h:2>
+Please find
 my balloon.<Opcode 2 30><Close><End of Block>
 <TextBlock 15 w:32 h:1>
 That's not mine!<Opcode 2 30><Close><End of Block>
-<TextBlock 16 w:16 h:1>
-Thanks! <Opcode 2 30><Close><End of Block>
-<TextBlock 17 w:24 h:2>
-Please find 
+<TextBlock 16 w:14 h:1>
+Thanks!<Opcode 2 30><Close><End of Block>
+<TextBlock 17 w:22 h:2>
+Please find
 my balloon.<Opcode 2 30><Close><End of Block>
 <TextBlock 18 w:32 h:1>
 That's not mine!<Opcode 2 30><Close><End of Block>
-<TextBlock 19 w:16 h:1>
-Thanks! <Opcode 2 30><Close><End of Block>
-<TextBlock 20 w:24 h:2>
-Please find 
+<TextBlock 19 w:14 h:1>
+Thanks!<Opcode 2 30><Close><End of Block>
+<TextBlock 20 w:22 h:2>
+Please find
 my balloon.<Opcode 2 30><Close><End of Block>
 <TextBlock 21 w:32 h:1>
 That's not mine!<Opcode 2 30><Close><End of Block>
-<TextBlock 22 w:16 h:1>
-Thanks! <Opcode 2 30><Close><End of Block>
-<TextBlock 23 w:24 h:2>
-Please find 
+<TextBlock 22 w:14 h:1>
+Thanks!<Opcode 2 30><Close><End of Block>
+<TextBlock 23 w:22 h:2>
+Please find
 my balloon.<Opcode 2 30><Close><End of Block>
 <TextBlock 24 w:28 h:1>
 That's not it!<Opcode 2 30><Close><End of Block>
-<TextBlock 25 w:16 h:1>
-Thanks! <Opcode 2 30><Close><End of Block>
-<TextBlock 26 w:24 h:2>
-Please find 
+<TextBlock 25 w:14 h:1>
+Thanks!<Opcode 2 30><Close><End of Block>
+<TextBlock 26 w:22 h:2>
+Please find
 my balloon.<Opcode 2 30><Close><End of Block>
 <TextBlock 27 w:28 h:1>
 That's not it!<Opcode 2 30><Close><End of Block>
-<TextBlock 28 w:16 h:1>
-Thanks! <Opcode 2 30><Close><End of Block>
-<TextBlock 29 w:24 h:2>
-Please find 
+<TextBlock 28 w:14 h:1>
+Thanks!<Opcode 2 30><Close><End of Block>
+<TextBlock 29 w:22 h:2>
+Please find
 my balloon.<Opcode 2 30><Close><End of Block>
 <TextBlock 30 w:32 h:1>
 That's not mine!<Opcode 2 30><Close><End of Block>
-<TextBlock 31 w:16 h:1>
-Thanks! <Opcode 2 30><Close><End of Block>
-<TextBlock 32 w:24 h:2>
-Please find 
+<TextBlock 31 w:14 h:1>
+Thanks!<Opcode 2 30><Close><End of Block>
+<TextBlock 32 w:22 h:2>
+Please find
 my balloon.<Opcode 2 30><Close><End of Block>
 <TextBlock 33 w:32 h:1>
 That's not mine!<Opcode 2 30><Close><End of Block>
-<TextBlock 34 w:16 h:1>
-Thanks! <Opcode 2 30><Close><End of Block>
-<TextBlock 35 w:24 h:2>
-Please find 
+<TextBlock 34 w:14 h:1>
+Thanks!<Opcode 2 30><Close><End of Block>
+<TextBlock 35 w:22 h:2>
+Please find
 my balloon.<Opcode 2 30><Close><End of Block>
 <TextBlock 36 w:32 h:1>
 That's not mine!<Opcode 2 30><Close><End of Block>
-<TextBlock 37 w:16 h:1>
-Thanks! <Opcode 2 30><Close><End of Block>
-<TextBlock 38 w:24 h:2>
-Please find 
+<TextBlock 37 w:14 h:1>
+Thanks!<Opcode 2 30><Close><End of Block>
+<TextBlock 38 w:22 h:2>
+Please find
 my balloon.<Opcode 2 30><Close><End of Block>
 <TextBlock 39 w:32 h:1>
 That's not mine!<Opcode 2 30><Close><End of Block>
-<TextBlock 40 w:16 h:1>
-Thanks! <Opcode 2 30><Close><End of Block>
-<TextBlock 41 w:24 h:2>
-Please find 
+<TextBlock 40 w:14 h:1>
+Thanks!<Opcode 2 30><Close><End of Block>
+<TextBlock 41 w:22 h:2>
+Please find
 my balloon.<Opcode 2 30><Close><End of Block>
 <TextBlock 42 w:32 h:1>
 That's not mine!<Opcode 2 30><Close><End of Block>
-<TextBlock 43 w:20 h:1>
- <Opcode 1 255> Bingo!! <Opcode 2 30><Close><End of Block>
+<TextBlock 43 w:34 h:3>
+<Opcode 1 255>
+     Bingo!! <Opcode 2 30><Close><End of Block>

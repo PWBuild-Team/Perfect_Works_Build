@@ -1,44 +1,48 @@
-<TextBlock 1 w:48 h:3>
-Since the war started
-you can really tell who
-is stupid and isn't.<New>
-The stupid ones have
-been forced out of
-business.<New>
+<TextBlock 1 w:50 h:4>
+Since the war started,
+it's become pretty clear
+who the smart folk are
+and who are the idiots.<New>
+The idiots are the ones
+who close up shop because
+they can't do business
+the way they used to.<New>
 But if you change your
-view, war can be good
-business.<New>
-When there aren't enough
-people or goods, you can
-sell at a higher price.<Close><End of Block>
-<TextBlock 2 w:42 h:4>
-A republic...<Delay 50>
-I could support that.
-No wait, I'd rather
-be a candidate.<New>
+perspective, war can be
+good business.<New>
+When people and goods are
+lacking, you can sell at
+high prices.<Close><End of Block>
+<TextBlock 2 w:50 h:4>
+A republic, huh...?<Delay 50>
+That could be profitable.<New>
+No wait, I could even
+run for office.<Delay 10>
 Prime Minister of the
-Republic of Av...<Delay 50>
-What a great job!<New>
-And I wouldn't have
-to pay taxes either!<Close><End of Block>
-<TextBlock 3 w:46 h:2>
-...That makes 5 mining 
-Gears and 10 miners.<Close><End of Block>
-<TextBlock 4 w:36 h:3>
-And make it quick!
-I need some miners
+Republic of Av...<New>
+That could be a great
+job <--> I wouldn't even
+have to pay taxes.<Close><End of Block>
+<TextBlock 3 w:48 h:2>
+...So that's five mining
+Gears and ten miners?<Close><End of Block>
+<TextBlock 4 w:44 h:4>
+And make it quick.<Delay 10>
+For the miners, I
+particularly need guys
 without families.<Close><End of Block>
-<TextBlock 5 w:46 h:6>
-Well...<Delay 60> When guys with
-families get killed on
-a dangerous job, I have
-to pay compensation to
-the families.
-It's a real pain.<Close><End of Block>
-<TextBlock 6 w:50 h:3>
-So that's it. <Delay 60>
-If you find some tell me.
+<TextBlock 5 w:58 h:6>
+Ahh...<Delay 60> I guess the guys with
+families don't wanna do the
+dangerous jobs. And when
+things go wrong, dealing with
+compensation for the families
+and all that's a real pain.<Close><End of Block>
+<TextBlock 6 w:44 h:4>
+Exactly.<Delay 60>
+Once you've rounded
+them up, get in touch.
 I'm counting on you.<Close><End of Block>
-<TextBlock 7 w:40 h:2>
-What's with you all?
+<TextBlock 7 w:44 h:2>
+What's with you guys!?
 Outta my way!<Close><Close><End of Block>

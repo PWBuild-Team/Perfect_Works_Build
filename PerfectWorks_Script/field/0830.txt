@@ -1,34 +1,37 @@
-<TextBlock 1 w:50 h:3>
-Is that waitress stupid? 
-She said she has to go 
-to block off the exit...<Close><End of Block>
-<TextBlock 2 w:54 h:4>
-My big brother worked in
-that restaurant.
-He caught so many bilkers
-who try to dine and dash.<New>
-He said he could tell who
-would do that kinda thing.
+<TextBlock 1 w:52 h:4>
+Is that waitress stupid?
+Going downstairs and stuff
+when she's supposed to
+block off the exit...<Close><End of Block>
+<TextBlock 2 w:60 h:5>
+My big brother worked in that
+restaurant. He caught so many
+dine-and-dashers. He said he
+could tell right away who was
+gonna do it.<New>
 Since he went into the army
-there's a new waitress...<New>
-I want to make it easy for
-him to get his job back
-when he returns.<New>
-I mainly bug the waitress
-and help the bilkers who
-dine and dash get away.<Close><End of Block>
+a new waitress started...
+But I'm doing my best so he
+can get his job back right
+away when he returns.<New>
+I bug the waitress and help
+the dine-and-dashers get away.<Close><End of Block>
 <TextBlock 3 w:50 h:3>
-My big brother came back
-but he's not working at
+My big brother came back.
+But he's not working at
 the restaurant.<New>
-I'm doing my best to get
-him a job soon. He says
-he's gonna be a gardener.<Close><End of Block>
-<TextBlock 4 w:50 h:4>
-Yep, home is best.
-No enemy bullets or
-sergeant's fists. And
-best of all is my family.<New>
-The army taught me that
-you have to do what you
-want while you can.<Close><Close><End of Block>
+Even though I went to all
+that effort so he'd be
+able to work there.<New>
+He says he's gonna be a
+gardener.<Close><End of Block>
+<TextBlock 4 w:54 h:4>
+Yep, home is good.<New>
+No more of the sergeant's
+knuckles, or enemy bullets
+flying. And best of all,
+my family's here.<New>
+I'm glad I joined the army,
+it made me realize you have
+to do what you really want
+while you still can!<Close><Close><End of Block>

@@ -14,10 +14,10 @@ Karellen
 Karellen
 "What're you
 doing, Lacan!?"<Close><End of Block>
-<TextBlock 5 w:40 h:4>
+<TextBlock 5 w:38 h:4>
 Karellen
-"That's enough!<Delay 10>
-I can't leave Lady
-Sophia in your care!<New>
+"That's it, I can't
+leave Lady Sophia
+in your care!<New>
 I will protect her
 with my life!"<Close><Close><End of Block>

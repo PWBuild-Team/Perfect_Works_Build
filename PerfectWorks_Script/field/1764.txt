@@ -87,7 +87,7 @@ others are<-->"<Close><End of Block>
 <TextBlock 20 w:42 h:3>
 Fei
 "Why!?<New>
-You've manipulated we
+You've manipulated us
 surface dwellers for
 your own ends!<New>
 You already own the

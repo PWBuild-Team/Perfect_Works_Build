@@ -1,112 +1,116 @@
-<TextBlock 1 w:44 h:2>
-Get out. I don't serve
-liquor to strangers!<Close><End of Block>
+<TextBlock 1 w:38 h:2>
+Get out. I don't
+serve to outsiders!<Close><End of Block>
 <TextBlock 2 w:44 h:3>
 Want something to eat?
 Then go wait at those
 tables up there.<Close><End of Block>
 <TextBlock 3 w:44 h:3>
-You're strangers, huh?<Delay 10>
+You're outsiders, huh?<Delay 10>
 <Opcode 1 255>    Yeah
     No<Close><End of Block>
-<TextBlock 4 w:46 h:3>
-You aren't from Kislev.<Delay 10>
+<TextBlock 4 w:52 h:3>
+Wait, are you Kislev folk?<Delay 10>
 <Opcode 1 255>    No, we're not!
     Why, yes we are!<Opcode 13 255><Opcode 2 1><Close><End of Block>
-<TextBlock 5 w:48 h:3>
-Yeah, I suppose...
-You look the same as us.<New>
-There's a rumor going
-around that spies are
-here for the festival...<Close><End of Block>
-<TextBlock 6 w:46 h:2>
-What? Then you're
-really Kislev spies...?<Close><End of Block>
+<TextBlock 5 w:52 h:2>
+Right, I suppose you
+do look the same as us.<New>
+There's a rumor that spies
+have used the festival to
+their advantage and are
+lurking here in town...<Close><End of Block>
+<TextBlock 6 w:48 h:2>
+Wh-What? Then you really
+are Kislev spies...<Close><End of Block>
 <TextBlock 7 w:46 h:3>
 ...<Delay 60>
-There have been rumors 
+There've been rumors 
 of spies recently...<New>
 We were told to report
 it if we see any.<Close><End of Block>
-<TextBlock 8 w:46 h:4>
-Hey!<Delay 60>
-Who d'ya think made it
-so ya can enjoy this
-festival in peace?<New>
-Soldiers! It's 'cause
-we're out there risking
-our lives. Did ya know
-that?<Close><End of Block>
-<TextBlock 9 w:36 h:4>
-That fool...<Delay 30>
+<TextBlock 8 w:48 h:4>
+Hey, you!<Delay 60>
+Who d'ya think makes it
+possible to have this
+festival in peace, huh!?<New>
+It's us soldiers, out
+there risking our lives.
+Hey! Did ya know that?<Close><End of Block>
+<TextBlock 9 w:38 h:4>
+Those damn fools...<Delay 30>
 Kicking the bucket
-before ever seeing
+before even seeing
 the Tournament...<Close><End of Block>
-<TextBlock 10 w:38 h:3>
-What! <Delay 30>
-Kislev spy?<Delay 30>
-I'm gonna <Delay 30>kill you!<Close><End of Block>
-<TextBlock 11 w:44 h:2>
+<TextBlock 10 w:48 h:3>
+Wha!?<Delay 30>
+Kislev spies?<Delay 30>
+I'll beat 'em to a pulp!<Close><End of Block>
+<TextBlock 11 w:44 h:3>
 I'm not losing to you!<Delay 30>
-Come on, Kislev spy!<Close><End of Block>
-<TextBlock 12 w:60 h:4>
-We're fighting to the end.
-This isn't for peace or
-justice or for the government,
-it's for my fallen comrades.<Close><End of Block>
+Come on then, damned
+Kislev spies!<Close><End of Block>
+<TextBlock 12 w:50 h:4>
+We'll fight till the end.<New>
+Not for peace or justice.
+And certainly not for the
+current government. But
+for our fallen comrades.<Close><End of Block>
 <TextBlock 13 w:48 h:3>
-I'm sorry, all his 
-friends were killed in
-the battle at the ruins.<New>
-He's a little wild.
-Forgive him.<Close><End of Block>
-<TextBlock 14 w:48 h:3>
-Hey, c'mon, you're drunk.
-Are you okay? <Delay 60>
-Let's go home.<Close><End of Block>
+Sorry about this. His
+comrades got killed in
+a battle at the ruins.<New>
+He's not in the best of
+moods. Do me a favor and
+cut him some slack.<Close><End of Block>
+<TextBlock 14 w:46 h:4>
+Hey, hey, you've had
+too much to drink!
+Are you okay?<Delay 60>
+C'mon, time to go home.<Close><End of Block>
 <TextBlock 15 w:4 h:1>
 !!<Opcode 2 30><Close><End of Block>
-<TextBlock 16 w:50 h:4>
-Fish are pretty. I
-could watch them all day.<Delay 10>
-<Opcode 1 255>    You said it!
-    I'd like to eat!<Close><End of Block>
-<TextBlock 17 w:48 h:4>
-I thought I'd go to the
-sea after the war.<Delay 60> 
-I don't mean the sea of
-sand either.<New>
-Just water, spreading on
-forever like a desert...
-A sea of water full of
-pretty fish.<Close><End of Block>
+<TextBlock 16 w:54 h:4>
+Fish are so pretty. I never
+get tired of watching them.<Delay 10>
+<Opcode 1 255>    You said it
+    But I'd like to eat<Close><End of Block>
+<TextBlock 17 w:58 h:4>
+I think I'll try going to
+the sea when the war's over.<Delay 60>
+And I don't mean the sea of
+sand!<New>
+Just water, a sea of water
+that goes on forever like
+the desert... A sea of water
+that's full of pretty fish...<Close><End of Block>
 <TextBlock 18 w:46 h:4>
 Your order?<Delay 10>
 <Opcode 1 255>    Something delicious
     Something cheap
-    Something fast<Close><End of Block>
-<TextBlock 19 w:26 h:1>
-Just a moment<Close><End of Block>
-<TextBlock 20 w:14 h:1>
-Enjoy. <Opcode 2 50><Close><End of Block>
+    Something quick<Close><End of Block>
+<TextBlock 19 w:28 h:1>
+Just a moment.<Close><End of Block>
+<TextBlock 20 w:12 h:1>
+Enjoy.<Opcode 2 50><Close><End of Block>
 <TextBlock 21 w:14 h:1>
 Thanks.<Close><End of Block>
-<TextBlock 22 w:50 h:1>
+<TextBlock 22 w:32 h:1>
 That'll be <Opcode 10 0>G.<Close><End of Block>
 <TextBlock 23 w:36 h:2>
-Thank you, 
-please come again.<Close><End of Block>
-<TextBlock 24 w:42 h:2>
-Hey, you don't have 
-enough money, do you?<Close><End of Block>
+Thank you.
+Please come again.<Close><End of Block>
+<TextBlock 24 w:44 h:2>
+Hey! You don't have 
+enough money, do you!?<Close><End of Block>
 <TextBlock 25 w:46 h:1>
-HP/EP fully restored! <New>
+HP/EP fully restored!<New>
 Gained a bit of weight!<Close><End of Block>
 <TextBlock 26 w:46 h:1>
-HP/EP restored a bit! <New>
+HP/EP restored a bit!<New>
 Gained a lot of weight!<Close><End of Block>
-<TextBlock 27 w:52 h:1>
-HP/EP partially restored! <New>
+<TextBlock 27 w:50 h:1>
+HP/EP partially restored!<New>
 Gained a bit of weight!<Close><End of Block>
 <TextBlock 28 w:28 h:1>
 That was good.<Close><End of Block>
@@ -114,19 +118,19 @@ That was good.<Close><End of Block>
 Oh, sorry.
 Table for how many?
 This way please.<Close><End of Block>
-<TextBlock 30 w:42 h:2>
-Oh god!
-Dine and dash, again!<Close><End of Block>
-<TextBlock 31 w:48 h:4>
-Even my good-for-
-nothin' kid gives me
-less to worry about than
-this wacky world...<Close><End of Block>
-<TextBlock 32 w:52 h:4>
+<TextBlock 30 w:38 h:2>
+Ma'aaam! We've got
+a dine-and-daaaash!<Close><End of Block>
+<TextBlock 31 w:52 h:4>
+What a strange world
+I'm in, when my
+good-for-nothin' son's
+the least of my worries...<Close><End of Block>
+<TextBlock 32 w:48 h:4>
 All the young men in
 town have been drafted.
-They wouldn't take me
-because I'm an alcoholic. <Close><End of Block>
+I couldn't get in
+'cause I'm an alcoholic.<Close><End of Block>
 <TextBlock 33 w:20 h:1>
 Follow me!<Close><End of Block>
 <TextBlock 34 w:34 h:2>
@@ -136,5 +140,5 @@ You have too many
  
  Received <Opcode 4 20><Close><End of Block>
 <TextBlock 36 w:44 h:2>
-<Opcode 1 255>    Do nothing
+<Opcode 1 255>    Stay here
     Return to waterway<Close><Close><End of Block>

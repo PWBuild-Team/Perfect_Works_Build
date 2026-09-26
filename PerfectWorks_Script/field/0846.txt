@@ -1,13 +1,15 @@
-<TextBlock 1 w:50 h:3>
+<TextBlock 1 w:54 h:4>
 This is the weapons shop.
-I'm helping out while my
-dad's away in the army.<Close><End of Block>
-<TextBlock 2 w:38 h:1>
-Thanks, come again.<Close><End of Block>
-<TextBlock 3 w:40 h:3>
+My dad's toughing it out
+in the army, so I'm helping
+at the moment.<Close><End of Block>
+<TextBlock 2 w:40 h:2>
+Thank you very much.
+Please come again.<Close><End of Block>
+<TextBlock 3 w:42 h:3>
 I'm back in business
-because my daughter 
-worked so hard.<Close><End of Block>
+thanks to my daughter
+working so hard.<Close><End of Block>
 <TextBlock 4 w:44 h:2>
 I'm so lucky to have
 such a great daughter.<Close><Close><End of Block>

@@ -12,9 +12,9 @@ in a single gulp.<Close><End of Block>
 <TextBlock 4 w:46 h:1>
 Gained a bit of weight.<Close><End of Block>
 <TextBlock 5 w:28 h:3>
-Hang on!
+What the<-->
 You don't have
-any money!?<Close><End of Block>
+any money?<Close><End of Block>
 <TextBlock 6 w:30 h:1>
 That'll be 50G.<Close><End of Block>
 <TextBlock 7 w:24 h:3>
@@ -27,104 +27,103 @@ Gained a bit of weight.<Close><End of Block>
 What the<-->
 You don't have
 any money?<Close><End of Block>
-<TextBlock 10 w:44 h:3>
-I haven't been to town
-in so long, Sarge, I
-don't know what to do.<Close><End of Block>
+<TextBlock 10 w:54 h:3>
+I haven't been back in town
+for so long, I don't know
+what there is to do, Sarge.<Close><End of Block>
 <TextBlock 11 w:46 h:2>
-Yeah...<Delay 30>
+I know what you mean...<Delay 30>
 How about the festival?<Close><End of Block>
 <TextBlock 12 w:32 h:1>
 The festival...?<Close><End of Block>
-<TextBlock 13 w:50 h:3>
-The festival to celebrate
-the truce with Kislev,<New>
-Prince Bartholomew's
-return and founding of
-the Republic.<Close><End of Block>
-<TextBlock 14 w:44 h:4>
-Oh yeah.<Delay 30>
-Let's go.<Delay 30>
+<TextBlock 13 w:58 h:4>
+The festival to celebrate the
+truce with Kislev, the return
+of Prince Bartholomew, and
+our becoming a republic.<Close><End of Block>
+<TextBlock 14 w:42 h:4>
+Oh yeah.<Delay 30> Let's do it.<Delay 30>
 We couldn't make it
-back for the last one.<Close><End of Block>
+home in time for the
+last one, after all.<Close><End of Block>
 <TextBlock 15 w:26 h:2>
-Okay, I'm all
-ready to go!<Close><End of Block>
+Alright, I'm
+raring to go!<Close><End of Block>
 <TextBlock 16 w:50 h:3>
-Yeah, I'm glad they had
-this festival, aren't
-you, Sarge?<Close><End of Block>
-<TextBlock 17 w:44 h:3>
-Stop calling me Sarge,
-we're not in the army
-anymore.<Close><End of Block>
-<TextBlock 18 w:50 h:4>
-Fish are so pretty. I
-could watch them all day.<Delay 10>
+Ahh, I sure am glad we
+could go to the festival,
+aren't you, Sarge?<Close><End of Block>
+<TextBlock 17 w:38 h:3>
+Uh, stop calling me
+Sarge. We're not in
+the army anymore.<Close><End of Block>
+<TextBlock 18 w:54 h:4>
+Fish are so pretty. I never
+get tired of watching them.<Delay 10>
 <Opcode 1 255>    You said it
-    I'd like to eat 'em<Close><End of Block>
-<TextBlock 19 w:50 h:3>
-The guy that used to
-work here came back from
-the army...<New>
-And said he would take
-me to the sea.<New>
-He said the water goes
-on forever just like
-the desert.<New>
-He also said we could see
-lots of pretty fish.
-I can't wait to go...<Close><End of Block>
+    But I'd like to eat<Close><End of Block>
+<TextBlock 19 w:52 h:4>
+The guy who used to work
+here came back from the
+army...<Delay 10> He said he'd take
+me to the sea sometime.<New>
+He said it really is just
+water, and that it goes on
+forever like the desert.<New>
+He said he saw it full
+of pretty fish.
+Ahh, I can't wait...<Close><End of Block>
 <TextBlock 20 w:46 h:4>
 Your order?<Delay 10>
 <Opcode 1 255>    Something delicious
     Something cheap
-    Something fast<Close><End of Block>
-<TextBlock 21 w:26 h:1>
-Just a moment<Close><End of Block>
-<TextBlock 22 w:14 h:1>
+    Something quick<Close><End of Block>
+<TextBlock 21 w:28 h:1>
+Just a moment.<Close><End of Block>
+<TextBlock 22 w:12 h:1>
 Enjoy.<Opcode 2 50><Close><End of Block>
 <TextBlock 23 w:14 h:1>
 Thanks.<Close><End of Block>
-<TextBlock 24 w:50 h:1>
+<TextBlock 24 w:32 h:1>
 That'll be <Opcode 10 0>G.<Close><End of Block>
 <TextBlock 25 w:36 h:2>
-Thank you,
-please come again.<Close><End of Block>
-<TextBlock 26 w:42 h:2>
-Hey, you don't have
-enough money, do you?<Close><End of Block>
+Thank you.
+Please come again.<Close><End of Block>
+<TextBlock 26 w:44 h:2>
+Hey! You don't have 
+enough money, do you!?<Close><End of Block>
 <TextBlock 27 w:48 h:4>
-In the old days, I'd
-go get the owner, which
-just gave people like
-you a chance to run.<New>
-Now it's different.
-The guy that worked here
-before told me,<New>
-just grab something
-of theirs whenever that
-happens.<Close><End of Block>
+...In the old days, I'd
+run to the owner, which
+just meant you were able
+to get away easily.<New>
+Now it's different!
+'Whenever that happens,
+it's fine to just take
+something of theirs'.<New>
+The guy who worked here
+before taught me that.<Close><End of Block>
 <TextBlock 28 w:36 h:1>
 ...<Delay 10>...<Delay 10>...<Delay 10>...<Delay 10>...<Delay 10>...<Opcode 2 10><Close><End of Block>
-<TextBlock 29 w:48 h:3>
-...Well, you don't have
-anything that's worth
-the price of the meal.<New>
-Just bring some money
-next time.<Close><End of Block>
+<TextBlock 29 w:52 h:3>
+...Ugh, why don't you
+have anything that's
+worth enough to cover it!?<New>
+Okay, I'll let you off
+this time. But bring some
+money in future.<Close><End of Block>
 <TextBlock 30 w:28 h:1>
-This is nice.<Opcode 2 30><Close><End of Block>
+This is good.<Opcode 2 30><Close><End of Block>
 <TextBlock 31 w:40 h:1>
 <Opcode 4 16>was taken.<Close><End of Block>
-<TextBlock 32 w:50 h:2>
+<TextBlock 32 w:40 h:2>
 That's still not
-enough to cover the meal.<Close><End of Block>
+enough for the meal.<Close><End of Block>
 <TextBlock 33 w:38 h:4>
-This will pay for
-the meal.<Delay 50>
-Next time please
-bring enough money.<Close><End of Block>
+Okay, that's enough
+to cover the meal.<Delay 50>
+Next time bring
+enough money, huh?<Close><End of Block>
 <TextBlock 34 w:46 h:1>
 HP/EP fully restored!<New>
 Gained a bit of weight!<Close><End of Block>
@@ -136,24 +135,29 @@ HP/EP partially restored!<New>
 Gained a bit of weight!<Close><End of Block>
 <TextBlock 37 w:28 h:1>
 That was good.<Close><End of Block>
-<TextBlock 38 w:52 h:2>
-Oh, sorry. Table for
-how many? This way please.<Close><End of Block>
-<TextBlock 39 w:52 h:2>
-Boss! We've got bilkers
-dining and dashing, again!<Close><End of Block>
+<TextBlock 38 w:38 h:3>
+Oh, sorry.
+Table for how many?
+This way please.<Close><End of Block>
+<TextBlock 39 w:38 h:2>
+Ma'aaam! We've got
+a dine-and-daaaash!<Close><End of Block>
 <TextBlock 40 w:52 h:4>
-You know...<Delay 50>
-Since all the men came
-back my son and I feel
-so ashamed.<New>
-But compared to wives
-whose sons and husbands
-died or came back wounded,<New>
-we're pretty happy.<Close><End of Block>
+You know...<Delay 50>since all the
+men who'd joined the army
+came back, my son and I
+have felt ashamed.<New>
+But compared to the women
+who lost their sons and
+husbands, or the men who
+came back wounded,<New>
+we can't help thinking
+the two of us are very
+fortunate.<Close><End of Block>
 <TextBlock 41 w:48 h:3>
-I've been thinking...
-about quitting drinking.<New>
-The reason I became an 
-alcoholic was to get out
-of going to war.<Close><Close><End of Block>
+Lately I've been
+thinking... I should
+probably stop the booze.<New>
+I must've become an
+alcoholic so I could
+avoid going to war.<Close><Close><End of Block>
