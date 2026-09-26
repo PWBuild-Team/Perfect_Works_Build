@@ -1,10 +1,6 @@
 #include "pch.h"
 #include "metricEditor.h"
 
-void metricEditor::process() {
-	decompMenuEdit();
-	compMenuEdit();
-}
 
 void metricEditor::decompMenuEdit() {
 	std::filesystem::current_path(Window::home);
@@ -43,4 +39,40 @@ void metricEditor::editExe(std::string file) {
 	}
 	fileContents.close();
 	std::filesystem::current_path("..\\");
+}
+
+void metricEditor::editStatus(std::string language) {
+	fileSystemTools::toTemp();
+	std::string menuFile = "2593.unk8";
+	handleReplace(menuFile, language);
+	menuFile = "3958.unk8";
+	handleReplace(menuFile, language);
+	std::filesystem::current_path("..\\");
+}
+
+void metricEditor::handleReplace(std::string menuFile, std::string language) {
+	// Decompress file
+	if (menuFile == "2593.unk8") {
+		int batch_decompress = system("..\\..\\Tools\\xenopack.exe -u 2593.unk8");
+	}
+	if (menuFile == "3958.unk8") {
+		int batch_decompress = system("..\\..\\Tools\\xenopack.exe -u 3958.unk8");
+	}
+	// Copy menu text
+	if (language == "en") {
+		std::filesystem::copy("..\\metric_subfiles\\en_2593_3958\\file2", "file2", std::filesystem::copy_options::overwrite_existing);
+	}
+	if (language == "jp") {
+		std::filesystem::copy("..\\metric_subfiles\\jp_2593_3958\\file2", "file2", std::filesystem::copy_options::overwrite_existing);
+	}
+	// Recompress file
+	if (menuFile == "2593.unk8") {
+		int batch_recompress = system("..\\..\\Tools\\xenopack.exe -p 2593.unk8");
+	}
+	if (menuFile == "3958.unk8") {
+		int batch_recompress = system("..\\..\\Tools\\xenopack.exe -p 3958.unk8");
+	}
+	// Remove decompressed files
+	remove("file0"), remove("file1"), remove("file2"), remove("file3"), remove("file4"), remove("file5"), remove("file6"), remove("file7");
+
 }

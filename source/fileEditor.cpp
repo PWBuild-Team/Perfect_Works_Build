@@ -50,8 +50,17 @@ void fileEditor::scriptEdits() {
 		gameFileTools::remove2614Decomp();
 		std::filesystem::current_path("..\\");
 	}
-	if (windowHandler::metricticked == BST_CHECKED && windowHandler::itemspellsticked == BST_CHECKED) {
-		metricEditor::process();
+	if (windowHandler::metricticked == BST_CHECKED) {
+		if (windowHandler::jpnticked == BST_CHECKED) {
+			metricEditor::editStatus("jp");
+		}
+		else {
+			metricEditor::editStatus("en");
+		}
+		if (windowHandler::itemspellsticked == BST_CHECKED) {
+			metricEditor::decompMenuEdit();
+			metricEditor::compMenuEdit();
+		}
 	}
 }
 

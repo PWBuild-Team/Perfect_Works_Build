@@ -5,10 +5,11 @@ class metricEditor
 {
 	// Global methods
 public:
-	static void process();
 	static void decompMenuEdit();
 	static void compMenuEdit();
 	static void editExe(std::string file);
+	static void editStatus(std::string language);
+	static void handleReplace(std::string file, std::string language);
 
 	// Global variables
 public:
