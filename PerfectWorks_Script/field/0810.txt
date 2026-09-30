@@ -99,7 +99,7 @@ Huh!?<Opcode 2 20><Close><End of Block>
 Hmm,<Delay 20>
 who're you again?<New>
 I can't recall...<Close><End of Block>
-<TextBlock 24 w:24 h:2>
+<TextBlock 24 w:22 h:2>
 Oh!
 I remember!<Opcode 2 100><Close><End of Block>
 <TextBlock 25 w:38 h:3>
@@ -442,11 +442,10 @@ steam-heads of Kislev.<Opcode 2 100><Close><End of Block>
 Shut up!<Delay 30>
 I'm the captain and I'm
 talkin' here!<Opcode 2 100><Close><End of Block>
-<TextBlock 108 w:44 h:4>
-Right, starting
-tomorrow we'll take
-turns.<Delay 30>
-Okay, then!<Opcode 2 60><Close><End of Block>
+<TextBlock 108 w:48 h:3>
+Right, starting tomorrow
+we'll take turns.<Delay 30>
+That's settled, then!<Opcode 2 60><Close><End of Block>
 <TextBlock 109 w:32 h:3>
 Let's return to
 patrol!<Delay 30>
@@ -467,7 +466,7 @@ this part of the desert!<Opcode 2 100><Close><End of Block>
 <TextBlock 114 w:10 h:1>
 Yeah!<Opcode 2 30><Close><End of Block>
 <TextBlock 115 w:38 h:1>
-<Opcode 1 1>You're not from Av!<Opcode 2 100><Close><End of Block>
+<Opcode 1 1>You're not from Av!<Opcode 2 60><Close><End of Block>
 <TextBlock 116 w:28 h:1>
 Company,<Delay 20> halt!<Opcode 2 20><Close><End of Block>
 <TextBlock 117 w:16 h:1>
@@ -482,17 +481,17 @@ It's not fair!
 You're always cap'n.<Opcode 2 100><Close><End of Block>
 <TextBlock 121 w:46 h:2>
 I was first!<Delay 20>
-Tomorrow I'm the cap'n!<Close><End of Block>
+Tomorrow I'm the cap'n!<Opcode 2 100><Close><End of Block>
 <TextBlock 122 w:8 h:1>
 Hey!<Opcode 2 30><Close><End of Block>
-<TextBlock 123 w:44 h:1>
-<Opcode 1 1>You a Kiswev...in Av...<Close><End of Block>
+<TextBlock 123 w:46 h:1>
+<Opcode 1 1>You a Kiswev...in Av...<Opcode 2 100><Close><End of Block>
 <TextBlock 124 w:42 h:2>
 Yeah, yeah <Delay 20>
 I wanna be cap'n too!<Opcode 2 100><Close><End of Block>
 <TextBlock 125 w:38 h:2>
-<Opcode 1 150>Me tooooo,
-I'm cap'n tomorrow.<Close><End of Block>
+Me tooooo,
+I'm cap'n tomorrow.<Opcode 2 100><Close><End of Block>
 <TextBlock 126 w:18 h:1>
 This way.<Opcode 2 30><Close><End of Block>
 <TextBlock 127 w:24 h:2>
@@ -668,8 +667,8 @@ The well key?<New>
 I've got it.
 I'm in charge of the
 Waterworks Association.<Close><End of Block>
-<TextBlock 159 w:60 h:4>
-What will you do with the key?<Delay 10>
+<TextBlock 159 w:56 h:4>
+What'll you do with the key?<Delay 10>
 <Opcode 1 255>    Search underground
     Rescue Margie
     Rob the castle<Close><End of Block>
@@ -690,7 +689,7 @@ You get that Shakhan
 for me!<Close><End of Block>
 <TextBlock 163 w:40 h:2>
 
- Received Well Key! <Close><End of Block>
+ Received Well Key!<Close><End of Block>
 <TextBlock 164 w:56 h:5>
 You total fools!!<Delay 10>
 For good kids to even
@@ -707,12 +706,12 @@ desert folk!<New>
 Ohh, this whole town is
 just rotting away...<Delay 10>
 Damn! Damn that Shakhan!<Close><End of Block>
-<TextBlock 165 w:54 h:4>
+<TextBlock 165 w:52 h:4>
 Bart
 "Don't get so mad, gramps.<Delay 5>
 It's a joke. A joke.<New>
 Take a good look at my
-face.<Delay 5> It's the kind of face
+face.<Delay 5> It's the kinda face
 that says 'no robbing the
 castle', don't you think?"<Close><End of Block>
 <TextBlock 166 w:38 h:4>

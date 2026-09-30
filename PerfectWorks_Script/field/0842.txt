@@ -120,7 +120,7 @@ Table for how many?
 This way please.<Close><End of Block>
 <TextBlock 30 w:38 h:2>
 Ma'aaam! We've got
-a dine-and-daaaash!<Close><End of Block>
+a dine-and-daaaash!<Opcode 2 60><Close><End of Block>
 <TextBlock 31 w:52 h:4>
 What a strange world
 I'm in, when my
