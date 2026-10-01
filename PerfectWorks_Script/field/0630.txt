@@ -1,6 +1,6 @@
 <TextBlock 1 w:30 h:4>
 Fei
-"Hello, Alice.<Delay 30>
+"Hello, Arle.<Delay 30>
 Is that your
 wedding dress?"<Close><End of Block>
 <TextBlock 2 w:52 h:3>
@@ -8,11 +8,11 @@ Fei
 "Hmmm...
 You did a great job there!<New>
 It'll look wonderful
-on you, Alice...
+on you, Arle...
 Congratulations!"<Close><End of Block>
-<TextBlock 3 w:38 h:2>
+<TextBlock 3 w:36 h:2>
 Fei
-"Hey, uh, Alice..."<Close><End of Block>
+"Hey, uh, Arle..."<Close><End of Block>
 <TextBlock 4 w:26 h:2>
 Fei
 "What is it?"<Close><End of Block>
@@ -71,47 +71,47 @@ Fei
 Well, I think I'd
 better get going now!"<Close><End of Block>
 <TextBlock 16 w:38 h:4>
-Alice
+Arle
 "...<Delay 30>
 Say hello to Doctor
 Uzuki for me..."<Close><End of Block>
 <TextBlock 17 w:44 h:3>
-Alice
+Arle
 "Oh!?<Delay 20>
 Fei, you startled me!"<Close><End of Block>
 <TextBlock 18 w:54 h:4>
-Alice
+Arle
 "Yes it is...
 I just finished it.<Delay 30> It took
 more work than I expected."<Close><End of Block>
 <TextBlock 19 w:22 h:3>
-Alice
+Arle
 "Thank you.
 ..."<Close><End of Block>
 <TextBlock 20 w:10 h:2>
-Alice
+Arle
 "..."<Close><End of Block>
 <TextBlock 21 w:32 h:2>
-Alice
+Arle
 "Oh, um, Fei..."<Close><End of Block>
 <TextBlock 22 w:32 h:2>
-Alice
+Arle
 "Oh, nothing..."<Close><End of Block>
 <TextBlock 23 w:48 h:3>
-Alice
+Arle
 "Um...<Delay 30>
 Oh yes, that's right..."<Close><End of Block>
 <TextBlock 24 w:38 h:3>
-Alice
+Arle
 "Fei,<Delay 20> 
 have you seen Dan?"<Close><End of Block>
 <TextBlock 25 w:52 h:4>
-Alice
+Arle
 "Honestly, that kid!<Delay 20>
 I just told him that I had
 an errand for him to run!"<Close><End of Block>
 <TextBlock 26 w:50 h:4>
-Alice
+Arle
 "It's for my wedding
 ceremony tomorrow...<New>
 I was hoping he could go
@@ -119,29 +119,29 @@ borrow a camera and some
 lights from Doctor Uzuki,
 up on the mountain peak."<Close><End of Block>
 <TextBlock 27 w:36 h:4>
-Alice
+Arle
 "Could you?<Delay 20>
 Oh, but I couldn't
 possibly..."<Close><End of Block>
 <TextBlock 28 w:30 h:3>
-Alice
+Arle
 "Heehee...<Delay 20>
 That's my Fei!"<Close><End of Block>
 <TextBlock 29 w:22 h:3>
-Alice
+Arle
 "Oh...<Delay 20>
 Fei, wait!"<Close><End of Block>
 <TextBlock 30 w:34 h:3>
-Alice
+Arle
 "No...<Delay 20>
 It's not that..."<Close><End of Block>
 <TextBlock 31 w:46 h:4>
-Alice
+Arle
 "Fei...<Delay 20>
 Have you ever thought
 about things this way?"<Close><End of Block>
 <TextBlock 32 w:34 h:4>
-Alice
+Arle
 "If...<Delay 20> If you'd
 only been born in
 this village...<New>
@@ -149,23 +149,23 @@ And if we'd only
 known each other
 earlier on..."<Close><End of Block>
 <TextBlock 33 w:34 h:4>
-Alice
+Arle
 "...<Delay 20>
 Oh, it's nothing.
 I'm sorry..."<Close><End of Block>
 <TextBlock 34 w:38 h:4>
-Alice
+Arle
 "Oh, okay...<New>
 Be careful on that
 mountain path.<Delay 20>
 And give my regards
 to Doctor Uzuki!"<Close><End of Block>
 <TextBlock 35 w:30 h:4>
-Alice
+Arle
 "...<Delay 20>
 The threads of
 fate, huh...?"<Close><End of Block>
 <TextBlock 36 w:32 h:3>
-Alice
+Arle
 "I feel...<Delay 20>
 so foolish..."<Close><Close><End of Block>

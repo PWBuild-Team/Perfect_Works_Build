@@ -49,10 +49,10 @@ Fei
 Dan!<New>
 What are you
 doing here?"<Close><End of Block>
-<TextBlock 13 w:48 h:3>
+<TextBlock 13 w:46 h:3>
 Dan
-"...It's your fault that
-Alice<--><New>
+"...It's your fault
+that Arle was<--><New>
 I'll never forgive you.
 I'm gonna kill you!"<Close><End of Block>
 <TextBlock 14 w:22 h:2>

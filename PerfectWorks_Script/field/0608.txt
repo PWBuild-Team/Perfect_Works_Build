@@ -24,15 +24,15 @@ don't go near it again."<Close><End of Block>
 Fei
 "Hey, now...<Delay 20>
 What're you saying, Dan?<New>
-Both Timothy and Alice are
-my best friends.<Delay 20>
+Both Timothy and Arle
+are my best friends.<Delay 20>
 You know I can't do that!"<Close><End of Block>
-<TextBlock 5 w:52 h:3>
+<TextBlock 5 w:48 h:3>
 Fei
 "Alright, Dan.
 You got it...<New>
 I guess I'll just go and
-sweep Alice away into the
+sweep Arle away into the
 sunset!"<Close><End of Block>
 <TextBlock 6 w:48 h:3>
 <Opcode 1 255>'Timothy is a bald-
@@ -47,7 +47,7 @@ doctor on the mountaintop
 should proceed with courage
 and conviction.<Close><End of Block>
 <TextBlock 8 w:32 h:2>
-<Opcode 1 255>'Alice and Fei
+<Opcode 1 255>'Arle and Fei
 are in looove!!'<Close><End of Block>
 <TextBlock 9 w:36 h:3>
 <Opcode 1 255>From all the cool
@@ -137,7 +137,7 @@ anytime you wanted.<Close><End of Block>
 Dan
 "Well, Fei, the least
 we can do is pray for
-Alice's happiness!"<Close><End of Block>
+Arle's happiness!"<Close><End of Block>
 <TextBlock 31 w:46 h:3>
 Dan
 "So, Fei, you up to it?<New>
@@ -148,14 +148,14 @@ C'mon, let's do it!"<Delay 20>
 Dan
 "Oh good, Fei!
 Ya ready to talk?"<Close><End of Block>
-<TextBlock 33 w:52 h:4>
+<TextBlock 33 w:50 h:4>
 Dan
 "As you know, tomorrow's
 finally the day of my
 sister's wedding...<New>
 So, what I want to talk
 to you about is exactly
-that... Alice's marriage!"<Close><End of Block>
+that... Arle's marriage!"<Close><End of Block>
 <TextBlock 34 w:42 h:3>
 Dan
 "Fei, to be perfectly
@@ -166,7 +166,7 @@ my brother."<Close><End of Block>
 <TextBlock 35 w:50 h:4>
 Dan
 "It's still not too late.<New>
-You could go steal Alice
+You could go steal Arle
 and run off with her!<Delay 20>
 If you need me to help,
 I'd be glad to!"<Close><End of Block>
@@ -221,19 +221,19 @@ When will he ever grow up!?<Close><End of Block>
 Oh, Fei!<Delay 20>
 Maybe you can help...
 Have you seen Dan?<Close><End of Block>
-<TextBlock 45 w:54 h:4>
+<TextBlock 45 w:52 h:4>
 Really?<Delay 10>
 I think it's weird!<New>
-Alice was saying she needed
+Arle was saying she needed
 him for something...<Delay 15>
 Honestly, where is he
 loitering, I wonder...?<Close><End of Block>
-<TextBlock 46 w:54 h:4>
-Alice was saying she needed
+<TextBlock 46 w:52 h:4>
+Arle was saying she needed
 him for something...<New>
 How could a brat like
 him possibly be related
-to Alice?<Delay 15>
+to Arle?<Delay 15>
 Oh, brother...!<Close><End of Block>
 <TextBlock 47 w:56 h:4>
 You're right! I've got my
@@ -244,7 +244,7 @@ to fulfill my goals in life.<Close><End of Block>
 *sigh*...<Delay 20> The neverending
 hardships of a woman.<Close><End of Block>
 <TextBlock 49 w:42 h:4>
-Alice and Timothy's
+Arle and Timothy's
 wedding tomorrow is
 the talk of the town.<New>
 I guess it's to be
@@ -285,10 +285,10 @@ Received Aquasol, the
 choice of all bearcows.<Close><End of Block>
 <TextBlock 55 w:42 h:3>
 Hello, Fei.
-Tomorrow is Alice and
+Tomorrow is Arle and
 Timothy's big day.<New>
 Isn't it exciting!?
-I know Alice will
+I know Arle will
 make a lovely bride.<New>
 Ahh...I hope a
 handsome prince comes
@@ -346,7 +346,7 @@ to visit the Doc.<Delay 20>
 It must be a sign of my age.<Close><End of Block>
 <TextBlock 61 w:54 h:4>
 Ugh... *sob*...<Delay 10>
-How could Alice go and get
+How could Arle go and get
 married...<Delay 30>and to that
 musclehead, Timothy...!?<New>
 I...<Delay 20>I've loved her...<Delay 20>
@@ -386,10 +386,10 @@ not to step on my food!<Opcode 2 60><Close><End of Block>
 You know you won't come out
 in one piece if you try to
 pull anything with the bride!<Close><End of Block>
-<TextBlock 71 w:30 h:3>
+<TextBlock 71 w:24 h:3>
 Hello, Fei!
 Are you here
-to see Alice?<Close><End of Block>
+to see Arle?<Close><End of Block>
 <TextBlock 72 w:56 h:4>
 Actually, it's customary
 not to let any men in to
@@ -422,15 +422,15 @@ a sigh of relief when your
 memory returns to you...<Delay 20>
 And don't you worry!
 I'm sure it will!<Close><End of Block>
-<TextBlock 76 w:46 h:3>
+<TextBlock 76 w:44 h:3>
 Yo, Fei!
-Alice has sure
+Arle has sure
 gotten pretty, huh?<New>
 Come to think of it...
-Alice, Timothy and you
+Arle, Timothy and you
 were always together.<New>
 I bet you had a crush
-on Alice too, huh?<Delay 20>
+on Arle too, huh?<Delay 20>
 Am I right? Hahahaha!<Close><End of Block>
 <TextBlock 77 w:46 h:4>
 Oh, hello there, Fei.<New>

@@ -813,17 +813,17 @@ Alright then...<Delay 10>
 Let me know when you
 want to see it...<Delay 10>
 It's no loss to me anyway.<Close><End of Block>
-<TextBlock 134 w:48 h:3>
-That Jerico is serious!<Delay 10>
-I should put more oomph
-into it, too!<Close><End of Block>
+<TextBlock 134 w:52 h:3>
+That Jellicoe really means
+business!<Delay 10> I should put
+more oomph into it, too!<Close><End of Block>
 <TextBlock 135 w:56 h:4>
 I thought I'd have more free
 time. But I have to fix up
-Jerico's mistakes, so now
+Jellicoe's mistakes, so now
 I'm busier than before...<Close><End of Block>
-<TextBlock 136 w:50 h:3>
-I hope Jerico doesn't go
+<TextBlock 136 w:52 h:3>
+I hope Jellicoe doesn't go
 learning any more strange
 things ever again...<Close><End of Block>
 <TextBlock 137 w:60 h:4>
@@ -890,27 +890,27 @@ on knowing the land.
 I've also got to master
 celestial measurement.<Close><End of Block>
 <TextBlock 149 w:46 h:3>
-Jerico has been careful
-lately, so navigation
-has been made easier.<Close><End of Block>
+Jellicoe's been careful
+lately, so navigation's
+been easier.<Close><End of Block>
 <TextBlock 150 w:54 h:6>
-Hey, it's the chief
-navigator's banana boat.
-Look at the map.<Delay 10>
+I'm the chief navigator,
+Banana Boat.
+Take a look at the map.<Delay 10>
 The desert may seem to be
 flat and boring but it's
 actually quite complicated.<New>
-It's even worse when you
-dive underground...
+It's even worse when we
+try diving...
 Unexpected boulders and
 underground waterways...
 You can't take your eyes
 off that map for a second!<Close><End of Block>
-<TextBlock 151 w:48 h:4>
-That Jerico! He lets the
-Yggdrasil drift, so that
-the time and routes we
-take end up being off...<Close><End of Block>
+<TextBlock 151 w:46 h:4>
+Damn Jellicoe! He lets
+the Yggdrasil drift, so
+our timing and routes
+are always off...<Close><End of Block>
 <TextBlock 152 w:56 h:4>
 The desert changes every day
 so I redraw the map with

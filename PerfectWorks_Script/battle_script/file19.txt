@@ -1,6 +1,6 @@
 <TextBlock 1 w:44 h:2>
-Entrusted with Alice's
-'Wedding Dress'!<Close><End of Block>
+Entrusted with Arle's
+Wedding Dress!<Close><End of Block>
 <TextBlock 2 w:38 h:3>
 Fei
 "What are you doing

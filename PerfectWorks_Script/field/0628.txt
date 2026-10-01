@@ -1,10 +1,10 @@
 <TextBlock 1 w:50 h:4>
-Alice's Aunt
+Arle's Aunt
 "Why hello, Fei.<Delay 20> Have you
-come to visit our Alice?<Delay 20>
+come to visit our Arle?<Delay 20>
 She's upstairs right now.<Close><End of Block>
 <TextBlock 2 w:50 h:5>
-Alice's Aunt
+Arle's Aunt
 "But doesn't time fly...?
 It's already been ten
 years since my brother
@@ -13,9 +13,9 @@ We did our best to raise
 the two children in their
 place..."<Close><End of Block>
 <TextBlock 3 w:38 h:5>
-Alice's Aunt
+Arle's Aunt
 "But now, where
-Alice is concerned
+Arle is concerned
 I can finally say
 my job is done.<New>
 I know Timothy will
@@ -29,10 +29,10 @@ him to adulthood."<Close><End of Block>
 <TextBlock 4 w:18 h:1>
 *sigh*...<Opcode 2 30><Close><End of Block>
 <TextBlock 5 w:52 h:4>
-Alice's Aunt
+Arle's Aunt
 "Tomorrow, please pray
-for Alice's happiness.<New>
-And I want you to carry on
-being the best of friends
-with both Alice and
-Timothy.<Delay 20> Thanks, Fei!"<Close><Close><End of Block>
+for Arle's happiness.<New>
+And I want you to carry
+on being the best of
+friends with both Arle
+and Timothy.<Delay 20> Thanks, Fei!"<Close><Close><End of Block>

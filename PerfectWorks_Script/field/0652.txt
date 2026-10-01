@@ -116,9 +116,9 @@ group of Gears...<New>
 And then my friend...<Delay 10>
 Timothy...<Delay 10>was hit by
 a hail of bullets..."<Close><End of Block>
-<TextBlock 21 w:52 h:4>
+<TextBlock 21 w:50 h:4>
 Fei
-"Then...<Delay 20> I don't remember 
+"Then...<Delay 20> I don't remember
 anything after that.<New>
 The machine went out
 of control...<Delay 10>
@@ -128,8 +128,8 @@ When I came to...<Delay 5>
 the village...<Delay 5>
 and everyone in it...<Delay 5>
 was...<New>
-Alice...<Delay 5> She was such a...<Delay 5>
-Alice and Timothy...<Delay 5>
+Arle...<Delay 5> She was such a...<Delay 5>
+Arle and Timothy...<Delay 5>
 Oh god...!<Delay 5> Everybody...<Delay 5>
 All such good people..."<Close><End of Block>
 <TextBlock 22 w:52 h:4>
