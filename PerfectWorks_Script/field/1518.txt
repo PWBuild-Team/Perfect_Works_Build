@@ -23,7 +23,7 @@ Intriguing... You'd make
 an excellent guinea pig.
 I'll use you for many
 experiments!"<Close><End of Block>
-<TextBlock 2 w:32 h:3>
+<TextBlock 2 w:30 h:3>
 Maria
 "No, <Chu-Chu>!<Delay 20>
 Don't!"<Close><End of Block>
@@ -42,9 +42,9 @@ a reason to live, a reason
 to fight.<New>
 To better understand the
 meaning of death...<New>
-However, that's something
-we must find on our own,
-and make it our own...<New>
+But you have to find it
+on your own, and make it
+your own...<New>
 That's what my grandfather
 said. Though I don't
 understand what he meant
@@ -85,7 +85,7 @@ may be<-->"<Close><End of Block>
 <TextBlock 8 w:10 h:2>
 Maria
 "..."<Close><End of Block>
-<TextBlock 9 w:26 h:2>
+<TextBlock 9 w:24 h:2>
 Maria
 "<Chu-Chu>!"<Close><End of Block>
 <TextBlock 10 w:20 h:2>

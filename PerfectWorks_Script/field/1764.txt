@@ -672,8 +672,8 @@ Id
 "..."<Close><End of Block>
 <TextBlock 111 w:50 h:4>
 Citan
-"Shall I answer
-that for you?<New>
+"Shall I answer that
+for you?<New>
 Might it be that you
 cannot regulate your
 control of Fei?<New>
@@ -696,9 +696,8 @@ and be replaced by him.<New>
 And of course, there is
 no telling when you would
 next be able to manifest.<New>
-That is why you
-will not do it.<Delay 10>
-Am I mistaken?"<Close><End of Block>
+That is why you will not
+do it.<Delay 10> Am I mistaken?"<Close><End of Block>
 <TextBlock 112 w:46 h:3>
 Id
 "You really have got it

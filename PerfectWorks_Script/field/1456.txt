@@ -150,7 +150,7 @@ they think we'll just take
 this lying down!<Close><End of Block>
 <TextBlock 22 w:54 h:4>
 Yo, this house is basically
-an apartment for us land
+an apartment for us surface
 dwellers that were saved.<New>
 I've heard that there
 aren't that many pure

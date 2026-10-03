@@ -139,12 +139,12 @@ A tool wrought with
 inadequate wisdom...
 Do you really think
 you can win with that?"<Close><End of Block>
-<TextBlock 31 w:46 h:3>
+<TextBlock 31 w:44 h:3>
 Grahf
 "The meager efforts of
-you land dwellers are<New>
-insignificant next to
-true power."<Close><End of Block>
+you surface dwellers<New>
+are insignificant next
+to true power."<Close><End of Block>
 <TextBlock 32 w:42 h:3>
 Grahf
 "I shall endow you

@@ -149,12 +149,13 @@ Freed from the supervision
 of Solaris, the surface
 dwellers were assembling
 in one place.<Close><End of Block>
-<TextBlock 16 w:56 h:11>
-Although the land dwellers
-fell into momentary chaos
-due to being free of the
-Limiters, somehow they began
-to recover a state of calm.<New>
+<TextBlock 16 w:54 h:11>
+Although the surface
+dwellers fell into
+momentary chaos due to
+being free of the Limiters,
+somehow they began to
+recover a state of calm.<New>
 We decided to search for
 the remaining Vessels of
 Anima<Delay 5> <--> <Delay 5>objects that were

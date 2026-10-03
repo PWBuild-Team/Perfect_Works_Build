@@ -14,7 +14,7 @@ who at one time laid
 waste to the whole
 world...<New>
 Apparently Grahf was
-once a land dweller
+once a surface dweller
 named Lacan..."<Close><End of Block>
 <TextBlock 3 w:46 h:4>
 Fei
@@ -133,12 +133,12 @@ No matter how you look at
 it, they've sure thought
 of cruel things.<Close><End of Block>
 <TextBlock 16 w:46 h:4>
-By the way, d'you land
-dwellers know about the
-Nisan tragedy during
-the Great War?<New>
+By the way, do you
+surface dwellers know
+about the Nisan tragedy
+during the Great War?<New>
 Did you hear anything
-from the higher ups?<Delay 10>
+from the higher-ups?<Delay 10>
 <Opcode 1 255>    Yes
     No<Close><End of Block>
 <TextBlock 17 w:50 h:4>
@@ -158,7 +158,7 @@ will disappear if they
 turn away from the past?<Delay 20>
 Bunch of fools!<Close><End of Block>
 <TextBlock 19 w:54 h:4>
-Be careful, land dweller.
+Beware, surface dwellers.
 You'll have a terrible time
 if you put your trust in
 those old men.<New>

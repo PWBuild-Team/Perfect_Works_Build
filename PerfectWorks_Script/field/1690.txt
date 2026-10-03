@@ -72,12 +72,13 @@ paid attention...<Delay 10>
 Is that so, Elly?"<Close><End of Block>
 <TextBlock 18 w:54 h:4>
 Elly
-"A long time ago, <Delay 10>when I
+"A long time ago,<Delay 10> when I
 was small, I had a nanny.<Delay 10>
 She was so nice to me.<New>
-But she was a land dweller.<Delay 10>
-First Class citizens
-rarely have land dwellers
+But she was a surface
+dweller.<New>
+First Class citizens rarely
+have surface dwellers
 serve them directly.<New>
 But this person lived in
 our house and took care
@@ -87,7 +88,7 @@ she was in the Third Class
 level...<New>
 My dad felt sorry for her
 and kept her under his
-protection. <Delay 10>But he never
+protection.<Delay 10> But he never
 told anyone about her..."<Close><End of Block>
 <TextBlock 19 w:20 h:2>
 Fei

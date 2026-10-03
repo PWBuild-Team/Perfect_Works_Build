@@ -20,9 +20,9 @@ Elly
 "'Solaris Third Class-
 citizen level F Block'.<New>
 There're around twenty
-blocks in total, each with
-land dwellers segregated
-within them.<New>
+blocks in total, each
+with surface dwellers
+segregated within them.<New>
 We Solarians have a
 molecular-scale tag
 that contains all our

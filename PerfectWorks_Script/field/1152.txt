@@ -497,9 +497,9 @@ invasion is impossible.<Close><End of Block>
 <TextBlock 96 w:48 h:4>
 Why, it is simply a case
 of compensating for the
-spatial distortion with<New>
-Achtzehn's gravity
-cannon.<Close><End of Block>
+spatial distortion<New>
+with Achtzehn's Graviton
+Cannon.<Close><End of Block>
 <TextBlock 97 w:36 h:2>
 Achtzehn?<Delay 10>
 We can deploy it?<Close><End of Block>

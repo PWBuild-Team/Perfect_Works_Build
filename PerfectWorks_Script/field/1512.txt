@@ -274,7 +274,7 @@ continued to resist them,
 albeit to a lesser extent."<Close><End of Block>
 <TextBlock 44 w:50 h:4>
 Zephyr
-"Land dwellers, please
+"Surface dwellers, please
 lend us your aid.<New>
 To release humankind from
 the grasp of Solaris...<Delay 10>

@@ -124,7 +124,7 @@ where they belong."<Close><End of Block>
 <TextBlock 18 w:40 h:4>
 Elly
 "You were originally
-a land dweller.
+a surface dweller.
 So why...?"<Close><End of Block>
 <TextBlock 19 w:40 h:3>
 Dominia

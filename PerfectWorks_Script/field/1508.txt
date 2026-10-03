@@ -230,7 +230,7 @@ seeing.<New>
 Well, I guess you could
 say we had a similar
 barbaric phase like the
-land dwellers!<Close><End of Block>
+surface dwellers!<Close><End of Block>
 <TextBlock 24 w:52 h:4>
 This is the tactical
 command room.<New>
@@ -267,7 +267,7 @@ back to the surface.<Close><End of Block>
 So you're the newcomers
 from the surface?<Delay 20> Hmm...<New>
 It seems you all aren't
-like the usual land
+like the usual surface
 dwellers we get.<New>
 But we're always happy to
 have more friends to fight
