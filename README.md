@@ -3,7 +3,7 @@ Xenogears Perfect Works Build: Includes an improved translation, rebalanced game
 
 Download the latest release here:
 
-https://github.com/NoharOSP/Perfect_Works_Build/releases/tag/0.11.3
+https://github.com/NoharOSP/Perfect_Works_Build/releases/tag/0.11.4
 
 For more in-depth information about the build, visit the wiki:
 
@@ -17,7 +17,7 @@ https://github.com/NoharOSP/Perfect_Works_Build/wiki
 
 - Download Xenogears_Perfect_Works_Edition.X.X.X.7z. The Xs correspond to the release number.
 - Open the Xenogears: Perfect Works Patcher.
-- Open the ISO file for either or both discs. 
+- Open the bin file for either or both discs. 
 - Select which patches you wish to apply.
 - Press Patch. The script edits should take longer to patch as it has the most files to copy.
 - Open the patched ROM on your chosen emulator. The file will be called Xenogears_PW_CDX. X corresponds to the disc number.
@@ -46,7 +46,7 @@ WARNING: When a ROM has been made, do not resume progress by loading a save stat
 
 - Name/terminology changes: 100%
 - Main script: 100%
-- NPC script: 25% (plus all name/terminology changes)
+- NPC script: 35% (plus all name/terminology changes)
 
 ## Introduction
 
@@ -101,6 +101,27 @@ DISCLAIMER: Some of the patches were designed to work in tandem with each other.
 - Bug fix only: Only applies bug fixes.
 
 ## Version history
+
+### Version 0.11.4
+
+10/04/2026
+
+- NPC script up to the Breidablik market, plaza, and arena has been completed.
+- AutoBooster and TurboEngine have been readded and no longer drain fuel during on-foot battles. Details are in the wiki.
+- Changed Alice to Arle.
+- Changed Gunner to Latrine.
+- Changed Marseilles to Marseille.
+- Changed Jerico to Jellicoe.
+- An NPC who went unnamed in the North American translation has had their name restored to Banana Boat.
+- The fix to Billy's ammo now applies to all patches.
+- Fixed the trailing s bug when renaming Gears.
+- Shop arrow bug has been fixed.
+- Bug fixes have been made to Ft Jasper's cannon room.
+- Siebzehn now uses its corrected name during its boss fight in the script patch.
+- Fix Shevat palace music bug.
+- Fixed animation glitch when Lacan abandons the Sophia painting.
+- Deathblows which apply buffs can now damage Gears.
+- Harmonoised all variations of suface dweller.
 
 ### Version 0.11.3
 
@@ -201,6 +222,7 @@ DM or tag here if you want immediate feedback on Twitter:
 - ChrisGLink: Translation
 - einlanzer: Testing
 - linnaealyn: Testing, FMV font
+- Opok: Documentation, decomp tools, trailing s bug fix
 - [An Eye for the Infinite](https://web.archive.org/web/20101225035716/http://moonreading.lunarpages.com/xeno/): Translation
 - [Almagest](http://almagest712.blogspot.com/2017/11/xenogears-my-father-you-mean-my-dad.html): Translation
 - cactusmomma: Translation
@@ -223,6 +245,6 @@ DM or tag here if you want immediate feedback on Twitter:
 - Joshua MacDonald: xdelta
 - FFMaster: Fast text code
 - RyleFury: Deus bug fix, softsub tools
-- Sephiroth1311: Deus bug fix
+- Sephiroth1311: Deus and shop arrow bug fix
 
 
