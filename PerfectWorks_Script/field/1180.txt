@@ -4,15 +4,15 @@ Pirate
 there's no way we're
 gonna let that damn
 Shakhan have it..."<Close><End of Block>
-<TextBlock 2 w:18 h:2>
+<TextBlock 2 w:20 h:2>
 Pirate
-"Gunner!"<Close><End of Block>
+"Latrine!"<Close><End of Block>
 <TextBlock 3 w:16 h:2>
 Pirate
 "Vance!"<Close><End of Block>
-<TextBlock 4 w:26 h:2>
+<TextBlock 4 w:24 h:2>
 Pirate
-"Marseilles!"<Close><End of Block>
+"Marseille!"<Close><End of Block>
 <TextBlock 5 w:50 h:3>
 Maitreya's units are on
 standby at the catapults.<New>
@@ -50,7 +50,7 @@ The wind is strong up
 there and we may be
 blown off-balance!<New>
 ...<Delay 32>
-Jerico!
+Jellicoe!
 Hand the helm
 over to me!"<Close><End of Block>
 <TextBlock 14 w:36 h:4>
@@ -58,9 +58,9 @@ Bart
 "Either way,<Delay 32> can't
 just let 'em slip
 past, right...?"<Close><End of Block>
-<TextBlock 15 w:18 h:2>
+<TextBlock 15 w:20 h:2>
 Bart
-"Gunner!"<Close><End of Block>
+"Latrine!"<Close><End of Block>
 <TextBlock 16 w:16 h:2>
 Bart
 "Vance!"<Close><End of Block>
@@ -81,7 +81,7 @@ Bart
 "Surface Combat!
 Stand by with the
 anti-aircraft guns!<New>
-Gunner!
+Latrine!
 Give me the trigger
 for the Bart Missile!"<Close><End of Block>
 <TextBlock 20 w:44 h:4>
@@ -102,7 +102,7 @@ not, it's carrying a new-
 model Gear!"<Close><End of Block>
 <TextBlock 22 w:36 h:3>
 Pirate
-"Gunner!
+"Latrine!
 Let 'em have it!!"<Close><End of Block>
 <TextBlock 23 w:24 h:2>
 Bart
@@ -150,11 +150,11 @@ This can't be happening!"<Close><End of Block>
 Bart
 "(...Behind
 us...?)"<Close><End of Block>
-<TextBlock 33 w:54 h:4>
+<TextBlock 33 w:50 h:4>
 Bart
 "Something's on our tail!<New>
-Jerico! Give me the helm<-->
-No, you keep it!
+Jellicoe! Give me the
+helm<--> No, you keep it!
 Just hurry up and do
 something either way!!"<Close><End of Block>
 <TextBlock 34 w:44 h:4>
@@ -249,17 +249,18 @@ Vance
 "One torpedo still
 pursuing! Dammit!
 Impact in 3!!"<Close><End of Block>
-<TextBlock 50 w:56 h:4>
+<TextBlock 50 w:54 h:4>
 Turrets Anton and Bertha,<Delay 16>
-twenty seconds between
-opening the hatches and
-activating azimuth controls!<Close><End of Block>
-<TextBlock 51 w:50 h:3>
+directors will be activated
+within twenty seconds of
+opening the hatches!<Close><End of Block>
+<TextBlock 51 w:42 h:4>
 Gungn<--> I mean, Bart
 Missile, now fueling!<New>
-Fifteen seconds between
-opening the hatch and
-engaging the illuminator!<Close><End of Block>
+Illuminator will be
+activated within
+fifteen seconds of
+opening the hatch!<Close><End of Block>
 <TextBlock 52 w:48 h:3>
 Alternate firing between
 Anton and Bertha!<Delay 16>
@@ -376,8 +377,8 @@ Sigurd
 <TextBlock 75 w:46 h:4>
 Sigurd
 "Engine, ready for full
-power!! Jerico! Give me
-the helm over here!"<Close><End of Block>
+power!! Jellicoe! Give
+me the helm over here!"<Close><End of Block>
 <TextBlock 76 w:48 h:4>
 Sigurd
 "We can use the wing-

@@ -1,107 +1,110 @@
-<TextBlock 1 w:42 h:3>
-My kid says he wants
-to be a soldier when 
-he gets older.<Close><End of Block>
-<TextBlock 2 w:46 h:4>
-Too bad.<Delay 30>
-By the time your child
-gets older the war will
-already be over.<Close><End of Block>
-<TextBlock 3 w:52 h:3>
-Yep, looks like my 
-kid wants to be a soldier 
+<TextBlock 1 w:36 h:3>
+My kid says he's
+gonna be a soldier
 when he grows up.<Close><End of Block>
+<TextBlock 2 w:40 h:4>
+Sorry to hear that.<Delay 30>
+But hey, by the time
+he grows up the war
+should be over!<Close><End of Block>
+<TextBlock 3 w:52 h:3>
+It looks like my kid still
+wants to be a soldier when
+he grows up.<Close><End of Block>
 <TextBlock 4 w:34 h:3>
-Oh no.<Delay 30>
+Oh dear.<Delay 30>
 He'll change his 
 mind eventually.<Close><End of Block>
-<TextBlock 5 w:48 h:4>
-Mom...<Delay 50>
+<TextBlock 5 w:42 h:4>
 Mom...<Delay 50>
 Dad...<Delay 50>
-They aren't coming back.<Close><End of Block>
+I don't think they're
+ever coming back...<Close><End of Block>
 <TextBlock 6 w:10 h:1>
-Woof <Opcode 2 30><Close><End of Block>
+Woof!<Opcode 2 30><Close><End of Block>
 <TextBlock 7 w:46 h:3>
 Will this war ever end?<Delay 10>
 <Opcode 1 255>    It will
     No, it won't<Close><End of Block>
-<TextBlock 8 w:28 h:3>
-Of course. 
-All wars must 
-end sometime.<Close><End of Block>
-<TextBlock 9 w:42 h:2>
+<TextBlock 8 w:36 h:3>
+You're right.
+No such thing as
+a war without end!<Close><End of Block>
+<TextBlock 9 w:30 h:3>
 Oh...
-He's not coming back.<Close><End of Block>
-<TextBlock 10 w:54 h:3>
-Will my happiness ever end?<Delay 10>
+Then he won't
+be coming back.<Close><End of Block>
+<TextBlock 10 w:58 h:3>
+Will this happiness ever end?<Delay 10>
 <Opcode 1 255>    It will
     No, it won't<Close><End of Block>
-<TextBlock 11 w:38 h:1>
-No, I won't let it.<Close><End of Block>
+<TextBlock 11 w:40 h:1>
+No, we can't let it!<Close><End of Block>
 <TextBlock 12 w:36 h:3>
 Oh...
 When you say that 
 I get nervous.<Close><End of Block>
-<TextBlock 13 w:34 h:2>
-Finally I'm back 
-with my girl.<Close><End of Block>
+<TextBlock 13 w:32 h:2>
+I'm finally back
+home to my girl.<Close><End of Block>
 <TextBlock 14 w:46 h:3>
 You say the dog talked?<Delay 10>
 <Opcode 1 255>    Yes
     No<Close><End of Block>
-<TextBlock 15 w:40 h:1>
-Wow, that's amazing.<Close><End of Block>
+<TextBlock 15 w:44 h:1>
+Wowww, that's amazing.<Close><End of Block>
 <TextBlock 16 w:36 h:4>
-Ha ha ha
-You got me.<Delay 30>
-Yep,
-It was me talking.<Close><End of Block>
+Ha ha ha,
+you got me, huh?<Delay 30>
+That's right,
+it was me talking.<Close><End of Block>
 <TextBlock 17 w:40 h:1>
 The wind feels nice.<Close><End of Block>
-<TextBlock 18 w:50 h:4>
-Why must people kill 
-each other? Even dogs and
+<TextBlock 18 w:44 h:4>
+Why must humans murder
+one another? Dogs and
 other animals don't do
-that to each other.<Close><End of Block>
-<TextBlock 19 w:44 h:3>
-Until recently I was
+such things.<Close><End of Block>
+<TextBlock 19 w:48 h:3>
+Until recently, I'd been
 killing people on the
-battlefield...<Delay 50><New>
-Is it right to have so
-much peace?<Close><End of Block>
-<TextBlock 20 w:46 h:3>
-I'm in training. You've
-got to have a strong
-body to beat Kislev.<Close><End of Block>
-<TextBlock 21 w:48 h:3>
-Just when I get in
-top shape, the war ends.
-Look.<Close><End of Block>
+battlefield...<New>
+Is it right for me to
+be so at peace?<Close><End of Block>
+<TextBlock 20 w:48 h:3>
+I'm lower-body training.
+To beat Kislev you need
+to be in good shape.<Close><End of Block>
+<TextBlock 21 w:50 h:3>
+Despite me doing all that
+lower-body training, the
+war's at an end.<New>
+Check this out.<Close><End of Block>
 <TextBlock 22 w:40 h:1>
 I trained so hard...<Close><End of Block>
-<TextBlock 23 w:46 h:4>
-Watching kids playing
-like this makes the the
-battlefield seem like a
-bad dream.<Close><End of Block>
+<TextBlock 23 w:50 h:4>
+When I watch kids playing
+like this, it's hard to
+believe I was ever on
+the battlefield.<Close><End of Block>
 <TextBlock 24 w:42 h:3>
-I'm taking care of my
+I'm gonna protect my
 mom and brother until
-dad comes back!<Close><End of Block>
-<TextBlock 25 w:46 h:3>
-Dad's back so now I can
-relax and have a lot of
-fun.<Close><End of Block>
-<TextBlock 26 w:44 h:3>
+Dad comes back!<Close><End of Block>
+<TextBlock 25 w:42 h:3>
+My dad came home.
+Now I can relax too
+and have lots of fun!<Close><End of Block>
+<TextBlock 26 w:40 h:3>
 My dad's a...
 loo-ten-ant.
-He's really important.<Close><End of Block>
-<TextBlock 27 w:36 h:2>
-Dad came back so 
-now I can go play.<Close><End of Block>
-<TextBlock 28 w:50 h:4>
-Just up ahead is the
-castle. Usually you 
-can't get in, but
-festival time is special.<Close><Close><End of Block>
+He's real important.<Close><End of Block>
+<TextBlock 27 w:34 h:3>
+Dad came home.
+I'm gonna get him
+to play with us!<Close><End of Block>
+<TextBlock 28 w:54 h:4>
+Up ahead, there's only the
+castle. Usually you can't
+get in there. Festival time
+is different, though.<Close><Close><End of Block>

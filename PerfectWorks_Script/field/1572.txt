@@ -151,13 +151,13 @@ stupid or not."<Close><End of Block>
 "Don't chu make fun
 of Bart's Fort
 Jasmine thing!"<Close><End of Block>
-<TextBlock 35 w:48 h:3>
+<TextBlock 35 w:42 h:3>
 Maria
 "You don't know
 if you don't try.<New>
 Maybe you're the ones
-underestimating the land
-dwellers?"<Close><End of Block>
+underestimating the
+surface dwellers?"<Close><End of Block>
 <TextBlock 36 w:30 h:3>
 Bart
 "Calm down and
@@ -165,7 +165,7 @@ take aim!"<Close><End of Block>
 <TextBlock 37 w:28 h:4>
 Rico
 "No big deal.
-There's still 
+There's still
 energy left."<Close><End of Block>
 <TextBlock 38 w:36 h:4>
 <Chu-Chu>

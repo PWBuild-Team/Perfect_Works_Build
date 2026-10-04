@@ -59,7 +59,7 @@ Yeah, <Delay 10>well...<Delay 10> I mean..."<Close><End of Block>
 Medina
 "I see. That must be
 why he's dressed like
-a land dweller.<New>
+a surface dweller.<New>
 Oh,<Delay 10> but if he's Special
 Forces like you, I
 wonder what happened

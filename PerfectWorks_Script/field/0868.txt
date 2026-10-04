@@ -2,87 +2,98 @@
 Citan
 "Well then, I will be over
 here cheering for you.<New>
-Do not take them down too
-quickly.<New>
+It would be best not to
+take them out too quickly.<New>
 The more commotion there
 is at the Tournament, the
 easier it will be for the
 Young Master to sneak in."<Close><End of Block>
-<TextBlock 2 w:28 h:3>
+<TextBlock 2 w:32 h:3>
 Myyah
-"My...what a
-handsome boy!"<Close><End of Block>
+"My, what a
+handsome boy..."<Close><End of Block>
 <TextBlock 3 w:24 h:2>
 Citan
 "Good luck!"<Close><End of Block>
 <TextBlock 4 w:2 h:1>
 !<Opcode 2 50><Close><End of Block>
-<TextBlock 5 w:52 h:4>
+<TextBlock 5 w:50 h:4>
 Citan
 "Fei, we can use this
 to our advantage!<New>
-If you create a stir at
-the Tournament, the guards
-will be watching you
-rather than their posts.<New>
-It will make it easy for
-us to sneak into the
-castle and rescue Margie.<New>
+If the Tournament creates
+a stir, then the guards'
+attention will be turned
+toward it.<New>
+It would make it easy to
+sneak into the castle
+and rescue Margie.<New>
 What do you think, Fei?
 Will you enter the 
 Tournament?"<Close><End of Block>
-<TextBlock 6 w:22 h:2>
+<TextBlock 6 w:20 h:2>
 Fei
-"Umm...okay."<Close><End of Block>
+"Huh? Me?"<Close><End of Block>
 <TextBlock 7 w:54 h:4>
 Citan
 "While you draw the guards'
 attention, the young one
-can sneak into the castle.<New>
-Surely you see that it is
-the only way we will get
-in?<Delay 100> Right...
-let us go sign you up."<Close><End of Block>
-<TextBlock 8 w:44 h:4>
+can infiltrate the castle.<New>
+You know there is no way
+it will work if we reverse
+those roles!<Delay 100> Right, let us
+go and sign you up."<Close><End of Block>
+<TextBlock 8 w:52 h:4>
 Citan
-"And Fei, do not use
-your real name. Make
-another suitable one."<Close><End of Block>
-<TextBlock 9 w:54 h:34>
+"And Fei, do not sign up
+using your real name! Make
+up something fitting."<Close><End of Block>
+<TextBlock 9 w:54 h:4>
 Shakhan
 "...Brave young men are
 spilling their blood on
-the front lines. Our army
-is the best, but the tides
-of war are uncertain.<Delay 30>
-To protect the tradition
-of Av and preserve peace
-in this desert, we must all
-have unshaking resolve.<Delay 30>
-The desert is a precious
-treasure passed down to us
-from our ancestors. Here we
-can forge our minds and
-bodies into one.
-Our teachers are the sun 
-and wind.<Delay 30>
-We are gathered here today,
-with our strong bodies
-forged by the desert.<Delay 30>
-The sun above us is the
-same as that which burns
-over our fathers at the
-front. The wind blowing
-here is the very wind that
-whisks our resolve and
-prayers to our sons at the
-front.<Delay 30>
-This Tournament raises our
-spirits and renews our
-blessings from this desert
-we live in.<Delay 30>
-Brave ones, warriors, fight
-well and do not shame our
+the front lines. Although
+our army's superiority is
+clear, the tides of war
+are unpredictable.<Delay 30>
+Now we must stand steadfast
+to preserve the traditions
+of our glorious Av and
+the peace in its beautiful
+desert.<Delay 30>
+The desert inherited from
+our ancestors <--> a precious
+resource and the training
+ground that tempers both
+body and spirit alike.
+The driving wind and the
+scorching sun are our
+teachers.<Delay 30>
+And so it is that in this
+very moment, the strong <-->
+forged by the desert <-->
+are gathered here. To
+determine who is strongest,
+who is most beloved of
+the wind and sun.<Delay 30>
+The sun burning overhead
+is the sun that fills the
+hearts of the fathers at
+the front with yearning for
+the family they've left
+behind; the wind blowing
+through here is the wind
+that carries to the sons
+at the front our fighting
+spirit and our prayers.<Delay 30>
+This I do believe: that
+this Tournament will boost
+morale across the nation
+and renew our pride as
+desert-dwellers.<Delay 30>
+You brave contestants,
+warriors. Please fight well
+so as not to dishonor your
 brothers at the front."<Close><End of Block>
 <TextBlock 10 w:36 h:3>
 Shakhan
@@ -92,60 +103,64 @@ Tournament begin!"<Opcode 2 30><Close><End of Block>
 Shakhan
 "Hmm...a moving speech
 if I do say so myself."<Close><End of Block>
-<TextBlock 12 w:54 h:4>
+<TextBlock 12 w:52 h:4>
 Shakhan
-"Oh, Commander Ramsus.
-Sorry to have kept you
-waiting. This way, please."<Close><End of Block>
-<TextBlock 13 w:44 h:4>
+"Ah, greetings, Commander
+Ramsus. Sorry to have kept
+you waiting.<New>
+This way, please."<Close><End of Block>
+<TextBlock 13 w:48 h:4>
 Ramsus
-"I'm afraid I do not
-have the time for such
-gay revelry.<New>
-I just dropped by to
-bid you farewell."<Close><End of Block>
-<TextBlock 14 w:48 h:3>
+"I'm afraid I don't have
+the time to indulge in
+your flights of fancy.<New>
+I'm only stopping by."<Close><End of Block>
+<TextBlock 14 w:48 h:4>
 Shakhan
-"What a pity. You do not
-like our entertainment?"<Close><End of Block>
-<TextBlock 15 w:38 h:2>
+"What a pity.
+You didn't like it?
+This kind of event is<-->"<Close><End of Block>
+<TextBlock 15 w:42 h:2>
 Ramsus
-"I find it boring."<Close><End of Block>
-<TextBlock 16 w:50 h:4>
+"I'm not interested."<Close><End of Block>
+<TextBlock 16 w:52 h:4>
 Myyah
-"Oh let it be, Commander.
-Shakhan is only trying to
-show hospitality...<New>
-I personally find martial
-arts quite interesting.
-I look forward to seeing
-the Tournament."<Close><End of Block>
+"Oh, it doesn't sound so
+bad to me, Commander.<New>
+After everything Minister
+Shakhan was just saying...<Delay 10>
+And I do find martial arts
+quite interesting, myself.<New>
+It's a rare opportunity,
+so I'd really like to see
+this with my own eyes."<Close><End of Block>
 <TextBlock 17 w:54 h:4>
 Shakhan
-"To say this event is a
-tribute to you, Commander,
-is no understatement.<New>
-Your gracious help in our
-time of need enabled us to
-celebrate the country's
-founding today."<Close><End of Block>
+"Very good, very good.<New>
+To say that this event is
+an expression of gratitude
+to you, Commander, would
+be an understatement.<New>
+It's precisely because we
+had your assistance that we
+can hold this commemoration
+of the country's founding,<New>
+despite us being in the
+midst of a crisis."<Close><End of Block>
 <TextBlock 18 w:48 h:4>
 Ramsus
 "'Founding'... How
 impudent. It's not even
 your country.<New>
-Hmph, do as you like."<Close><End of Block>
-<TextBlock 19 w:52 h:4>
+Hmph. Do as you like."<Close><End of Block>
+<TextBlock 19 w:54 h:4>
 Shakhan
-"And you, Myyah, how about
-the Tournament?<New>
-Will you grace us with
-your company?"<Close><End of Block>
-<TextBlock 20 w:24 h:4>
+"Then how about you, Myyah?<Delay 10>
+It sounds like you would
+enjoy the Tournament?"<Close><End of Block>
+<TextBlock 20 w:46 h:4>
 Myyah
-"Yes.
-It would be
-a pleasure."<Close><End of Block>
+"Yes, I think I would."<Close><End of Block>
 <TextBlock 21 w:40 h:2>
 Shakhan
 "Oh, it's starting!"<Close><End of Block>
@@ -153,71 +168,72 @@ Shakhan
 Good luck tomorrow.<Close><End of Block>
 <TextBlock 23 w:48 h:4>
 This is the Tournament
-Registration Booth.<Delay 10>
+registration booth.<Delay 10>
 <Opcode 1 255>    Enter the Tournament
     Don't enter<Close><End of Block>
 <TextBlock 24 w:40 h:1>
 Please sign in here.<Close><End of Block>
-<TextBlock 25 w:42 h:4>
-You're signed up.
+<TextBlock 25 w:44 h:4>
+You're now registered.
 The Tournament begins
 tomorrow. Please make
 sure to be here.<Close><End of Block>
-<TextBlock 26 w:44 h:3>
-Registration will end
-today. If you have the
-courage, come again.<Close><End of Block>
-<TextBlock 27 w:46 h:3>
-Arena seats are 500G.<Delay 50>
-Participants excepted.
-Please pass through.<Close><End of Block>
-<TextBlock 28 w:42 h:2>
-You're the Dragon-
-Slaying Boxer, right?<Close><End of Block>
-<TextBlock 29 w:42 h:2>
-You're the Dragon-
-Slaying Youth, right?<Close><End of Block>
-<TextBlock 30 w:44 h:2>
-You're the Dragon-
-Slaying Squire, right?<Close><End of Block>
-<TextBlock 31 w:46 h:2>
-You're the Dragon-
-Slaying Slacker, right?<Close><End of Block>
-<TextBlock 32 w:42 h:2>
-You're the Ponytailed
+<TextBlock 26 w:48 h:3>
+Registration ends today.
+If you find the courage,
+come back again.<Close><End of Block>
+<TextBlock 27 w:50 h:4>
+The entry fee to spectate
+at the arena is 500G.<Delay 50>
+Oh, not for participants.
+Please go on through.<Close><End of Block>
+<TextBlock 28 w:36 h:2>
+The Dragon-Slaying
 Boxer, right?<Close><End of Block>
-<TextBlock 33 w:44 h:2>
-You're the Ponytailed
+<TextBlock 29 w:36 h:2>
+The Dragon-Slaying
 Youth, right?<Close><End of Block>
-<TextBlock 34 w:44 h:2>
-You're the Ponytailed
+<TextBlock 30 w:36 h:2>
+The Dragon-Slaying
 Squire, right?<Close><End of Block>
-<TextBlock 35 w:44 h:2>
-You're the Ponytailed
+<TextBlock 31 w:36 h:2>
+The Dragon-Slaying
 Slacker, right?<Close><End of Block>
-<TextBlock 36 w:42 h:2>
-You're the Wandering
+<TextBlock 32 w:28 h:2>
+The Ponytailed
 Boxer, right?<Close><End of Block>
-<TextBlock 37 w:42 h:2>
-You're the Wandering
+<TextBlock 33 w:28 h:2>
+The Ponytailed
 Youth, right?<Close><End of Block>
-<TextBlock 38 w:42 h:2>
-You're the Wandering
+<TextBlock 34 w:28 h:2>
+The Ponytailed
 Squire, right?<Close><End of Block>
-<TextBlock 39 w:42 h:2>
-You're the Wandering
+<TextBlock 35 w:28 h:2>
+The Ponytailed
+Slacker, right?<Close><End of Block>
+<TextBlock 36 w:26 h:2>
+The Wandering
+Boxer, right?<Close><End of Block>
+<TextBlock 37 w:26 h:2>
+The Wandering
+Youth, right?<Close><End of Block>
+<TextBlock 38 w:28 h:2>
+The Wandering
+Squire, right?<Close><End of Block>
+<TextBlock 39 w:30 h:2>
+The Wandering
 Slacker, right?<Close><End of Block>
 <TextBlock 40 w:38 h:2>
 You're the Beloved
 Boxer, right?<Close><End of Block>
-<TextBlock 41 w:38 h:2>
-You're the Beloved
+<TextBlock 41 w:26 h:2>
+The Beloved
 Youth, right?<Close><End of Block>
-<TextBlock 42 w:38 h:2>
-You're the Beloved
+<TextBlock 42 w:28 h:2>
+The Beloved
 Squire, right?<Close><End of Block>
-<TextBlock 43 w:38 h:2>
-You're the Beloved
+<TextBlock 43 w:30 h:2>
+The Beloved
 Slacker, right?<Close><End of Block>
 <TextBlock 44 w:26 h:4>
 <Opcode 1 255>   ...Boxer
@@ -229,415 +245,437 @@ Slacker, right?<Close><End of Block>
     Ponytailed...
     Wandering...
     Beloved...<Close><End of Block>
-<TextBlock 46 w:46 h:3>
-You can't go in here.
-This will be spectator
-seating tomorrow.<Close><End of Block>
+<TextBlock 46 w:48 h:3>
+No entry beyond this
+point. Spectator seating
+will be here tomorrow.<Close><End of Block>
 <TextBlock 47 w:40 h:2>
 Participant?
 Okay, go on through.<Close><End of Block>
-<TextBlock 48 w:44 h:3>
-All participants, the
-Tournament is about to
-begin. Please wait.<Close><End of Block>
-<TextBlock 49 w:62 h:3>
-Only participants are allowed
-in here. Your friend will have
-to sit in the spectators' area.<Close><End of Block>
+<TextBlock 48 w:52 h:4>
+Apologies, but as the
+opening ceremony is about
+to begin, all participants
+are asked to stand by.<Close><End of Block>
+<TextBlock 49 w:62 h:4>
+No entry past here except for
+participants. Any companions
+are asked to give their support
+from the spectators' seats.<Close><End of Block>
 <TextBlock 50 w:40 h:2>
 Participant?
 Okay, go on through.<Close><End of Block>
-<TextBlock 51 w:18 h:1>
-No entry.<Close><End of Block>
-<TextBlock 52 w:46 h:4>
+<TextBlock 51 w:30 h:2>
+No entry beyond
+this point.<Close><End of Block>
+<TextBlock 52 w:40 h:4>
 The final match...
 Wiseman
    vs.
-   Dragon-Slaying Boxer<Close><End of Block>
-<TextBlock 53 w:46 h:4>
+Dragon-Slaying Boxer<Close><End of Block>
+<TextBlock 53 w:40 h:4>
 The final match...
 Wiseman
    vs.
-   Dragon-Slaying Youth<Close><End of Block>
-<TextBlock 54 w:48 h:4>
+Dragon-Slaying Youth<Close><End of Block>
+<TextBlock 54 w:42 h:4>
 The final match...
 Wiseman
    vs.
-   Dragon-Slaying Squire<Close><End of Block>
-<TextBlock 55 w:50 h:4>
+Dragon-Slaying Squire<Close><End of Block>
+<TextBlock 55 w:44 h:4>
 The final match...
 Wiseman
    vs.
-   Dragon-Slaying Slacker<Close><End of Block>
-<TextBlock 56 w:38 h:4>
+Dragon-Slaying Slacker<Close><End of Block>
+<TextBlock 56 w:36 h:4>
 The final match...
 Wiseman
    vs.
-   Ponytailed Boxer<Close><End of Block>
-<TextBlock 57 w:38 h:4>
+Ponytailed Boxer<Close><End of Block>
+<TextBlock 57 w:36 h:4>
 The final match...
 Wiseman
    vs.
-   Ponytailed Youth<Close><End of Block>
-<TextBlock 58 w:40 h:4>
+Ponytailed Youth<Close><End of Block>
+<TextBlock 58 w:36 h:4>
 The final match...
 Wiseman
    vs.
-   Ponytailed Squire<Close><End of Block>
-<TextBlock 59 w:42 h:4>
+Ponytailed Squire<Close><End of Block>
+<TextBlock 59 w:36 h:4>
 The final match...
 Wiseman
    vs.
-   Ponytailed Slacker<Close><End of Block>
+Ponytailed Slacker<Close><End of Block>
 <TextBlock 60 w:36 h:4>
 The final match...
 Wiseman
    vs.
-   Wandering Boxer<Close><End of Block>
+Wandering Boxer<Close><End of Block>
 <TextBlock 61 w:36 h:4>
 The final match...
 Wiseman
    vs.
-   Wandering Youth<Close><End of Block>
-<TextBlock 62 w:38 h:4>
+Wandering Youth<Close><End of Block>
+<TextBlock 62 w:36 h:4>
 The final match...
 Wiseman
    vs.
-   Wandering Squire<Close><End of Block>
-<TextBlock 63 w:40 h:4>
+Wandering Squire<Close><End of Block>
+<TextBlock 63 w:36 h:4>
 The final match...
 Wiseman
    vs.
-   Wandering Slacker<Close><End of Block>
+Wandering Slacker<Close><End of Block>
 <TextBlock 64 w:36 h:4>
 The final match...
 Wiseman
    vs.
-   Beloved Boxer<Close><End of Block>
+Beloved Boxer<Close><End of Block>
 <TextBlock 65 w:36 h:4>
 The final match...
 Wiseman
    vs.
-   Beloved Youth<Close><End of Block>
+Beloved Youth<Close><End of Block>
 <TextBlock 66 w:36 h:4>
 The final match...
 Wiseman
    vs.
-   Beloved Squire<Close><End of Block>
+Beloved Squire<Close><End of Block>
 <TextBlock 67 w:36 h:4>
 The final match...
 Wiseman
    vs.
-   Beloved Slacker<Close><End of Block>
-<TextBlock 68 w:46 h:4>
+Beloved Slacker<Close><End of Block>
+<TextBlock 68 w:40 h:4>
 The first match...
 Gonzalez
    vs.
-   Dragon-Slaying Boxer<Close><End of Block>
-<TextBlock 69 w:46 h:4>
+Dragon-Slaying Boxer<Close><End of Block>
+<TextBlock 69 w:40 h:4>
 The first match...
 Gonzalez
    vs.
-   Dragon-Slaying Youth<Close><End of Block>
-<TextBlock 70 w:48 h:4>
+Dragon-Slaying Youth<Close><End of Block>
+<TextBlock 70 w:42 h:4>
 The first match...
 Gonzalez
    vs.
-   Dragon-Slaying Squire<Close><End of Block>
-<TextBlock 71 w:50 h:4>
+Dragon-Slaying Squire<Close><End of Block>
+<TextBlock 71 w:44 h:4>
 The first match...
 Gonzalez
    vs.
-   Dragon-Slaying Slacker<Close><End of Block>
-<TextBlock 72 w:38 h:4>
+Dragon-Slaying Slacker<Close><End of Block>
+<TextBlock 72 w:36 h:4>
 The first match...
 Gonzalez
    vs.
-   Ponytailed Boxer<Close><End of Block>
-<TextBlock 73 w:38 h:4>
+Ponytailed Boxer<Close><End of Block>
+<TextBlock 73 w:36 h:4>
 The first match...
 Gonzalez
    vs.
-   Ponytailed Youth<Close><End of Block>
-<TextBlock 74 w:40 h:4>
+Ponytailed Youth<Close><End of Block>
+<TextBlock 74 w:36 h:4>
 The first match...
 Gonzalez
    vs.
-   Ponytailed Squire<Close><End of Block>
-<TextBlock 75 w:42 h:4>
+Ponytailed Squire<Close><End of Block>
+<TextBlock 75 w:36 h:4>
 The first match...
 Gonzalez
    vs.
-   Ponytailed Slacker<Close><End of Block>
+Ponytailed Slacker<Close><End of Block>
 <TextBlock 76 w:36 h:4>
 The first match...
 Gonzalez
    vs.
-   Wandering Boxer<Close><End of Block>
+Wandering Boxer<Close><End of Block>
 <TextBlock 77 w:36 h:4>
 The first match...
 Gonzalez
    vs.
-   Wandering Youth<Close><End of Block>
-<TextBlock 78 w:38 h:4>
+Wandering Youth<Close><End of Block>
+<TextBlock 78 w:36 h:4>
 The first match...
 Gonzalez
    vs.
-   Wandering Squire<Close><End of Block>
-<TextBlock 79 w:40 h:4>
+Wandering Squire<Close><End of Block>
+<TextBlock 79 w:36 h:4>
 The first match...
 Gonzalez
    vs.
-   Wandering Slacker<Close><End of Block>
+Wandering Slacker<Close><End of Block>
 <TextBlock 80 w:36 h:4>
 The first match...
 Gonzalez
    vs.
-   Beloved Boxer<Close><End of Block>
+Beloved Boxer<Close><End of Block>
 <TextBlock 81 w:36 h:4>
 The first match...
 Gonzalez
    vs.
-   Beloved Youth<Close><End of Block>
+Beloved Youth<Close><End of Block>
 <TextBlock 82 w:36 h:4>
 The first match...
 Gonzalez
    vs.
-   Beloved Squire<Close><End of Block>
+Beloved Squire<Close><End of Block>
 <TextBlock 83 w:36 h:4>
 The first match...
 Gonzalez
    vs.
-   Beloved Slacker<Close><End of Block>
+Beloved Slacker<Close><End of Block>
 <TextBlock 84 w:50 h:3>
-Hey, are you gonna fight?
-Hmm...<Delay 100> I'd say about
-twenty-to-one.<Close><End of Block>
+Hey, you're taking part!?
+Hmm...<Delay 100> I'd say your odds
+are about twenty-to-one.<Close><End of Block>
 <TextBlock 85 w:46 h:2>
-Shoot, can't get any
-decent customers today.<Close><End of Block>
-<TextBlock 86 w:52 h:2>
-Yo, dude!
-Try and pick the champion?<Close><End of Block>
-<TextBlock 87 w:46 h:2>
+Sheesh, not getting any
+decent clientele today.<Close><End of Block>
+<TextBlock 86 w:48 h:2>
+Yo, dude! How about
+tryin' to pick a winner?<Close><End of Block>
+<TextBlock 87 w:42 h:2>
 Citan
-"The champion of what?"<Close><End of Block>
-<TextBlock 88 w:34 h:3>
-Huh?<Delay 30>
-The champion of
-the Tournament!<Close><End of Block>
-<TextBlock 89 w:38 h:3>
+"The winner of what?"<Close><End of Block>
+<TextBlock 88 w:44 h:3>
+Huh?<Delay 30> The winner of the
+Tournament, of course!
+What else!?<Close><End of Block>
+<TextBlock 89 w:40 h:3>
 Citan
-"Do they bet on
-this 'Tournament'?"<Close><End of Block>
-<TextBlock 90 w:54 h:3>
-What
-What are you talking about?
-Tournaments ARE gambling!<New>
-Why do you think people
-even come here? To bet on
-who will be champion! Duh!<Close><End of Block>
-<TextBlock 91 w:54 h:4>
+"And bets are placed
+on this Tournament?"<Close><End of Block>
+<TextBlock 90 w:52 h:4>
+Kyaaahaha!
+Are you serious!?
+Tournaments mean gambling!
+Don't you know that!?<New>
+Why d'you think anyone
+who's not a contestant
+looks forward to the
+Tournament?<New>
+Bets, man. Bets.<Delay 10>
+We guess the winner.<Close><End of Block>
+<TextBlock 91 w:52 h:4>
 Citan
 "Excuse us, we have only
 just arrived and know
-nothing of the Tournament."<Close><End of Block>
+little of the Tournament."<Close><End of Block>
 <TextBlock 92 w:52 h:4>
-Oh, tourists, huh?
-Well let me tell you about
-the Tournament.<New>
-Every year they hold a big
-martial-arts tournament 
-here in Av.<New>
-Fighters from all over the
-world gather to see who's
-strongest. It's like a big
-brawl.<New>
-Everyone goes wild over
-guessing who'll win. So,
-wanna give it a try?<Close><End of Block>
-<TextBlock 93 w:52 h:4>
+Oh, countryfolk, are ya?
+Well alright, let me give
+you the lowdown on the
+Tournament.<New>
+It's a big martial-arts
+event that's held every
+year here in Av.<New>
+People from all over the
+world who're confident in
+their skills gather to see
+who's the strongest.<New>
+I mean, it's kinda just
+a big brawl.<New>
+And the non-participants
+go wild, too <--> about
+predicting the winner.
+So, wanna give it a go?<Close><End of Block>
+<TextBlock 93 w:44 h:4>
 Citan
-"Betting on the
-Tournament...<New>
-Is that allowed at such a
-prestigious event?"<Close><End of Block>
-<TextBlock 94 w:48 h:4>
-For sure. The soldiers
-are crazy about it. If
-Kislev attacked tomorrow
-Av would be dust.<New>
-What're you gonna do?
-Registration's not over
-yet, but all the strong
-ones have signed up.<New>
-The rest are only after
-the consolation prizes
-anyway...<Close><End of Block>
-<TextBlock 95 w:44 h:4>
+"The gambling...<Delay 10>
+Is it really alright
+to do that so openly?"<Close><End of Block>
+<TextBlock 94 w:56 h:4>
+Obviously! If anything it's
+the soldiers who go craziest
+for it. If Kislev attacked
+tomorrow, Av would be dust.<New>
+So how about it?
+Contestant registration's
+not over yet, but all the
+top dogs are in place,<New>
+and the rest are only in it
+for the participation prize.<Close><End of Block>
+<TextBlock 95 w:48 h:4>
 Citan
-"Let us wait and see.
-Some strong ones might
-still register."<Close><End of Block>
+"We will keep an eye
+on the situation a
+little longer.<New>
+Who knows, there is a
+possibility that someone
+tough may yet register."<Close><End of Block>
 <TextBlock 96 w:44 h:2>
-Ha!
+Pfft!
 What a buncha cowards.<Close><End of Block>
-<TextBlock 97 w:46 h:3>
-To enter...<Delay 30>
-Or not to enter...<Delay 30>
+<TextBlock 97 w:48 h:3>
+To participate...<Delay 30>
+or not to participate...<Delay 30>
 That is the question...<Close><End of Block>
-<TextBlock 98 w:46 h:3>
-To watch inside...<Delay 30>
-Or watch outside...<Delay 30>
+<TextBlock 98 w:48 h:4>
+To pay the money and
+watch from inside...<Delay 30>
+or watch from outside...<Delay 30>
 That is the question...<Close><End of Block>
-<TextBlock 99 w:38 h:2>
-Get ready!
-It's starting soon!<Close><End of Block>
-<TextBlock 100 w:52 h:3>
-Woo-hoo! This is gonna be
-HOT! I love the sound of
-folks smackin' each other!<Close><End of Block>
-<TextBlock 101 w:44 h:2>
-I'm ready already...
-What's taking so long?<Close><End of Block>
-<TextBlock 102 w:38 h:1>
-We're almost ready!<Close><End of Block>
-<TextBlock 103 w:50 h:3>
+<TextBlock 99 w:40 h:3>
+What's taking so
+long to prepare!?
+Just get on with it!<Close><End of Block>
+<TextBlock 100 w:40 h:3>
+Woo-hoo, I'm pumped!
+I can't resist the
+sound of fisticuffs!<Close><End of Block>
+<TextBlock 101 w:46 h:2>
+I'm ready already.
+Is it gonna start soon?<Close><End of Block>
+<TextBlock 102 w:34 h:2>
+It's almost time,
+it's almost time!<Close><End of Block>
+<TextBlock 103 w:56 h:4>
 If I was only ten years
-younger...
-*cough*...*hack*...<New>
-I'd whip 'em all...
-*cough*<Close><End of Block>
-<TextBlock 104 w:48 h:3>
+younger. I'd whip 'em all...
+*cough, cough*...no problem.
+*hack*...*cough*<Close><End of Block>
+<TextBlock 104 w:54 h:3>
 I was born and raised in
-Dazil<Delay 60> but this is my 
-first Tournament.<Close><End of Block>
-<TextBlock 105 w:54 h:3>
-This is the best place
-to see the action for free.
-I'm saving my space now!<Close><End of Block>
+Dazil.<Delay 60> This is my first
+time seeing the Tournament.<Close><End of Block>
+<TextBlock 105 w:48 h:4>
+Out of the places where
+you can see for free,
+here is best. From today
+on I'm saving a spot!<Close><End of Block>
 <TextBlock 106 w:52 h:3>
-Oh, hey! Those guys in
-front are in the way! That
-gets me sooo pissed!<Close><End of Block>
-<TextBlock 107 w:50 h:4>
-I'm for the ones that
-pay out big. Don't know
-much about martial arts
-though.<New>
-I sure could use a little
-extra house money.<Close><End of Block>
-<TextBlock 108 w:50 h:4>
-My son's in it! I hope
-he doesn't get hurt. <Delay 60>
-I'm so worried he's going
-to get hurt.<Close><End of Block>
-<TextBlock 109 w:42 h:3>
-My cousin's friend
-is gonna fight in it.
-Pretty cool, huh!<Close><End of Block>
+Oh, come on! The people at
+the front are in my way!
+I'm soooo pissed!<Close><End of Block>
+<TextBlock 107 w:52 h:4>
+I'm rooting for whichever
+competitor gets me a high
+return! I don't know much
+about martial arts though.<New>
+I just hope it'll help me
+a bit with the household
+finances.<Close><End of Block>
+<TextBlock 108 w:42 h:3>
+My son's taking part,
+you know. I hope he
+doesn't get hurt.<New>
+But I'm even more
+worried about him
+hurting his opponent.<Close><End of Block>
+<TextBlock 109 w:50 h:3>
+A senior at the school my
+cousin goes to is taking
+part. Pretty cool, huh?<Close><End of Block>
 <TextBlock 110 w:50 h:2>
-Hey, grampa...
-Let's bet on someone too.<Close><End of Block>
-<TextBlock 111 w:52 h:3>
-No, betting's for losers.<New>
+Hey, Grandpa...
+Let's bet on someone too!<Close><End of Block>
+<TextBlock 111 w:58 h:4>
+No way.
+Gambling's for losers.<New>
 I brought you here because
-I want you to grow up and
-be a strong man.<New>
-Strong enough to fight
-in the Tournament someday.<Close><End of Block>
-<TextBlock 112 w:28 h:1>
-Man, how lame.<Close><End of Block>
+I want you to become a strong
+man.<Delay 60> Strong enough to take
+part in the Tournament.<Close><End of Block>
+<TextBlock 112 w:40 h:1>
+Tch, this is boring.<Close><End of Block>
 <TextBlock 113 w:52 h:4>
 I come every year. This
-is my third time. I only
-have to see 'em once to
-know who's the strongest.<New>
-Are you fighting?<Delay 60>
+is my third time. I know
+a contestant's strength
+from just one look at 'em.<New>
+You taking part, mister?<Delay 60>
 You look pretty strong.<Delay 30>
 Um, maybe a semi-finalist.
 Good luck.<Close><End of Block>
-<TextBlock 114 w:54 h:4>
-If my guy wins...<Delay 30>I'm gonna
-go to the bar and order the
-most expensive whiskey they
-have.<New>
+<TextBlock 114 w:60 h:4>
+If the guy I bet on wins...<Delay 30>
+first I'm gonna celebrate at
+the bar...and order their most
+expensive bottle of whiskey.<New>
 Then I'm gonna ask that
 waitress out! I wonder what
-to get her for a present.<Close><End of Block>
+to get her as a present...<Close><End of Block>
 <TextBlock 115 w:30 h:2>
 I'm betting on
 Big Joe too.<Close><End of Block>
 <TextBlock 116 w:44 h:2>
 Trust me.
 It's gonna be Big Joe.<Close><End of Block>
-<TextBlock 117 w:32 h:2>
-I think Wiseman
-is stronger...<Close><End of Block>
-<TextBlock 118 w:46 h:1>
-Who's Sarge betting on?<Close><End of Block>
-<TextBlock 119 w:40 h:1>
-Me, I'm for Big Joe.<Close><End of Block>
+<TextBlock 117 w:34 h:2>
+I think Wiseman's
+stronger...<Close><End of Block>
+<TextBlock 118 w:52 h:1>
+Who you betting on, Sarge?<Close><End of Block>
+<TextBlock 119 w:52 h:1>
+Me? I'm going for Big Joe.<Close><End of Block>
 <TextBlock 120 w:44 h:4>
-No way, bad choice.
-He's all hot air.
+Oof, bad choice.
+The guy's all hot air.
 Believe me, Wiseman's
 gonna win.<Close><End of Block>
 <TextBlock 121 w:40 h:3>
 Shut up! I was right
-last time, I'm not
-gonna listen to you.<Close><End of Block>
-<TextBlock 122 w:50 h:3>
-Wow! You picked the champ
-last time? That musta
-been fifty-to-one...<Close><End of Block>
-<TextBlock 123 w:36 h:3>
-Yep and I blew it
-all in a week.
+last time. I'm not
+listening to you!<Close><End of Block>
+<TextBlock 122 w:60 h:3>
+Amazing! You picked the
+winner last time? That musta
+paid out about fifty-to-one...<Close><End of Block>
+<TextBlock 123 w:42 h:3>
+Sure was! And I blew
+it all within a week.
 Wah ha ha!<Close><End of Block>
 <TextBlock 124 w:32 h:1>
 ...What a waste.<Close><End of Block>
 <TextBlock 125 w:46 h:2>
 Yep, that's the sarge.
 He's a man's man.<Close><End of Block>
-<TextBlock 126 w:52 h:3>
-Recently the fighters have
-been boring. It was better
-when the king was around.<Close><End of Block>
-<TextBlock 127 w:46 h:5>
-These martial-arts
-tournaments are okay...
-But what if Gears, not
-people, fought it out?
-I'd like to see that.<Close><End of Block>
-<TextBlock 128 w:34 h:2>
-Hey, are you for
-Joe too?<Close><End of Block>
-<TextBlock 129 w:44 h:4>
-Big Joe's great 'cause
-he's kinda shady.
-Kids like you wouldn't
-understand.<Close><End of Block>
-<TextBlock 130 w:52 h:3>
-Wanna join Joe's fan club?
-If you join, you can come
-to our weekly coffee.<New>
-We have a dinner show
-once a month too.<Close><End of Block>
+<TextBlock 126 w:56 h:4>
+The fighters recently are
+so weedy and uninteresting.
+It was much more lively when
+the king was still around.<Close><End of Block>
+<TextBlock 127 w:52 h:4>
+These martial-arts events
+are okay, but what if we
+had Gears fighting it out,
+and not people?<Close><End of Block>
+<TextBlock 128 w:32 h:2>
+Hey, you rootin'
+for Joe too?<Close><End of Block>
+<TextBlock 129 w:58 h:3>
+Big Joe's great 'cause he's
+got some darkness to him.
+You kids wouldn't understand.<Close><End of Block>
+<TextBlock 130 w:54 h:3>
+Wanna be in Joe's fan club?
+If you enroll, you can join
+our weekly coffee meets.<New>
+There's a dinner show once
+a month too.<Close><End of Block>
 <TextBlock 131 w:46 h:3>
-Hey, are you fightin'?
-Give it up. No way you
-can beat Joe.<Close><End of Block>
-<TextBlock 132 w:52 h:3>
-I want to see what kind
-of fighters came. The best
-men all joined the army.<Close><End of Block>
-<TextBlock 133 w:48 h:4>
-I love pure fighting.
-Especially all those
-different styles!<Delay 60> I came
-all the way from Dazil.<Close><End of Block>
-<TextBlock 134 w:54 h:3>
-I hate war and fighting.
-What? Oh I'm writing a book
-on the folly of mankind.<Close><Close><End of Block>
+You're taking part, boy?<Delay 30>
+Give it up. No way are
+you a match for Joe.<Close><End of Block>
+<TextBlock 132 w:48 h:4>
+I can't wait to see
+what kind of competitors
+turn up. All the best
+men went into the army.<Close><End of Block>
+<TextBlock 133 w:52 h:3>
+I genuinely love hand-
+to-hand combat. Especially
+all the different styles!<New>
+I came here from Dazil
+just for this.<Close><End of Block>
+<TextBlock 134 w:42 h:3>
+I hate all this war,
+martial arts and what
+not with a passion.<New>
+Me? Oh I'm writing
+a book on the folly
+of mankind.<Close><Close><End of Block>

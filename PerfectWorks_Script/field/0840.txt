@@ -1,11 +1,11 @@
 <TextBlock 1 w:52 h:4>
 I get back from guard duty
-on the Kislev border and
-find my house has turned
-into a damned cathouse...<New>
-I guess my daughter was
-a little bit lonely.<New>
+on the Nisan border...
+only to find my house has
+turned into Cat Manor!<New>
+...I guess my daughter
+was a little bit lonely.<New>
 But I've gotten used to
-having them around...
-In fact, now I feel sad
-if even one cat leaves.<Close><Close><End of Block>
+having them around.
+Now if even one cat's not
+here I miss them!<Close><Close><End of Block>

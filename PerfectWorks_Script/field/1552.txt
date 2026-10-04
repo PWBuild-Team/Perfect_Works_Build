@@ -52,13 +52,13 @@ Rico
 Citan
 "Could this
 possibly be<Delay 10>...?"<Close><End of Block>
-<TextBlock 14 w:34 h:3>
+<TextBlock 14 w:32 h:3>
 Fei
 "We're sitting
 ducks like this!<New>
-Are you saying we
-have to sit here
-and take it!?"<Close><End of Block>
+Are you saying
+we have to just
+take it!?"<Close><End of Block>
 <TextBlock 15 w:50 h:3>
 Citan
 "Not necessarily.<Delay 20>

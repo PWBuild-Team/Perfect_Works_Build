@@ -1,26 +1,27 @@
 <TextBlock 1 w:46 h:3>
-My brother is such a 
-child, always playing
-hide-and-seek. <New>
-What a laugh. I wonder 
-where he's hiding now?<Close><End of Block>
+My brother's such a 
+child. Always engrossed
+in hide-and-seek. <New>
+You have to laugh.
+Isn't he even hiding
+somewhere right now?<Close><End of Block>
 <TextBlock 2 w:44 h:4>
 My brother says he's
-over playing hide-and-
+done playing hide-and-
 seek. But now he has
 nothing to do.<New>
 He's probably just
-wandering around the
-area. He's still such
-a child.<Close><End of Block>
-<TextBlock 3 w:42 h:5>
-That kid is amazing. 
-Since her father has 
-been away she's been 
-running the store all
-by herself.<Close><End of Block>
-<TextBlock 4 w:48 h:4>
-My dad came back. <Delay 50>
-I was helping him in the
-store but he told me to
-go play somewhere.<Close><Close><End of Block>
+idling somewhere
+nearby, isn't he?
+He really is a child.<Close><End of Block>
+<TextBlock 3 w:50 h:4>
+This kid is amazing.
+When her father was away
+she ran the weapons store
+all by herself.<Close><End of Block>
+<TextBlock 4 w:52 h:4>
+My dad came back.<New>
+Before, he'd be bossy and
+tell me to help out at the
+store, but now he's kind
+and tells me to go play.<Close><Close><End of Block>

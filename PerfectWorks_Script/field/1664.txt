@@ -45,12 +45,12 @@ Fei
 <Opcode 1 255>BART!<Opcode 2 20><Close><End of Block>
 <TextBlock 12 w:16 h:1>
 ...Ughh!<Close><End of Block>
-<TextBlock 13 w:50 h:3>
+<TextBlock 13 w:54 h:3>
 Elly
 "(Enough!<New>
 Shouting like that...
-What if they find out
-you're a land dweller!?)"<Close><End of Block>
+What if they realize you're
+a surface dweller!?)"<Close><End of Block>
 <TextBlock 14 w:40 h:4>
 Fei
 "(It doesn't matter
@@ -69,8 +69,8 @@ Elly
 our progenitors, the
 Gazel of old...<New>
 the day after tomorrow,<Delay 10>
-these land dwellers will
-be processed at the
+these surface dwellers
+will be processed at the
 Soylent System'...)"<Close><End of Block>
 <TextBlock 17 w:44 h:4>
 Fei

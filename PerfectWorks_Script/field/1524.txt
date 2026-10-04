@@ -19,11 +19,11 @@ Rico
 "...<Delay 20>
 I see...
 That's how it was."<Close><End of Block>
-<TextBlock 5 w:34 h:3>
+<TextBlock 5 w:40 h:4>
 Billy
 "The Church...
 did this to the
-land dwellers...?<New>
+surface dwellers...?<New>
 Managed them...
 like cattle...?<New>
 I..."<Close><End of Block>
@@ -39,7 +39,7 @@ negate the Limiters.<Close><End of Block>
 <TextBlock 7 w:54 h:5>
 The scientists of Solaris,
 disgusted at the rebellion
-of the land dwellers 500
+of the surface dwellers 500
 years ago, decided to do a
 little work on them.<New>
 They tampered with people's
@@ -101,8 +101,8 @@ In any case, the Lambs will
 continue to be Solaris'
 guinea pigs unless someone
 stops them.<Close><End of Block>
-<TextBlock 11 w:52 h:5>
-You land dwellers better
+<TextBlock 11 w:54 h:5>
+You surface dwellers better
 think seriously about it.<Delay 20>
 The Lambs'll continue to
 be Solaris' guinea pigs

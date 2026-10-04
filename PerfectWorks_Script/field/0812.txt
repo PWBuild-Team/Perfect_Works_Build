@@ -1,32 +1,33 @@
 <TextBlock 1 w:52 h:2>
-Of course, business is
-better when there's peace.<Close><End of Block>
-<TextBlock 2 w:50 h:3>
-You said it.
+Yep, it's so much nicer to
+do business in peacetime.<Close><End of Block>
+<TextBlock 2 w:50 h:4>
+That's right!
 The army returned all the
-stuff they confiscated.<Close><End of Block>
+'surplus items' they'd
+taken from me before now.<Close><End of Block>
 <TextBlock 3 w:46 h:1>
 Look, prices went down.<Close><End of Block>
 <TextBlock 4 w:40 h:3>
-Really? <Delay 30>
-Then, can't you give
-it to me cheaper?<Close><End of Block>
-<TextBlock 5 w:52 h:4>
-My son's coming back and
-our grandchild's excited.<Delay 50> 
-She's so hyper, it's hard
-for me to keep up!<Close><End of Block>
-<TextBlock 6 w:46 h:3>
-Even with my son back,
-taking care of the kids
-is the old folks job.<Close><End of Block>
+Oh really?<Delay 30>
+So can't you cut the
+prices some more?<Close><End of Block>
+<TextBlock 5 w:56 h:4>
+My grandchild's making a
+big fuss about my son coming
+home.<Delay 20> She's so hyper, it's
+hard for me to keep up!<Close><End of Block>
+<TextBlock 6 w:56 h:3>
+Even when my son's back,
+looking after the grandchild
+is a job for the old folks!<Close><End of Block>
 <TextBlock 7 w:44 h:4>
 Grandpa, hurry, hurry!
 We gotta buy the stuff
 for the welcome party
 before Dad gets back.<Close><End of Block>
 <TextBlock 8 w:50 h:3>
-Grandma, hurry, hurry!
+Grandpa, hurry, hurry!
 Let's finish shopping and
 go to the festival!<Close><End of Block>
 <TextBlock 9 w:38 h:3>
@@ -46,61 +47,62 @@ over.<Close><End of Block>
 Ah, it's better if you
 don't know. Just enjoy
 Breidablik in peacetime.<Close><End of Block>
-<TextBlock 13 w:50 h:4>
-Wow, am I busy! Ever
-since I got back, my
-wife's been telling me
-the housework's backed up<New>
-and won't help with the
-business at all!<Close><End of Block>
-<TextBlock 14 w:46 h:3>
+<TextBlock 13 w:64 h:4>
+Wow, am I busy!<New>
+Ever since I got back, my wife's
+been telling me the housework's
+backed up and won't help with
+the business at all!<Close><End of Block>
+<TextBlock 14 w:46 h:4>
+Well, if it isn't
 Prince Bartholomew.
-I've been awaiting your
-return.<New>
+I've been awaiting
+your return.<New>
 May you have a peaceful
-rule in Av.<Close><End of Block>
+rule in the kingdom
+of Av.<Close><End of Block>
 <TextBlock 15 w:46 h:4>
 Now I'm not so worried
 about my kids and
 grandkids. I can relax
 in peace.<Close><End of Block>
-<TextBlock 16 w:42 h:4>
-Now that the war is
+<TextBlock 16 w:46 h:4>
+Now that the war's
 over there should be
-lots of visitors. <Delay 50>
-I gotta be ready.<Close><End of Block>
-<TextBlock 17 w:52 h:4>
-It's great that Prince
-Bartholomew returned, but
-what's this Republic
-thing?<Close><End of Block>
+lots of visitors.<Delay 50>
+I'll have to work hard.<Close><End of Block>
+<TextBlock 17 w:42 h:4>
+I'm glad that Prince
+Bartholomew returned,
+but what's all this
+about a republic?<Close><End of Block>
 <TextBlock 18 w:44 h:2>
 Peace at last! Now we
 can live without fear.<Close><End of Block>
-<TextBlock 19 w:41 h:4>
+<TextBlock 19 w:42 h:4>
 Meat, meat, meeeeat!
-Get ya meat, meeeeat!<Delay 30>
+Get yer meeeeat!<Delay 30>
 Hey buddy, you gotta
-eat lotsa meeeeat!<Close><End of Block>
+eat yer meeeeat!<Close><End of Block>
 <TextBlock 20 w:52 h:6>
-Hey buddy, want some meat?
+Hey buddy, buy some meat!
 Everything is 70G.<Delay 10>
 <Opcode 1 255>    Hob-Jerky
     Hob-Meat
     Hob-Steak
-    No thanks <Opcode 13 255><Opcode 2 1><Close><End of Block>
-<TextBlock 21 w:34 h:5>
+    Don't need any<Opcode 13 255><Opcode 2 1><Close><End of Block>
+<TextBlock 21 w:36 h:5>
 How about 65G...?<Delay 10>
 <Opcode 1 255>    Hob-Jerky
     Hob-Meat
     Hob-Steak
-    No thanks <Opcode 13 255><Opcode 2 1><Close><End of Block>
-<TextBlock 22 w:34 h:5>
+    Don't need any<Opcode 13 255><Opcode 2 1><Close><End of Block>
+<TextBlock 22 w:36 h:5>
 How about 60G...?<Delay 10>
 <Opcode 1 255>    Hob-Jerky
     Hob-Meat
     Hob-Steak
-    No thanks<Opcode 13 255><Opcode 2 1><Close><End of Block>
+    Don't need any<Opcode 13 255><Opcode 2 1><Close><End of Block>
 <TextBlock 23 w:56 h:2>
 Hey meat-head!
 You've got too much already!<Close><End of Block>
@@ -110,324 +112,338 @@ Hob-Jerky coming up!<Opcode 2 60><Close><End of Block>
 Hob-Meat coming up!<Opcode 2 60><Close><End of Block>
 <TextBlock 26 w:40 h:1>
 Hob-Steak coming up!<Opcode 2 60><Close><End of Block>
-<TextBlock 27 w:36 h:2>
-Yep. Eat meat and
-you'll be healthy.<Close><End of Block>
-<TextBlock 28 w:56 h:1>
-You don't have enough money!<Close><End of Block>
+<TextBlock 27 w:40 h:2>
+Here y'are.<Delay 5> Eat meat
+and get healthy.<Close><End of Block>
+<TextBlock 28 w:54 h:1>
+You don't have the money...<Close><End of Block>
 <TextBlock 29 w:42 h:2>
 If you don't eat meat
 you'll get sick...<Close><End of Block>
-<TextBlock 30 w:50 h:3>
-Thanks for lending me
+<TextBlock 30 w:48 h:3>
+Thanks for lending us
 that money before.<New>
-My dad never came back
-but I still don't steal.<New>
-The two of us are working
-hard. We opened up our
-own business.<New>
-So now I can give you
-back your money.
-A little at a time.<Close><End of Block>
-<TextBlock 31 w:36 h:2>
+In the end, Dad never
+came back, but we're
+still not shoplifting.<New>
+The two of us're working
+hard. We started our own
+business with the money.<New>
+So now we can pay you
+back. Although, it'll
+be a little at a time.<Close><End of Block>
+<TextBlock 31 w:38 h:3>
 Even without Dad,
-we'll make it.<Close><End of Block>
+if we both do our
+best we'll make it.<Close><End of Block>
 <TextBlock 32 w:46 h:3>
-Here's the first part.
-And I'll work real hard
+Here's that money.<Delay 5>
+We're working real hard
 to pay back the rest.<Close><End of Block>
 <TextBlock 33 w:38 h:3>
-Sorry, I haven't
-saved any money to
-give back yet.<Close><End of Block>
-<TextBlock 34 w:52 h:3>
-I'll be here working hard,
-so stop by sometime and
-buy some meat.<Close><End of Block>
+Sorry. We haven't
+saved enough money
+to give back yet...<Close><End of Block>
+<TextBlock 34 w:54 h:3>
+We'll be here working hard,
+so stop by once in a while
+and buy some meat.<Close><End of Block>
 <TextBlock 35 w:36 h:1>
 You got 100G back.<Close><End of Block>
-<TextBlock 36 w:44 h:4>
-Any monster fangs? <Delay 15>
-Any monster eyeballs? <Delay 15>
-Any monster scales? <Delay 15>
-I pay the most!<Opcode 2 60><Close><End of Block>
-<TextBlock 37 w:46 h:5>
-What do you wanna sell?<Delay 10>
-<Opcode 1 255>    Fang    150G
-    Eyeball 300G
-    Scale   600G
-    No way<Close><End of Block>
-<TextBlock 38 w:50 h:3>
-If you get any sell them
-to me, I'll beat anyone's
-price.<Close><End of Block>
-<TextBlock 39 w:32 h:1>
-Come back again.<Close><End of Block>
-<TextBlock 40 w:46 h:1>
-You don't have a thing!<Close><End of Block>
-<TextBlock 41 w:32 h:1>
-Alright, got it!<Close><End of Block>
+<TextBlock 36 w:42 h:4>
+Any monster fangs?<Delay 15>
+Any monster eyeballs?<Delay 15>
+Any monster scales?<Delay 15>
+I pay top rates!<Opcode 2 60><Close><End of Block>
+<TextBlock 37 w:44 h:5>
+What d'you wanna sell?<Delay 10>
+<Opcode 1 255>    Fang     150G
+    Eyeball  300G
+    Scale    600G
+    Quit<Close><End of Block>
+<TextBlock 38 w:42 h:4>
+If you get your hands
+on anything, sell it
+to me. I'll pay more
+than anyone else.<Close><End of Block>
+<TextBlock 39 w:38 h:1>
+Thanks, come again.<Close><End of Block>
+<TextBlock 40 w:38 h:1>
+You don't have any!<Close><End of Block>
+<TextBlock 41 w:28 h:1>
+Alright, sold!<Close><End of Block>
 <TextBlock 42 w:46 h:1>
 Received <Opcode 10 0>G.<Close><End of Block>
-<TextBlock 43 w:48 h:4>
-Fruit that's kinda spicy
-Fruit that's kinda large
+<TextBlock 43 w:56 h:5>
+Bizarre fruit, kinda spicy~
+Bizarre fruit, kinda la~rge
 Kinda hard to say
-why it's so bizarre<New>
+why it's so biza~rre
 Get your Bizfruit now!<Opcode 2 100><Close><End of Block>
 <TextBlock 44 w:50 h:4>
-I used to sell Lahan
-radishes my mom grew.<Delay 50>
+I used to sell radishes
+my mom got in Lahan.<Delay 50>
 But when I got out of the
 army, Lahan was gone.<New>
-So now I sell Bizfruit.<Close><End of Block>
-<TextBlock 45 w:36 h:3>
+So I decided to sell
+Bizfruit.<Close><End of Block>
+<TextBlock 45 w:34 h:3>
 One for 10G.<Delay 10>
 <Opcode 1 255>    Buy one
-    Don't buy any <Opcode 13 255><Opcode 2 1><Close><End of Block>
-<TextBlock 46 w:36 h:4>
+    Don't buy any<Opcode 13 255><Opcode 2 1><Close><End of Block>
+<TextBlock 46 w:34 h:4>
 Alright,
 how about 9G?<Delay 10>
 <Opcode 1 255>    Buy one
-    Don't buy any <Opcode 13 255><Opcode 2 1><Close><End of Block>
-<TextBlock 47 w:36 h:4>
+    Don't buy any<Opcode 13 255><Opcode 2 1><Close><End of Block>
+<TextBlock 47 w:34 h:4>
 Come on.
 How about 8G?<Delay 10>
 <Opcode 1 255>    Buy one
-    Don't buy any <Opcode 13 255><Opcode 2 1><Close><End of Block>
-<TextBlock 48 w:30 h:2>
-Hey, you can't
-carry any more.<Close><End of Block>
+    Don't buy any<Opcode 13 255><Opcode 2 1><Close><End of Block>
+<TextBlock 48 w:48 h:3>
+Hey, you can't carry any
+more! Don't make fun of
+army veterans like that.<Close><End of Block>
 <TextBlock 49 w:14 h:1>
-Thanks.<Close><End of Block>
-<TextBlock 50 w:22 h:1>
+Thanks!<Close><End of Block>
+<TextBlock 50 w:24 h:2>
+Here you go!
 Come again!<Close><End of Block>
-<TextBlock 51 w:50 h:3>
-Won't you buy just one?
-Mess with a veteran, and
-you might step on a mine.<Close><End of Block>
-<TextBlock 52 w:48 h:2>
-You hate bizarre things?
-...Too bad.<Close><End of Block>
-<TextBlock 53 w:46 h:4>
-Bananas bananas big
-long bananas! <Delay 20>
+<TextBlock 51 w:50 h:4>
+Aren't you gonna buy one?
+If you make fun of army
+veterans, you might step
+on a mine in the desert!<Close><End of Block>
+<TextBlock 52 w:44 h:3>
+You don't like bizarre
+things, huh...?
+Too bad.<Close><End of Block>
+<TextBlock 53 w:48 h:4>
+Bananas! Bananas!
+Long bananas!<Delay 20>
 Good for body and soul!<Delay 20>
-Buy some bananas today!<Opcode 2 60><Close><End of Block>
+Buy some bananas!<Opcode 2 60><Close><End of Block>
 <TextBlock 54 w:40 h:3>
 Did you bring money?<Delay 10>
 <Opcode 1 255>    Yes
-    No <Opcode 13 255><Opcode 2 1><Close><End of Block>
-<TextBlock 55 w:36 h:1>
-Bring some money. <Close><Opcode 2 80><Close><End of Block>
-<TextBlock 56 w:50 h:3>
-Wanna banana?
-Monsters in the western
-forest love them!<New>
-They're called Elfananas.
-Can't find better bananas
-than these!<Close><End of Block>
-<TextBlock 57 w:36 h:4>
-You're a nice guy,
-so, only 10G!<Delay 10>
+    No<Opcode 13 255><Opcode 2 1><Close><End of Block>
+<TextBlock 55 w:34 h:1>
+Bring some money.<Close><Opcode 2 80><Close><End of Block>
+<TextBlock 56 w:50 h:4>
+Buy a banana?
+The monsters of the
+western forest love them.
+They're called Elfananas.<New>
+You can't find better
+bananas than these.<Close><End of Block>
+<TextBlock 57 w:50 h:4>
+You seem like a nice guy,
+so only 10G for a bunch!<Delay 10>
 <Opcode 1 255>    Buy some
-    Don't buy any <Opcode 13 255><Opcode 2 1><Close><End of Block>
+    Don't buy any<Opcode 13 255><Opcode 2 1><Close><End of Block>
 <TextBlock 58 w:36 h:4>
-They're delicious!
-9G?<Delay 10>
+They're delicious!<Delay 50>
+How about 9G?<Delay 10>
 <Opcode 1 255>    Buy some
     Don't buy any <Opcode 13 255><Opcode 2 1><Close><End of Block>
 <TextBlock 59 w:46 h:5>
-Okay, on special!
+Okay, a special!
 Two bunches for 16G.
 How about it, handsome?<Delay 10>
 <Opcode 1 255>    Buy some
-    Don't buy any <Opcode 13 255><Opcode 2 1><Close><End of Block>
+    Don't buy any<Opcode 13 255><Opcode 2 1><Close><End of Block>
 <TextBlock 60 w:46 h:2>
-Hey, you have too much
-stuff. Come back again.<Close><End of Block>
+Hey, you have too many.
+Come back another time.<Close><End of Block>
 <TextBlock 61 w:36 h:2>
-Thanks!
-You're a good man.<Close><End of Block>
+Thanks! I knew you
+were a nice guy.<Close><End of Block>
 <TextBlock 62 w:22 h:3>
-Wow!
+For you!
 Thanks!
 Come again.<Close><End of Block>
-<TextBlock 63 w:48 h:4>
-<Delay 50>Forgot your wallet?<Delay 50>
-Sorry, but I can't give
-'em to you. Bring your
+<TextBlock 63 w:50 h:4>
+<Delay 50>What, forgot your wallet?<Delay 50>
+Too bad, but I can't give
+them to you. Bring your
 wallet next time.<Close><End of Block>
-<TextBlock 64 w:44 h:4>
+<TextBlock 64 w:52 h:4>
 Well...<Delay 30>
-Eat your bananas and
-you'll grow up to be a
-strong soldier.<Close><End of Block>
-<TextBlock 65 w:46 h:3>
-Hey! Try these berries!
-Sweet, delicious...
-I'll make you a deal! <Opcode 2 100><Close><End of Block>
+If you don't eat bananas
+you won't become a strong
+soldier.<Close><End of Block>
+<TextBlock 65 w:54 h:4>
+Young sir! Young sir!
+Berries, buy some berries.
+Sweet, delicious berries...
+They're 'berry' cheap.<Opcode 2 100><Close><End of Block>
 <TextBlock 66 w:16 h:1>
 Go away!<Opcode 2 80><Close><End of Block>
-<TextBlock 67 w:50 h:5>
+<TextBlock 67 w:50 h:3>
 Delicious berries.
-You can't get Ariberries
-like these anywhere else.
-Grown with Av spring
-water, deep red berries.<Close><End of Block>
+You can't find Ariberries
+like these anywhere else.<New>
+Deep-red berries grown
+with Av spring water.<Close><End of Block>
 <TextBlock 68 w:36 h:3>
-One box, for 10G?<Delay 10>
+One box for 10G.<Delay 10>
 <Opcode 1 255>    Buy some
-    Don't buy any <Opcode 13 255><Opcode 2 1><Close><End of Block>
+    Don't buy any<Opcode 13 255><Opcode 2 1><Close><End of Block>
 <TextBlock 69 w:36 h:4>
 Alright,
-I'll go 9G.<Delay 10>
+I can go 9G.<Delay 10>
 <Opcode 1 255>    Buy some
-    Don't buy any <Opcode 13 255><Opcode 2 1><Close><End of Block>
-<TextBlock 70 w:36 h:4>
-Well, 8G.
-That's my lowest.<Delay 10>
+    Don't buy any<Opcode 13 255><Opcode 2 1><Close><End of Block>
+<TextBlock 70 w:42 h:4>
+Okay then, 8G.
+I can't go any lower.<Delay 10>
 <Opcode 1 255>    Buy some
-    Don't buy any <Opcode 13 255><Opcode 2 1><Close><End of Block>
-<TextBlock 71 w:46 h:2>
-Hey, you've got too
-much stuff. Come again.<Close><End of Block>
+    Don't buy any<Opcode 13 255><Opcode 2 1><Close><End of Block>
+<TextBlock 71 w:50 h:2>
+Hey, you've got too many.
+Come again another time.<Close><End of Block>
 <TextBlock 72 w:14 h:1>
 Thanks!<Close><End of Block>
 <TextBlock 73 w:18 h:1>
 Hey, you!<Close><End of Block>
 <TextBlock 74 w:40 h:3>
-Yes!
-They're really good.
-Just try some.<Close><End of Block>
-<TextBlock 75 w:46 h:2>
-!? <Delay 50>No money?
-Stupid! Get outta here!<Close><End of Block>
+All yours!
+They're really good,
+so have a taste.<Close><End of Block>
+<TextBlock 75 w:46 h:3>
+!?<Delay 50> You've got no money!
+Gimme a break!
+Get outta here!<Close><End of Block>
 <TextBlock 76 w:48 h:2>
 Too bad, they're really
-good. Maybe next time.<Close><End of Block>
+tasty. Maybe next time.<Close><End of Block>
 <TextBlock 77 w:52 h:4>
 Back home at last.<New>
 I like helping my wife out
-at home much more than
+like this much more than
 giving orders on the
 battlefield.<Close><End of Block>
 <TextBlock 78 w:46 h:4>
 Shakhan
-"Hah ha ha ha,
+"Haa ha ha ha,
 Bartholomew the pirate.
 I've got Margie.<New>
 If you don't like it,
 come and get her."<Close><End of Block>
 <TextBlock 79 w:26 h:3>
 Margie
-"...<Delay 30>Help me
+"...<Delay 30>Save me,
 Bartholomew!"<Close><End of Block>
-<TextBlock 80 w:44 h:4>
+<TextBlock 80 w:52 h:4>
 Bartholomew
-"You coward! Stealing
-Av wasn't enough
-for you, Margie too?<Close><End of Block>
-<TextBlock 81 w:48 h:4>
+"You weasel! Stealing
+Av wasn't enough, now you
+wanna snatch Margie too!?"<Close><End of Block>
+<TextBlock 81 w:46 h:4>
 Shakhan
 "What's that, pirate!?
-I made this country what
-it is.<New>
-You just wandered around
-the desert! You louse!"<Close><End of Block>
+I made this great
+country what it is.<New>
+You just drifted around
+the desert, you bum!"<Close><End of Block>
 <TextBlock 82 w:28 h:3>
 Bartholomew
-"What the...?<Delay 50>
-You bald geez!<New>
+"Why, you...!<Delay 50>
+You bald coot!<New>
 Take this!
-Pirate kick!"<Opcode 2 50><Close><End of Block>
-<TextBlock 83 w:36 h:3>
+Pirate KICK!"<Opcode 2 50><Close><End of Block>
+<TextBlock 83 w:34 h:3>
 Shakhan
-"Whoa, you got me.
+"Guh, you got me.
 You brat."<Close><End of Block>
-<TextBlock 84 w:18 h:2>
+<TextBlock 84 w:26 h:2>
 Shakhan
-"Ramsus!"<Close><End of Block>
-<TextBlock 85 w:44 h:3>
+"Raaamsuuus!"<Close><End of Block>
+<TextBlock 85 w:42 h:3>
 Ramsus
 "Ramsus is here!<Delay 30>
-Fight me Bartholomew!"<Close><End of Block>
-<TextBlock 86 w:52 h:3>
+Bartholomew, a duel!"<Close><End of Block>
+<TextBlock 86 w:50 h:3>
 Bartholomew
-"Whoa, this guy is strong.<Delay 30>
+"Whoa, this guy's strong.<Delay 30>
 This is gonna be tough!"<Close><End of Block>
 <TextBlock 87 w:44 h:3>
 Bartholomew
 "Now it's two on two!
-Let's go!"<Close><End of Block>
-<TextBlock 88 w:38 h:3>
+Here we go!"<Close><End of Block>
+<TextBlock 88 w:36 h:3>
 Shakhan
 "Hmph, infidels!
-I'll kill you yet!"<Close><End of Block>
-<TextBlock 89 w:28 h:1>
-You're no fun!<Opcode 2 30><Close><End of Block>
+I'll get you yet!"<Close><End of Block>
+<TextBlock 89 w:18 h:1>
+Boooring!<Opcode 2 30><Close><End of Block>
 <TextBlock 90 w:30 h:2>
 Playing Margie
-is no fun!<Close><End of Block>
+is boring!<Close><End of Block>
 <TextBlock 91 w:44 h:2>
-Well? You lost at
+Tough, you lost at
 rock-paper-scissors.<Close><End of Block>
 <TextBlock 92 w:38 h:2>
-No! I wanna
-play the good part.<Close><End of Block>
+No fair! I wanna
+play the cool part.<Close><End of Block>
 <TextBlock 93 w:46 h:3>
 Stop complaining.
 I don't wanna play the
 bald coot's part.<Close><End of Block>
-<TextBlock 94 w:42 h:2>
-Let's play something
-else.<Close><End of Block>
+<TextBlock 94 w:46 h:2>
+Well, let's think of
+something else to play.<Close><End of Block>
 <TextBlock 95 w:22 h:1>
 Yeah, okay.<Close><End of Block>
 <TextBlock 96 w:32 h:2>
 Well, that's it
 for today.<Close><End of Block>
-<TextBlock 97 w:42 h:3>
-Adults do whatever
-they want. First they
-said take out Kislev,<New>
-now they say let's be
-friends.<Close><End of Block>
+<TextBlock 97 w:46 h:4>
+Man, adults are
+selfish aren't they?<New>
+Until recently they
+were saying 'bring down
+Kislev', but now it's
+'let's be friends'.<Close><End of Block>
 <TextBlock 98 w:36 h:3>
 Prince Bartholomew
-is so cool.
-Big and strong.<Close><End of Block>
-<TextBlock 99 w:44 h:3>
-Adults do whatever
-they want. First they
-said take out Kislev, <New>
-now they say let's be
-friends.<Close><End of Block>
+is so cool. Strong
+and disinguished.<Close><End of Block>
+<TextBlock 99 w:46 h:4>
+Man, adults are
+selfish aren't they?<New>
+Until recently they
+were saying 'bring down
+Kislev', but now it's
+'let's be friends'.<Close><End of Block>
 <TextBlock 100 w:50 h:4>
-The Raider Boys broke up.
-Kislev's not the enemy
-anymore, now there's
-nothing to do.<Close><End of Block>
+Even the Raider Boys
+disbanded. Since Kislev's
+not the enemy anymore,
+we've nothing to do.<Close><End of Block>
 <TextBlock 101 w:50 h:3>
 My mom told me to grow
 up to be a great man like
 Prince Bartholomew.<Close><End of Block>
 <TextBlock 102 w:50 h:4>
-The Raider Boys broke up.
-Kislev's not the enemy
-anymore, now there's
-nothing to do.<Close><End of Block>
-<TextBlock 103 w:42 h:1>
-I'm busy, so bug off!<Close><End of Block>
-<TextBlock 104 w:32 h:2>
-We protected the
-desert's peace.<Close><End of Block>
-<TextBlock 105 w:52 h:2>
-I wanna grow up now.
-I hate playin' dumb roles.<Close><End of Block>
-<TextBlock 106 w:34 h:2>
-We protected the
-desert's peace.<Close><End of Block>
+Even the Raider Boys
+disbanded. Since Kislev's
+not the enemy anymore,
+we've nothing to do.<Close><End of Block>
+<TextBlock 103 w:38 h:2>
+I'm busy right now.
+Don't bug me!<Close><End of Block>
+<TextBlock 104 w:44 h:2>
+It was us, we kept the
+peace in the desert!<Close><End of Block>
+<TextBlock 105 w:42 h:3>
+I wanna grow up fast.
+I always end up with
+the boring roles.<Close><End of Block>
+<TextBlock 106 w:44 h:2>
+It was us, we kept the
+peace in the desert!<Close><End of Block>
 <TextBlock 107 w:46 h:4>
 That's it for
 hide-and-seek...<Delay 50>
@@ -436,63 +452,71 @@ something else to play.<Close><End of Block>
 <TextBlock 108 w:36 h:2>
 I wonder...<Delay 30>
 where's he hiding?<Close><End of Block>
-<TextBlock 109 w:40 h:3>
-Can you help me too?<Delay 10>
+<TextBlock 109 w:38 h:3>
+You help too, guys.<Delay 10>
 <Opcode 1 255>    Okay
-    I'm busy<Close><End of Block>
-<TextBlock 110 w:48 h:4>
-Thanks
-The rule is you can't
-hide in houses or where
-you can't see.<Close><End of Block>
-<TextBlock 111 w:30 h:1>
-We're busy too!<Close><End of Block>
-<TextBlock 112 w:44 h:3>
-I don't play hide-and-
-seek anymore. You
-shouldn't play either!<Close><End of Block>
-<TextBlock 113 w:40 h:2>
-When you leave I'll
-hide somewhere.<Close><End of Block>
+    We're busy<Close><End of Block>
+<TextBlock 110 w:50 h:4>
+Thanks.<Delay 10> He won't hide any
+place we wouldn't be able
+to see, or inside houses,
+those are the rules.<Close><End of Block>
+<TextBlock 111 w:36 h:1>
+Well I'm busy too!<Close><End of Block>
+<TextBlock 112 w:36 h:4>
+I don't play hide-
+and-seek anymore.
+You should quit it
+soon too!<Close><End of Block>
+<TextBlock 113 w:42 h:2>
+Once you go somewhere
+else, I'll hide.<Close><End of Block>
 <TextBlock 114 w:34 h:1>
-Ah, you found me.<Close><End of Block>
-<TextBlock 115 w:52 h:4>
-I'm playing hide-and-seek.
-You wanna play too?<Delay 10>
+Argh, discovered!<Close><End of Block>
+<TextBlock 115 w:46 h:4>
+We're playing hide-and-
+seek. You wanna play?<Delay 10>
 <Opcode 1 255>    Play
     No thanks<Close><End of Block>
-<TextBlock 116 w:42 h:3>
-When you leave I'll
+<TextBlock 116 w:40 h:4>
+Okay, once you go
+somewhere else, I'll
 hide, then you gotta
 find me.<Close><End of Block>
-<TextBlock 117 w:32 h:2>
-*sigh* I have
-no confidence.<Close><End of Block>
-<TextBlock 118 w:40 h:3>
-Good job. 
-Next time I'll hide
-somewhere harder.<Close><End of Block>
-<TextBlock 119 w:46 h:2>
-You found me here too.
-Next time is for real.<Close><End of Block>
-<TextBlock 120 w:52 h:4>
-I didn't think you'd
-find me here. You're
-good. You musta been the
-champ when you were a kid.<New>
-But next time you
-won't find me.<Close><End of Block>
-<TextBlock 121 w:54 h:3>
-Crap! You found me here?
-Now for my secret weapon.
-You'll never find me there!<Close><End of Block>
-<TextBlock 122 w:48 h:4>
-Again!
-How'd you find me?
-I quit hide-and-seek.
-Here's my badge.<New>
-I don't need it anymore.<Close><End of Block>
-<TextBlock 123 w:40 h:2>
+<TextBlock 117 w:36 h:2>
+Pffft, don't like
+your chances, huh?<Close><End of Block>
+<TextBlock 118 w:44 h:3>
+You got me.
+Okay, next time I'll
+hide somewhere better.<Close><End of Block>
+<TextBlock 119 w:54 h:2>
+You found me here, too?
+Okay, next time's for real.<Close><End of Block>
+<TextBlock 120 w:52 h:2>
+I didn't think you'd find
+me here. You've got skill.<New>
+You musta been the bee's
+knees when you were a kid.<New>
+But you won't find me
+next time.<Close><End of Block>
+<TextBlock 121 w:44 h:3>
+Dammit!
+I can't believe you
+found me here too!<New>
+It's time for my last
+resort. I'm gonna hide
+'there'!<Close><End of Block>
+<TextBlock 122 w:42 h:3>
+GEEEEZ!
+How'd you find me!?<New>
+That's it, I've
+decided I'm done
+with hide-and-seek.<New>
+Oh yeah, I'll give
+you my badge. I don't
+need it anymore.<Close><End of Block>
+<TextBlock 123 w:42 h:2>
  
  Received <Opcode 4 20><Close><End of Block>
 <TextBlock 124 w:52 h:4>
@@ -753,71 +777,87 @@ or Prince Bartholomew?<Delay 10>
     Prince Bartholomew<Close><End of Block>
 <TextBlock 172 w:42 h:1>
 Yeah, I think so too.<Close><End of Block>
-<TextBlock 173 w:48 h:2>
-Huh, really?
-That's what my dad says.<Close><End of Block>
-<TextBlock 174 w:46 h:3>
-I gave a hide-and-seek
-badge to the
+<TextBlock 173 w:40 h:2>
+Huh, really? My dad
+says the same thing.<Close><End of Block>
+<TextBlock 174 w:46 h:4>
+My claim to fame is
+that I gave a hide-and-
+seek badge to the
 Dragon-Slaying Boxer.<Close><End of Block>
-<TextBlock 175 w:46 h:3>
-I gave a hide-and-seek
-badge to the
+<TextBlock 175 w:46 h:4>
+My claim to fame is
+that I gave a hide-and-
+seek badge to the
 Dragon-Slaying Youth.<Close><End of Block>
-<TextBlock 176 w:48 h:3>
-I gave a hide-and-seek
-badge to the
+<TextBlock 176 w:46 h:4>
+My claim to fame is
+that I gave a hide-and-
+seek badge to the
 Dragon-Slaying Squire.<Close><End of Block>
-<TextBlock 177 w:50 h:3>
-I gave a hide-and-seek
-badge to the
+<TextBlock 177 w:46 h:4>
+My claim to fame is
+that I gave a hide-and-
+seek badge to the
 Dragon-Slaying Slacker.<Close><End of Block>
-<TextBlock 178 w:44 h:3>
-I gave a hide-and-seek
-badge to the
+<TextBlock 178 w:46 h:4>
+My claim to fame is
+that I gave a hide-and-
+seek badge to the
 Ponytailed Boxer.<Close><End of Block>
-<TextBlock 179 w:38 h:3>
-I gave a hide-and-
+<TextBlock 179 w:46 h:4>
+My claim to fame is
+that I gave a hide-and-
 seek badge to the
 Ponytailed Youth.<Close><End of Block>
-<TextBlock 180 w:40 h:3>
-I gave a hide-and-
+<TextBlock 180 w:46 h:4>
+My claim to fame is
+that I gave a hide-and-
 seek badge to the
 Ponytailed Squire.<Close><End of Block>
-<TextBlock 181 w:42 h:3>
-I gave a hide-and-
+<TextBlock 181 w:46 h:4>
+My claim to fame is
+that I gave a hide-and-
 seek badge to the
 Ponytailed Slacker.<Close><End of Block>
-<TextBlock 182 w:36 h:3>
-I gave a hide-and-
+<TextBlock 182 w:46 h:4>
+My claim to fame is
+that I gave a hide-and-
 seek badge to the
 Wandering Boxer.<Close><End of Block>
-<TextBlock 183 w:36 h:3>
-I gave a hide-and-
+<TextBlock 183 w:46 h:4>
+My claim to fame is
+that I gave a hide-and-
 seek badge to the
 Wandering Youth.<Close><End of Block>
-<TextBlock 184 w:38 h:3>
-I gave a hide-and-
+<TextBlock 184 w:46 h:4>
+My claim to fame is
+that I gave a hide-and-
 seek badge to the
 Wandering Squire.<Close><End of Block>
-<TextBlock 185 w:40 h:3>
-I gave a hide-and-
+<TextBlock 185 w:46 h:4>
+My claim to fame is
+that I gave a hide-and-
 seek badge to the
 Wandering Slacker.<Close><End of Block>
-<TextBlock 186 w:36 h:3>
-I gave a hide-and-
+<TextBlock 186 w:46 h:4>
+My claim to fame is
+that I gave a hide-and-
 seek badge to the
 Beloved Boxer.<Close><End of Block>
-<TextBlock 187 w:36 h:3>
-I gave a hide-and-
+<TextBlock 187 w:46 h:4>
+My claim to fame is
+that I gave a hide-and-
 seek badge to the
 Beloved Youth.<Close><End of Block>
-<TextBlock 188 w:36 h:3>
-I gave a hide-and-
+<TextBlock 188 w:46 h:4>
+My claim to fame is
+that I gave a hide-and-
 seek badge to the
 Beloved Squire.<Close><End of Block>
-<TextBlock 189 w:36 h:3>
-I gave a hide-and-
+<TextBlock 189 w:46 h:4>
+My claim to fame is
+that I gave a hide-and-
 seek badge to the
 Beloved Slacker.<Close><End of Block>
 <TextBlock 190 w:52 h:2>
@@ -825,27 +865,29 @@ Oh, Prince Bartholomew!<Delay 30>
 Can I have your autograph?<Close><End of Block>
 <TextBlock 191 w:14 h:1>
 Thanks.<Close><End of Block>
-<TextBlock 192 w:30 h:2>
-The real thing
-is so cool.<Close><End of Block>
+<TextBlock 192 w:36 h:2>
+It's so cool to
+see you in person.<Close><End of Block>
 <TextBlock 193 w:16 h:1>
-Awesome.<Close><End of Block>
-<TextBlock 194 w:28 h:2>
+Coooool!<Close><End of Block>
+<TextBlock 194 w:34 h:2>
 Thanks.
-This is great.<Close><End of Block>
-<TextBlock 195 w:26 h:2>
-I'm gonna be
+I'll treasure it!<Close><End of Block>
+<TextBlock 195 w:28 h:2>
+I'm gonna get
 strong too.<Close><End of Block>
-<TextBlock 196 w:36 h:3>
+<TextBlock 196 w:34 h:3>
 It's cool here.<Delay 40>
-Cool air blows up
-from the grate.<Close><End of Block>
-<TextBlock 197 w:46 h:4>
-I got back from the
-army and then my mom
-collapsed in illness.<New>
-She was so glad that I
-came back safe.<New>
+Cold air blows up
+from the grating.<Close><End of Block>
+<TextBlock 197 w:50 h:4>
+When I got back from the
+army, my mom suddenly
+took a fall.<New>
+I guess she was relieved,
+and all the weariness up
+until that point just
+kinda caught up with her.<New>
 But why does a guy like
 me have to do laundry?<Delay 50>
 I need to find a wife,

@@ -1,7 +1,7 @@
-<TextBlock 1 w:34 h:3>
+<TextBlock 1 w:26 h:3>
 Bart
-"That's gotta be 
-the floodgate..."<Close><End of Block>
+"There's the
+floodgate..."<Close><End of Block>
 <TextBlock 2 w:34 h:2>
 You have too many
 <Opcode 4 20><Close><End of Block>

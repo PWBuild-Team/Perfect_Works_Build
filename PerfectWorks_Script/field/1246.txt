@@ -318,12 +318,12 @@ Billy
 Hmm... Marguerite?
 Where have I heard that
 name before?"<Close><End of Block>
-<TextBlock 65 w:42 h:4>
+<TextBlock 65 w:40 h:4>
 Bart
 "Does it really
 matter?<New>
 C'mon, you're to put
-in a good word for us
+in a good word for
 us with the Church.
 Let's get moving."<Close><End of Block>
 <TextBlock 66 w:50 h:3>

@@ -111,7 +111,7 @@ Erich
 "No!<New>
 Even if he is your friend,
 I can't simply overlook a
-land dweller trying to
+surface dweller trying to
 sneak into the palace!"<Close><End of Block>
 <TextBlock 21 w:46 h:4>
 Elly
@@ -151,11 +151,10 @@ Jugend?<New>
 You <Delay 10>just didn't want 
 everyone seeing me <--> 
 your own daughter!"<Close><End of Block>
-<TextBlock 27 w:30 h:4>
+<TextBlock 27 w:46 h:3>
 Elly
-"Because I was
-born to a land
-dweller...!!"<Close><End of Block>
+"Because I was born to
+a surface dweller...!!"<Close><End of Block>
 <TextBlock 28 w:4 h:1>
 !!<Opcode 2 10><Close><End of Block>
 <TextBlock 29 w:50 h:3>
@@ -236,11 +235,11 @@ I can't let you go."<Close><End of Block>
 <TextBlock 43 w:16 h:2>
 Elly
 "But<-->!"<Close><End of Block>
-<TextBlock 44 w:44 h:4>
+<TextBlock 44 w:40 h:4>
 Fei
 "It's alright.<Delay 10>
-This is a land-dweller
-problem now.<New>
+This is a surface-
+dweller problem now.<New>
 We won't trouble you
 any further.<Delay 10>
 I'll go on my own."<Close><End of Block>

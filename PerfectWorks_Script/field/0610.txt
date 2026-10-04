@@ -12,7 +12,7 @@ Citan
 What on earth are
 you doing here!?<New>
 Do you not know
-how worried Alice
+how worried Arle
 and Timothy are!?"<Close><End of Block>
 <TextBlock 5 w:42 h:4>
 Citan
@@ -97,7 +97,7 @@ Fei
 Don't shoot!!"<Close><End of Block>
 <TextBlock 23 w:20 h:3>
 Citan
-"Alice!?
+"Arle!?
 Timothy!!"<Close><End of Block>
 <TextBlock 24 w:46 h:4>
 Citan
@@ -108,7 +108,7 @@ Are you all okay?"<Close><End of Block>
 <TextBlock 25 w:42 h:4>
 Citan
 "No, Timothy, wait!!<New>
-You, Alice and the
+You, Arle and the
 rest of the villagers
 should evacuate to a
 safer location!"<Close><End of Block>
@@ -121,7 +121,7 @@ Right now, the first
 priority for you both
 is your own safety.<New>
 Timothy, please
-protect Alice."<Close><End of Block>
+protect Arle."<Close><End of Block>
 <TextBlock 27 w:36 h:3>
 Citan
 "Now, both of you,
@@ -175,24 +175,24 @@ Citan
 they are after that
 Gear Fei is in..."<Close><End of Block>
 <TextBlock 38 w:30 h:3>
-Alice
+Arle
 "Doctor Uzuki!?<Delay 10>
 Fei!!"<Close><End of Block>
 <TextBlock 39 w:40 h:4>
-Alice
+Arle
 "Yes!
 But it's Dan...<Delay 20>
 We can't find him!!"<Close><End of Block>
 <TextBlock 40 w:24 h:2>
-Alice
+Arle
 "Timothy..."<Close><End of Block>
 <TextBlock 41 w:38 h:4>
-Alice
+Arle
 "...<Delay 20>
 Yes, okay.<Delay 10>
 Thank you, Doctor!"<Close><End of Block>
 <TextBlock 42 w:50 h:3>
-Alice
+Arle
 "But, Fei...<Delay 10>
 Please look out for Dan!"<Close><End of Block>
 <TextBlock 43 w:50 h:4>
@@ -200,10 +200,10 @@ Timothy
 "Doctor!<Delay 20> They just came
 outta nowhere and landed
 right in our village...!"<Close><End of Block>
-<TextBlock 44 w:52 h:4>
+<TextBlock 44 w:48 h:4>
 Timothy
 "I'll go look one more
-time!<Delay 20> Alice, go ahead and 
+time!<Delay 20> Arle, go ahead and
 get out of the village."<Close><End of Block>
 <TextBlock 45 w:32 h:4>
 Timothy
@@ -218,9 +218,9 @@ But<-->"<Close><End of Block>
 Timothy
 "...<Delay 30>
 I guess you're right..."<Close><End of Block>
-<TextBlock 48 w:46 h:4>
+<TextBlock 48 w:44 h:4>
 Timothy
-"Okay!<Delay 10> Alice, let's let
+"Okay!<Delay 10> Arle, let's let
 Doctor Uzuki and Fei
 handle it from here!"<Close><End of Block>
 <TextBlock 49 w:16 h:1>

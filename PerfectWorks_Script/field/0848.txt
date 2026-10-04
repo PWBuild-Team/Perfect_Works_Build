@@ -1,6 +1,6 @@
-<TextBlock 1 w:46 h:2>
+<TextBlock 1 w:48 h:2>
 There is a counter,
-ya know. Some people...<Close><End of Block>
-<TextBlock 2 w:44 h:2>
-Next time use the 
-counter to talk to me.<Close><Close><End of Block>
+you know.<Delay 10> Some people...<Close><End of Block>
+<TextBlock 2 w:50 h:2>
+Next time, please talk
+to me across the counter.<Close><Close><End of Block>

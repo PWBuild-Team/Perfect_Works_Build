@@ -117,7 +117,7 @@ will eliminate them all.<New>
 Repent now."<Close><End of Block>
 <TextBlock 23 w:36 h:2>
 Stone
-"Wh-<Delay 7>Who are you?"<Close><End of Block>
+"Wh-<Delay 7>Who's there!?"<Close><End of Block>
 <TextBlock 24 w:44 h:4>
 Stone
 "Power?

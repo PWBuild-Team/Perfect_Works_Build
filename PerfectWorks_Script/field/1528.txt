@@ -34,7 +34,7 @@ between Solaris and Shevat,
 500 years ago...<New>
 It was a heroic battle,
 with the freedom and
-independence of the land
+independence of the surface
 dwellers at stake...<New>
 The rebel army, which
 centered around Shevat,<New>
@@ -119,7 +119,7 @@ on the continent of Ignis.<New>
 But we don't know where,
 exactly.<Close><End of Block>
 <TextBlock 7 w:50 h:4>
-Just like the land
+Just like the surface
 dwellers, after the
 war and the Diabolos
 Collapse,<New>
@@ -128,11 +128,11 @@ Solaris forces began to
 pull back and return to
 their home country,<New>
 taking vast numbers of
-land dwellers along with
-them as slaves.<Delay 20>
+surface dwellers along
+with them as slaves.<Delay 20>
 We couldn't stop them.<New>
 The only way for the war-
-weary land dwellers to
+weary surface dwellers to
 survive was to depend on
 Solaris...<New>
 After a brief moment of

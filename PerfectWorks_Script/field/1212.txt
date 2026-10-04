@@ -301,8 +301,8 @@ don't know?"<Close><End of Block>
 <TextBlock 55 w:46 h:4>
 Elly
 "Its exact location
-relative to the surface
-is only revealed to<New>
+relative to the surface<New>
+is only revealed to
 those of quite high
 rank <--> commander-in-
 chief or above."<Close><End of Block>

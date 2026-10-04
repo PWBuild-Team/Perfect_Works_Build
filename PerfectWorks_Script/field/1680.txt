@@ -82,12 +82,12 @@ I heard that the crops,
 materials and fuel and so
 on gathered on the surface<New>
 are sorted based on
-destination.<Delay 10> Basically,
-all the things that surface
-dwellers were supplying to<New>
-the Church in exchange for
-products and technology,
-I guess."<Close><End of Block>
+destination.<New>
+Basically, all the things
+that surface dwellers were
+supplying to the Church<New>
+in exchange for products
+and technology, I guess."<Close><End of Block>
 <TextBlock 16 w:38 h:4>
 Citan
 "For now, shall we

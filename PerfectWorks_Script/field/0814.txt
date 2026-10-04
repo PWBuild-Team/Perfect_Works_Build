@@ -1,8 +1,8 @@
-<TextBlock 1 w:36 h:4>
+<TextBlock 1 w:46 h:4>
 Citan
-"Let us borrow a
-room here for our
-planning session."<Opcode 2 60><Close><End of Block>
+"First off, let us rent
+a room to use for our
+strategy meeting."<Opcode 2 60><Close><End of Block>
 <TextBlock 2 w:2 h:1>
 !<Opcode 2 30><Close><End of Block>
 <TextBlock 3 w:46 h:3>
@@ -12,42 +12,43 @@ you Prince Bartholomew?<Close><End of Block>
 <TextBlock 4 w:34 h:2>
 Bart
 "...And you are?"<Close><End of Block>
-<TextBlock 5 w:42 h:4>
-I was sent here by
-the Nisan Sect.<Delay 60>
-I'm here to check up
-on Mother Marguerite.<New>
-Prince Bartholomew,
-I knew you would come
-sooner or later...<Opcode 2 60><Close><End of Block>
-<TextBlock 6 w:44 h:4>
+<TextBlock 5 w:44 h:4>
+I was sent here by the
+Nisan Sect, to check
+up on the situation
+with the Holy Mother.<New>
+I knew Your Highness
+would come sooner
+or later...<Opcode 2 60><Close><End of Block>
+<TextBlock 6 w:46 h:4>
 Citan
-"Well, <Delay 30>let us not just
-stand here chatting.
-Shall we use a room?"<Close><End of Block>
-<TextBlock 7 w:42 h:3>
-You must be tired.
-I'll be in my room <-->
-please come by later.<Close><End of Block>
+"Ahem,<Delay 30> look at us just
+standing here chatting.
+Let us get that room."<Close><End of Block>
+<TextBlock 7 w:40 h:4>
+Forgive me, you must
+be tired.<Delay 10> I'll be in
+my room, so please
+come by later.<Close><End of Block>
 <TextBlock 8 w:42 h:1>
 That's my room there.<Close><End of Block>
 <TextBlock 9 w:50 h:4>
-Yeah, after bein' in the
-army for so long even
-after I got out I just
+Yeah, having been in the
+army all that time, even
+after I got back I just
 didn't feel like working.<New>
-But watching mom work
-like this, it makes me
-think I might want to
-again.<Close><End of Block>
+But when I watch Mom
+working like this, it
+makes me think I'll want
+to again before long!<Close><End of Block>
 <TextBlock 10 w:34 h:3>
 Citan
 "Let us hurry to
-the arena."<Close><End of Block>
+the venue."<Close><End of Block>
 <TextBlock 11 w:52 h:3>
 I'm afraid we're full for
 tonight.<Delay 60> But I could rent
-you a room until evening.<Close><End of Block>
+you a room until evening?<Close><End of Block>
 <TextBlock 12 w:16 h:1>
 Welcome.<Close><End of Block>
 <TextBlock 13 w:40 h:4>
@@ -70,12 +71,12 @@ Who sent you?<Delay 10>
     Shiffer
     I don't know<Close><End of Block>
 <TextBlock 17 w:72 h:4>
-Aw, she never gives her name. But...
-okay, I'll mark it down to 40G each.<Delay 10>
+Yeah, she never gives her name, huh?
+Okay. I'll mark it down to 40G each.<Delay 10>
 <Opcode 1 255>    Thanks
     No way<Close><End of Block>
-<TextBlock 18 w:36 h:4>
-I don't know her!
+<TextBlock 18 w:38 h:4>
+Never heard of 'em!
 50G per person.<Delay 10>
 <Opcode 1 255>    Okay
     No way<Close><End of Block>
@@ -87,11 +88,12 @@ You don't have
 enough money.<Close><End of Block>
 <TextBlock 21 w:22 h:1>
 Come again!<Close><End of Block>
-<TextBlock 22 w:46 h:1>
-Hey, don't pull my leg.<Close><End of Block>
+<TextBlock 22 w:32 h:2>
+What, are you
+messing with me?<Close><End of Block>
 <TextBlock 23 w:54 h:2>
 It's old and nearly broken,
-so stop messin' with it!<Close><End of Block>
+so don't fiddle with it!<Close><End of Block>
 <TextBlock 24 w:46 h:2>
 See? You broke it! Now
 you have to pay for it!<Close><End of Block>
@@ -110,4 +112,4 @@ It's locked.<Close><End of Block>
 <TextBlock 29 w:46 h:3>
 Citan
 "Let us go hear what
-the Sister has to say."<Close><Close><End of Block>
+the sister has to say."<Close><Close><End of Block>

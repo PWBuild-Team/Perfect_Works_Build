@@ -180,14 +180,13 @@ Who are you?"<Close><End of Block>
 Citan
 "Well,<Delay 10>
 this way."<Close><End of Block>
-<TextBlock 32 w:50 h:4>
+<TextBlock 32 w:52 h:4>
 Citan
-"At first, this place was
-a facility devoted to the
-life-extension research<New>
-of the Gazel Ministry <-->
-and the Emperor, above
-all.<New>
+"At first, this place
+was a facility devoted to
+life-extension research <--><New>
+for the Gazel Ministry,
+and above all the Emperor.<New>
 He who has lived on since
 the time of origin, and
 is not to pass away."<Close><End of Block>

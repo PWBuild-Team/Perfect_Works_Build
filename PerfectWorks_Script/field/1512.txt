@@ -267,14 +267,14 @@ fail, anyone from the
 surface who may help us...<New>
 500 years ago, we fought
 against Solaris for the
-freedom of the land
+freedom of the surface
 dwellers,<New>
 and thereafter have
 continued to resist them,
 albeit to a lesser extent."<Close><End of Block>
 <TextBlock 44 w:50 h:4>
 Zephyr
-"Land dwellers, please
+"Surface dwellers, please
 lend us your aid.<New>
 To release humankind from
 the grasp of Solaris...<Delay 10>
@@ -290,16 +290,17 @@ much like him...<Delay 20>
 You make a good point."<Close><End of Block>
 <TextBlock 46 w:48 h:4>
 Zephyr
-"However, I tell no lie
-when I say we are doing<New>
-this purely for the
-future of the land
-dwellers. If you still
-cannot believe us,<New>
-then after Solaris is
-defeated and the
-independence of the land
-dwellers has been won...<New>
+"Nevertheless...<New>
+I tell no lie when I say
+we are doing this purely
+for the future of the
+surface dwellers.<New>
+If you still cannot
+believe us, then after
+Solaris is defeated<New>
+and the independence of
+the surface dwellers
+has been won...<New>
 you can consider again
 whether or not to share
 the heavens with us.<New>
@@ -312,20 +313,27 @@ You must look at the
 bigger picture!"<Close><End of Block>
 <TextBlock 47 w:48 h:4>
 Zephyr
-"Nevertheless,
-I tell no lie when
-I say we are doing<New>
-this purely for the
-future of the land
-dwellers. If you still
-cannot believe us,<New>
-then after Solaris is
-defeated and the
-independence of the land
-dwellers has been won...<New>
+"Nevertheless...<New>
+I tell no lie when I say
+we are doing this purely
+for the future of the
+surface dwellers.<New>
+If you still cannot
+believe us, then after
+Solaris is defeated<New>
+and the independence of
+the surface dwellers
+has been won...<New>
 you can consider again
 whether or not to share
-the heavens with us."<Close><End of Block>
+the heavens with us.<New>
+Be it the pretexts of
+bygone days, or the
+feuds between nations...<New>
+why be concerned with
+such small things?
+You must look at the
+bigger picture!"<Close><End of Block>
 <TextBlock 48 w:54 h:4>
 Zephyr
 "You may want to try to get
@@ -797,9 +805,10 @@ Citan
 "It is probable.<Delay 10> However, I
 do not have the first clue
 how to get him to awaken.<New>
-Alas, Id receded before I
-could ask about that,
-and he has not come back.<New>
+Alas, Id receded before
+I could ask about that,
+and...<Delay 5>well, you know what
+happened next.<New>
 Basically, as long as there
 are no incidents that make
 him feel his own existence

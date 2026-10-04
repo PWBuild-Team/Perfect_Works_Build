@@ -123,11 +123,11 @@ Huh, Prim?"<Close><End of Block>
 <TextBlock 26 w:24 h:2>
 Primera
 "Pa...<Delay 5>pa...<Delay 5>"<Close><End of Block>
-<TextBlock 27 w:50 h:4>
+<TextBlock 27 w:54 h:4>
 Jesse
 "Haha, did you hear that?<Delay 10>
-Primera's curse seems to
-have been lifted!"<Close><End of Block>
+Primera's curse seems to've
+been lifted!"<Close><End of Block>
 <TextBlock 28 w:34 h:4>
 Billy
 "Hah...!<Delay 10>

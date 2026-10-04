@@ -294,7 +294,7 @@ something to quell the
 unrest of the masses.<New>
 We have to confirm
 Solaris' stance regarding
-the land dwellers.<New>
+the surface dwellers.<New>
 Fei,<Delay 10> let's get
 tickets somehow."<Close><End of Block>
 <TextBlock 57 w:46 h:4>

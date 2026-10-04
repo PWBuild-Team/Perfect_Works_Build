@@ -6,16 +6,16 @@
  
 In the next episode of
      "XENOGEARS"...<Opcode 2 180><Opcode 2 180><Close><End of Block>
-<TextBlock 2 w:48 h:4>
+<TextBlock 2 w:46 h:4>
 Fei
 "Yeah, tomorrow, huh?
-Your wedding with Alice!
+Your wedding with Arle!
 Now that's a big day!"<Close><End of Block>
 <TextBlock 3 w:52 h:4>
 Fei
 "Hey, uh, Timothy...
 I just want to thank
-both you and Alice...<New>
+both you and Arle...<New>
 Three years ago, I woke
 up here in Lahan and
 had completely lost
@@ -27,7 +27,7 @@ I couldn't recall a
 single thing..."<Close><End of Block>
 <TextBlock 4 w:50 h:4>
 Fei
-"But you and Alice
+"But you and Arle
 motivated and encouraged
 me when I needed it most.<New>
 If the two of you hadn't
@@ -39,7 +39,7 @@ Fei
 "Timothy...<Delay 20>
 From the bottom of my
 heart, I thank you!<New>
-Now, you and Alice
+Now, you and Arle
 had better live
 happily ever after!"<Close><End of Block>
 <TextBlock 6 w:32 h:2>
@@ -68,7 +68,7 @@ Fei
 What's up with him?"<Close><End of Block>
 <TextBlock 11 w:52 h:4>
 Timothy
-"So how was Alice?<Delay 30> I still
+"So how was Arle?<Delay 30> I still
 can't believe we're really
 getting married tomorrow!<New>
 It's such a weird feeling.<Delay 30>
@@ -78,7 +78,7 @@ since we were kids..."<Close><End of Block>
 <TextBlock 12 w:46 h:4>
 Timothy
 "Could you go check up
-on Alice for me...?<New>
+on Arle for me...?<New>
 The old man and I have
 still got to discuss
 things with her uncle
@@ -111,7 +111,7 @@ continue, buddy!"<Close><End of Block>
 Timothy
 "Oh yeah, Fei...
 Could you stop by
-and check on Alice?<New>
+and check on Arle?<New>
 I still have stuff to
 discuss with my old man
 and the village chief.<New>
@@ -180,7 +180,7 @@ Chief Lee
 "Oh, it's you, Fei.<New>
 We're in the middle
 of discussing Timothy
-and Alice's wedding
+and Arle's wedding
 arrangements."<Close><End of Block>
 <TextBlock 28 w:52 h:4>
 Chief Lee
@@ -217,16 +217,16 @@ Timothy's Father
 Our Timothy is a really
 lucky boy to be able to
 marry a beautiful girl
-like Alice!<New>
+like Arle!<New>
 I hope you come up with
 some embarrassing tales
 to tell in your speech!
 Hah haah haaah!"<Close><End of Block>
 <TextBlock 33 w:56 h:3>
-Alice's Uncle
+Arle's Uncle
 "I don't know whether to be
 happy or sad...<New>
-Tomorrow, our little Alice
+Tomorrow, our little Arle
 is going to become someone's
 wife...<New>
 I knew this day would come!<Delay 20>

@@ -60,11 +60,11 @@ Fei
 <TextBlock 16 w:14 h:2>
 Citan
 "...!?"<Opcode 2 60><Close><End of Block>
-<TextBlock 17 w:38 h:4>
+<TextBlock 17 w:42 h:4>
 Citan
-"A tinkle sound...<Delay 40>
+"A tinkling sound...<Delay 40>
 I heard some kind
-of a tinkle sound!"<Close><End of Block>
+of a tinkling sound!"<Close><End of Block>
 <TextBlock 18 w:28 h:3>
 Citan
 "Burning...?<Delay 30>

@@ -72,12 +72,12 @@ Citan
 "By the way, what
 happened to Elly?<Delay 10>
 She is not with you?"<Close><End of Block>
-<TextBlock 11 w:44 h:4>
+<TextBlock 11 w:50 h:4>
 Fei
 "Elly has...<Delay 10>
 returned to her home.<New>
 She really shouldn't
-associate with we land
+associate with us surface
 dwellers.<Delay 10> She has such
 wonderful parents..."<Close><End of Block>
 <TextBlock 12 w:42 h:4>

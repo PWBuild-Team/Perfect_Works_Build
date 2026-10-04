@@ -142,7 +142,7 @@ sleeping deep in the earth.<New>
 Even we have been devoting
 much to the search...
 but, to no avail...<Close><End of Block>
-<TextBlock 19 w:58 h:4>
+<TextBlock 19 w:56 h:4>
 The power of the Omnigears
 was so great that they could
 even stave off the Diabolos
@@ -150,9 +150,10 @@ Collapse 500 years ago.<New>
 If any more of these fall
 into the hands of the enemy,
 our future and that of the
-land dwellers will be<-->!!<New>
-I implore you, land dwellers!
-We require your assistance.<New>
+surface dwellers will be<-->!!<New>
+I implore you, surface
+dwellers! We need your
+assistance.<New>
 Shevat must collect the
 remaining Vessels of Anima,
 by any means necessary...!<Close><End of Block>

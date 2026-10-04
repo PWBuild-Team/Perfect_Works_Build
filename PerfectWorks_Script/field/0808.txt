@@ -1,21 +1,25 @@
 <TextBlock 1 w:18 h:1>
 <Opcode 1 255>World Map<Close><End of Block>
-<TextBlock 2 w:32 h:1>
-<Opcode 1 255>South Breidablik<Close><End of Block>
+<TextBlock 2 w:30 h:2>
+<Opcode 1 255>Breidablik Town
+     South<Close><End of Block>
 <TextBlock 3 w:42 h:1>
 <Opcode 1 255>- Under martial law -<Close><End of Block>
-<TextBlock 4 w:32 h:1>
-<Opcode 1 255>North Breidablik<Close><End of Block>
-<TextBlock 5 w:40 h:1>
-<Opcode 1 255>South Shakhan Square<Close><End of Block>
+<TextBlock 4 w:30 h:2>
+<Opcode 1 255>Breidablik Town
+     North<Close><End of Block>
+<TextBlock 5 w:26 h:2>
+<Opcode 1 255>Shakhan Plaza
+    South<Close><End of Block>
 <TextBlock 6 w:34 h:2>
-<Opcode 1 255>South Bartholomew
-     Square<Close><End of Block>
-<TextBlock 7 w:40 h:1>
-<Opcode 1 255>North Shakhan Square<Close><End of Block>
+<Opcode 1 255>Bartholomew Plaza
+      South<Close><End of Block>
+<TextBlock 7 w:26 h:2>
+<Opcode 1 255>Shakhan Plaza
+    North<Close><End of Block>
 <TextBlock 8 w:34 h:2>
-<Opcode 1 255>North Bartholomew
-     Square<Close><End of Block>
+<Opcode 1 255>Bartholomew Plaza
+      North<Close><End of Block>
 <TextBlock 9 w:26 h:1>
 <Opcode 1 255>Fatima Castle<Close><End of Block>
 <TextBlock 10 w:44 h:1>

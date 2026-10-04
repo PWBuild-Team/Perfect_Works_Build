@@ -130,10 +130,10 @@ Fei
 <TextBlock 24 w:10 h:2>
 Fei
 "..."<Close><End of Block>
-<TextBlock 25 w:48 h:3>
+<TextBlock 25 w:46 h:3>
 Fei
 "Oh yeah, that's right!<New>
-Alice asked me to borrow
+Arle asked me to borrow
 some camera equipment
 from you."<Close><End of Block>
 <TextBlock 26 w:28 h:4>

@@ -1,49 +1,48 @@
 <TextBlock 1 w:32 h:4>
  
- Welcome to 
- 'Merry-Go-Pop' 
-           <Close><End of Block>
+   Welcome to 
+  Merry-Go-Pop <Close><End of Block>
 <TextBlock 2 w:52 h:5>
-Let me explain the rules.<New>
+    Alright, I shall
+   explain the rules.<New>
 Different colored balloons
-will come out of the four
-holes. <New>
-You must pop them. Each
-color is worth different
-points.<New>
-<Opcode 1 255>    Blue    10 points
-    Green   20 points
-    Yellow  40 points
-    Red     80 points
+will come out of the holes
+     at four heights.<New>
+You must pop the balloons.
+The points vary by color.<New>
+<Opcode 1 255>    Blue     10 points
+    Green    20 points
+    Yellow   40 points
+    Purple   80 points
     White  -100 points<New>
-<Opcode 1 0>The prize will depend on 
-how many points you get 
-within the time limit.<Close><End of Block>
-<TextBlock 3 w:34 h:4>
-Choose the level<Delay 10>
+<Opcode 1 0>    The prize will be
+  different depending on
+   the score you reach
+  within the time limit.<Close><End of Block>
+<TextBlock 3 w:44 h:4>
+Please choose a level.<Delay 10>
 <Opcode 1 255>    Easy
     Hard
-    Explain rules<Close><End of Block>
+    Explain the game<Close><End of Block>
 <TextBlock 4 w:32 h:3>
 <Opcode 1 255> 
- Start the game 
-              <Close><End of Block>
+ Start the game <Close><End of Block>
 <TextBlock 5 w:28 h:3>
  
- Time's up... 
-            <Close><End of Block>
-<TextBlock 6 w:20 h:3>
-You got...<Delay 30>
+ Time's up... <Close><End of Block>
+<TextBlock 6 w:42 h:2>
  
-<Opcode 12 0> points<Close><End of Block>
-<TextBlock 7 w:32 h:2>
-Your prize is...<Delay 30>
-<Opcode 4 0><End of Block>
-<TextBlock 8 w:20 h:2>
-Received
-<Opcode 4 20><Close><End of Block>
-<TextBlock 9 w:20 h:1>
-That's all<Close><End of Block>
+   Your score is...<Delay 30>
+     <Opcode 12 0> points. <Close><End of Block>
+<TextBlock 7 w:42 h:2>
+   Your prize is...<Delay 30>
+     <Opcode 4 20><Close><End of Block>
+<TextBlock 8 w:40 h:2>
+   Received
+   <Opcode 4 20><Close><End of Block>
+<TextBlock 9 w:38 h:2>
+    With that,
+I bid you farewell.<Close><End of Block>
 <TextBlock 10 w:8 h:1>
 -100<Opcode 2 30><Close><End of Block>
 <TextBlock 11 w:4 h:1>

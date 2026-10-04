@@ -156,11 +156,11 @@ from her, too."<Close><End of Block>
 <TextBlock 32 w:42 h:2>
 Citan
 "...How magnificent!"<Close><End of Block>
-<TextBlock 33 w:50 h:4>
+<TextBlock 33 w:54 h:4>
 Margie
-"If we ever got scolded
-for pranks as kids, Bart
-and I used to hide here."<Close><End of Block>
+"Bart and I used to hide up
+here whenever we'd played
+pranks and gotten scolded."<Close><End of Block>
 <TextBlock 34 w:38 h:4>
 Bart
 "Hey, stop telling
@@ -335,7 +335,7 @@ at the Royal Capital...)<Close><End of Block>
 <TextBlock 63 w:46 h:3>
 The general public are
 asked to refrain from 
-proceeding any farther.<Close><End of Block>
+proceeding any further.<Close><End of Block>
 <TextBlock 64 w:46 h:3>
 I'm intrigued that ones
 so young would come to

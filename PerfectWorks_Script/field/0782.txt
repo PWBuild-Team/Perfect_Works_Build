@@ -382,11 +382,11 @@ When do we leave?"<Close><End of Block>
 <TextBlock 68 w:36 h:2>
 Bart
 "...Are you sure?"<Close><End of Block>
-<TextBlock 69 w:46 h:4>
+<TextBlock 69 w:44 h:4>
 Fei
-"We've come this far...
-Hey, we're friends to
-the end, now!"<Close><End of Block>
+"I've come too far to
+turn back. I'll see it
+through to the end!"<Close><End of Block>
 <TextBlock 70 w:42 h:4>
 Citan
 "Speed is everything.

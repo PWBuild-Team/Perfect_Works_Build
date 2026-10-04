@@ -7,12 +7,12 @@ Where am I...!?"<Close><End of Block>
 <TextBlock 3 w:14 h:2>
 Fei
 "Doc!!"<Close><End of Block>
-<TextBlock 4 w:36 h:3>
+<TextBlock 4 w:36 h:4>
 Fei
 "Doc...<Delay 20> What the
 hell happened...?<New>
 Where's Chief Lee,
-Timothy, Alice...?<Delay 20>
+Timothy, Arle...?<Delay 20>
 How did I get<Delay 5>...?"<Close><End of Block>
 <TextBlock 5 w:32 h:4>
 Fei
@@ -154,7 +154,7 @@ Dan
 "It was because...<Delay 10>
 you just had to get
 in that monster...<New>
-Alice and Timothy...<Delay 20>
+Arle and Timothy...<Delay 20>
 The people of the
 village are all<-->!!"<Close><End of Block>
 <TextBlock 32 w:48 h:3>

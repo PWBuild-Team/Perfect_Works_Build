@@ -320,18 +320,15 @@ truth a single weapon,<New>
 then it should not
 be too difficult.<Delay 20>
 I hope..."<Close><End of Block>
-<TextBlock 60 w:42 h:3>
+<TextBlock 60 w:54 h:3>
 Rico
-"But it's a dangerous
-job.<New>
-I wonder if it does
-something like waits
-for the enemy to fire<New>
-and then reflects it
-back at them.<New>
-One false move and
-it'll be ourselves
-that get zapped."<Close><End of Block>
+"But it's a dangerous job.<New>
+What if it waits for an
+enemy to fire and then
+reflects it back at them,
+or something like that?<New>
+One false move and it'll be
+ourselves who get zapped."<Close><End of Block>
 <TextBlock 61 w:46 h:4>
 Citan
 "Yes. In that respect

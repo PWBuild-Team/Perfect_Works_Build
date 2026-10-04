@@ -1,6 +1,6 @@
 <TextBlock 1 w:32 h:2>
 Bart
-"Hello, Grams."<Close><End of Block>
+"Hello, grams."<Close><End of Block>
 <TextBlock 2 w:50 h:3>
 Bartholomew, I heard from
 my husband.<Delay 30> Things were

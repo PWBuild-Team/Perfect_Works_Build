@@ -182,11 +182,11 @@ To them, surface dwellers
 are nothing more than
 domesticated animals,
 no...?"<Close><End of Block>
-<TextBlock 32 w:52 h:4>
+<TextBlock 32 w:56 h:4>
 Elly
 "'The shepherds,<Delay 5> the Abal,<Delay 5>
 manage and control the
-land dwellers,<Delay 5> the Lambs,<New>
+surface dwellers,<Delay 5> the Lambs,<New>
 and possess the right
 to ordain life or death
 as they see fit...'"<Close><End of Block>

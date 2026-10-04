@@ -1,56 +1,56 @@
-<TextBlock 1 w:52 h:4>
+<TextBlock 1 w:46 h:4>
 I must apologize.
-There are so many cats
+There're so many cats
 here it's hard to walk.
-My daughter collects them.<Close><End of Block>
-<TextBlock 2 w:48 h:1>
-Yep, we're full of cats.<Close><End of Block>
+My daughter finds them.<Close><End of Block>
+<TextBlock 2 w:42 h:2>
+Soon we'll be totally
+overrun with cats!<Close><End of Block>
 <TextBlock 3 w:50 h:2>
 Cats are so cute. When
 I pet them, I get sleepy.<Close><End of Block>
-<TextBlock 4 w:48 h:3>
-My father used to 
-hate cats, but now he's 
-outside feeding them.<Close><End of Block>
-<TextBlock 5 w:18 h:1>
-I'm back.<Close><End of Block>
-<TextBlock 6 w:30 h:2>
-Hi...<Delay 60>
-Hey, come here!<Close><End of Block>
+<TextBlock 4 w:42 h:3>
+My daddy used to hate
+cats, but now he even
+feeds the strays.<Close><End of Block>
+<TextBlock 5 w:24 h:1>
+I'm hoooome.<Close><End of Block>
+<TextBlock 6 w:38 h:2>
+Welcome home...<Delay 60>
+Hey, get over here!<Close><End of Block>
 <TextBlock 7 w:48 h:2>
-Wh, what? 
-I'm not hiding anything.<Close><End of Block>
+Wh-What? 
+I'm not hiding anything!<Close><End of Block>
 <TextBlock 8 w:34 h:1>
 Just come here...<Close><End of Block>
 <TextBlock 9 w:44 h:2>
-I did...<Delay 30>
-can I go upstairs now?<Close><End of Block>
+There...<Delay 30>
+Can I go upstairs now?<Close><End of Block>
 <TextBlock 10 w:2 h:1>
 !<Close><End of Block>
-<TextBlock 11 w:56 h:2>
-That child...<Delay 60>
-what did she bring home now?<Close><End of Block>
-<TextBlock 12 w:54 h:4>
-But...<Delay 60>it's so sad. 
-I have no father, but at
-least I have a mother. This
-kitty has neither parent...<New>
-I feel lonely cause my
-dad's not here. But just
-think how my poor little
-kitty friend feels.<New>
-So...I told her that she'll
-have lots of friends at my
-house...and she just
-followed me home...<Close><End of Block>
-<TextBlock 13 w:38 h:3>
-...<Delay 60> Recently they 
-started calling my 
-house the cathouse.<Close><End of Block>
+<TextBlock 11 w:48 h:2>
+That girl...<Delay 60>
+She's picked up another!<Close><End of Block>
+<TextBlock 12 w:60 h:4>
+But...<Delay 60>the poor thing. 
+Even though Daddy's not here,
+I've got you, but this kitty
+doesn't have either parent.<New>
+She misses them even more than
+I miss Daddy now he's away.
+<New>
+So...I told her that she'd
+have lots of friends if she
+came to my house...and she
+just followed me home...<Close><End of Block>
+<TextBlock 13 w:44 h:3>
+...<Delay 60>Pretty soon they'll
+start calling this
+place Cat Manor!<Close><End of Block>
 <TextBlock 14 w:12 h:1>
 Sorry.<Close><End of Block>
-<TextBlock 15 w:42 h:2>
+<TextBlock 15 w:46 h:2>
 You're gonna have to 
-take care of it.<Close><End of Block>
-<TextBlock 16 w:10 h:1>
-Okay.<Close><Close><End of Block>
+look after it properly.<Close><End of Block>
+<TextBlock 16 w:14 h:1>
+I will!<Close><Close><End of Block>

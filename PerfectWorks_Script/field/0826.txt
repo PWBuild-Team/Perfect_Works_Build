@@ -1,43 +1,41 @@
-<TextBlock 1 w:32 h:3>
-When will I ever
-be able to leave
-this dump!<Close><End of Block>
+<TextBlock 1 w:34 h:2>
+Someday I'm gonna
+leave this dump!<Close><End of Block>
 <TextBlock 2 w:44 h:2>
 Prince Bartholomew, be
 careful of my father.<Close><End of Block>
-<TextBlock 3 w:42 h:5>
+<TextBlock 3 w:46 h:5>
 Even though the war's
-over, that old coot
-is still thinking up
-all kinds of dirty
-business...<Close><End of Block>
-<TextBlock 4 w:34 h:4>
-Hey, my sister is
-getting married
-to someone named
-Vanderkam.<Close><End of Block>
-<TextBlock 5 w:34 h:4>
-Hey, my sister is
-getting married
-to someone named
-Bartholomew.<Close><End of Block>
-<TextBlock 6 w:40 h:3>
+over, as usual my lousy
+excuse for a father is
+only thinking about his
+shady business...<Close><End of Block>
+<TextBlock 4 w:38 h:4>
+Hey, my sis is
+getting married!
+To someone called
+'Mayjer Vanderkam'.<Close><End of Block>
+<TextBlock 5 w:42 h:4>
+Hey, my sis is
+getting married!
+To someone called
+'Prinze Bartholomew'.<Close><End of Block>
+<TextBlock 6 w:40 h:4>
 Stupid! 
-Why would I do that?
-With that old creep?<New>
-I'd never be used as
-a tool for that old
-fart's business.<Close><End of Block>
+As if I'd do that
+with that old creep!<New>
+I won't be a pawn
+in my damn father's
+business!<Close><End of Block>
 <TextBlock 7 w:40 h:3>
 Stupid! 
-Why would I do that?
-With that old creep?<New>
-I'd never be used as
-a tool for that old
-fart's business.<Close><End of Block>
-<TextBlock 8 w:50 h:3>
-Ahh...<Delay 50>
-I don't have anything
-against you personally...<New>
-I just hate doing
-what father says.<Close><Close><End of Block>
+As if I'd do that!<New>
+I won't be a pawn
+in my damn father's
+business!<Close><End of Block>
+<TextBlock 8 w:44 h:3>
+Uh...<Delay 50>
+Not that I don't like
+you, Your Highness.<New>
+I just hate doing what
+my father tells me.<Close><Close><End of Block>

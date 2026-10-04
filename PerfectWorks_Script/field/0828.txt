@@ -1,20 +1,20 @@
-<TextBlock 1 w:50 h:4>
-Ever since my oldest son
-was drafted, I've been
-so lonely.<New>
-My younger son is up on
-the roof looking north.<Delay 10>
-Ahh...<Delay 10> I hope my boy
-comes home safely...<New>
+<TextBlock 1 w:52 h:4>
+We miss my eldest son so
+much since he was drafted.<New>
+My younger son is always
+up on the roof, gazing
+out to the north.<New>
+I hope my boy comes home
+safely...<New>
 He's such a gentle child,
-I'm worried how he'll
-make it in the army.<New>
+I'm worried about whether
+he'll do okay in the army.<New>
 He used to arrange the
 flowers upstairs.
-But now I do it as
+But now I do that while
 I pray for his safety.<Close><End of Block>
 <TextBlock 2 w:50 h:3>
-My oldest son came back!<New>
+My eldest son came back!<New>
 My prayers were answered.
 Now I'm putting all my
 effort into cooking.<Close><Close><End of Block>

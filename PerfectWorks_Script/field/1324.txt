@@ -69,12 +69,12 @@ and the surface took place.<New>
 It's not clear what the
 outcome was, but after the
 war, Solaris feared another
-land-dweller revolt<Delay 5>...<New>
+surface-dweller revolt<Delay 5>...<New>
 So Solaris built the
 'Gates',<Delay 5> barriers that
 separate Solaris from
 the surface world.<New>
-The land dwellers in that
+The surface dwellers in the
 Gated-off world were made
 to live as a separate race,
 which had to be supervised.<New>
@@ -652,12 +652,12 @@ and the surface took place.<New>
 It's not clear what the
 outcome was, but after the
 war, Solaris feared another
-land-dweller revolt<Delay 5>...<New>
+surface-dweller revolt<Delay 5>...<New>
 So Solaris built the
 'Gates',<Delay 5> barriers that
 separate Solaris from
 the surface world.<New>
-The land dwellers in that
+The surface dwellers in the
 Gated-off world were made
 to live as a separate race,
 which had to be supervised.<New>
