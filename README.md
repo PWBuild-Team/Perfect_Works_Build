@@ -121,7 +121,7 @@ DISCLAIMER: Some of the patches were designed to work in tandem with each other.
 - Fix Shevat palace music bug.
 - Fixed animation glitch when Lacan abandons the Sophia painting.
 - Deathblows which apply buffs can now damage Gears.
-- Harmonoised all variations of suface dweller.
+- Harmonised all variations of surface dweller.
 
 ### Version 0.11.3
 
