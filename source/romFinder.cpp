@@ -69,6 +69,9 @@ void romFinder::romErrorMsg() {
 }
 
 void romFinder::searchCD(std::string path) {
+	// Clear results from any previously selected file
+	xenoFound = false;
+	discNum = 0;
 	std::ifstream file;
 	int byte = -1;
 	file.open(path, std::ios::binary);
