@@ -103,7 +103,11 @@ void romFinder::findDiscNum(std::string path) {
 		discNum = 1;
 		discFound1 = true;
 		fileSize = std::filesystem::file_size(path);
-		if (fileSize != 718738272) {
+		padDisc1 = (fileSize == 718738272 - postgapBytes);
+		if (padDisc1) {
+			Window::log_file << "Disc 1 is missing its postgap. It will be padded when patching." << std::endl;
+		}
+		else if (fileSize != 718738272) {
 			Window::log_file << "Disc 1 size mismatch. Expected 718738272 bytes, found " << fileSize << "." << std::endl;
 			xenoFound = false;
 		}
@@ -112,7 +116,11 @@ void romFinder::findDiscNum(std::string path) {
 		discNum = 2;
 		discFound2 = true;
 		fileSize = std::filesystem::file_size(path);
-		if (fileSize != 688700880) {
+		padDisc2 = (fileSize == 688700880 - postgapBytes);
+		if (padDisc2) {
+			Window::log_file << "Disc 2 is missing its postgap. It will be padded when patching." << std::endl;
+		}
+		else if (fileSize != 688700880) {
 			Window::log_file << "Disc 2 size mismatch. Expected 688700880 bytes, found " << fileSize << "." << std::endl;
 			xenoFound = false;
 		}

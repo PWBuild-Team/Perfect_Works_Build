@@ -34,6 +34,10 @@ public:
 	inline static bool discFound2 = false;
 	inline static int discNum = 0;
 	inline static int fileSize = 0;
+	// Some dumps omit the 2-second (150 sector) postgap at the end of the disc
+	inline static const int postgapBytes = 150 * 2352;
+	inline static bool padDisc1 = false;
+	inline static bool padDisc2 = false;
 	inline static unsigned char buffer;
 };
 
