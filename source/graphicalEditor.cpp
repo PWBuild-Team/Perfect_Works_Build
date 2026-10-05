@@ -12,7 +12,7 @@ void graphicalEditor::battleExeEdits() {
 		}
 		// Decompress file
 		std::filesystem::current_path(Window::home);
-		int batch_decompress = system("Tools\\xenocomp.exe -d gamefiles\\temp\\0038 gamefiles\\temp\\0038.dec");
+		int batch_decompress = Window::runCommand("Tools\\xenocomp.exe -d gamefiles\\temp\\0038 gamefiles\\temp\\0038.dec");
 		std::filesystem::current_path(patchProcessor::gamefilePath);
 		std::filesystem::current_path(applyPatch::temp);
 		std::string decomp = "0038.dec";
@@ -27,7 +27,7 @@ void graphicalEditor::battleExeEdits() {
 		fileContents.close();
 		// Recompress file
 		std::filesystem::current_path(Window::home);
-		int batch_compress = system("Tools\\xenocomp.exe -c gamefiles\\temp\\0038.dec gamefiles\\temp\\0038");
+		int batch_compress = Window::runCommand("Tools\\xenocomp.exe -c gamefiles\\temp\\0038.dec gamefiles\\temp\\0038");
 		// Remove decompressed file
 		std::filesystem::current_path(patchProcessor::gamefilePath);
 		std::filesystem::current_path(applyPatch::temp);

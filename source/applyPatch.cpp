@@ -34,7 +34,12 @@ bool applyPatch::patch() {
 	cleanup();
 	makeCue();
 	Window::log_file << "Check filesize to determine if xenoiso executed successfully." << std::endl;
+	if (!std::filesystem::exists(fileName)) {
+		Window::log_file << fileName << " was not created. Returning error." << std::endl;
+		return false;
+	}
 	int fileSize = std::filesystem::file_size(fileName);
+	Window::log_file << fileName << " size: " << fileSize << " bytes" << std::endl;
 	if (fileSize == 0) {
 		Window::log_file << "Failure to execute xenoiso. Returning error." << std::endl;
 		return false;
@@ -156,12 +161,14 @@ void applyPatch::executeBat() {
 	// Execute patch file
 	if (patchProcessor::fmvName != "") {
 		Window::log_file << "Executing batch file. Applying FMV patch and rewriting the file table." << std::endl;
-		int batch_exit_code = system("cmd.exe /c commands.cmd");
+		Window::logFileContents("commands.cmd");
+		int batch_exit_code = Window::runCommand("cmd.exe /c .\\commands.cmd");
 	}
 	Window::log_file << "Execute xenoiso." << std::endl;
+	Window::logFileContents("list.txt");
 	try {
 		// Detect errors with xenoiso
-		int batch_exit_code = system("cmd.exe /c Tools\\xenoiso list.txt");
+		int batch_exit_code = Window::runCommand("cmd.exe /c Tools\\xenoiso list.txt");
 	}
 	catch (const std::system_error& error) {
 		// Catch errors when opening xenoiso

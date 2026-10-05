@@ -13,8 +13,9 @@ void romFinder::browseFiles() {
 	ofn.lpstrFile[0] = '\0';
 	ofn.nFilterIndex = 1;
 	if (GetOpenFileNameA(&ofn)) {
-		Window::log_file << "File selected." << std::endl;
 		std::string path = ofn.lpstrFile;
+		Window::log_file << "File selected: " << path << std::endl;
+		Window::log_file << "File size: " << std::filesystem::file_size(path) << " bytes" << std::endl;
 		// Check for Xenogears bin files
 		searchCD(path);
 		if (getFound()) {
@@ -31,6 +32,7 @@ void romFinder::browseFiles() {
 			}
 		}
 		else {
+			Window::log_file << "\"XENOGEARS\" was not found in the disc header, or the file size does not match the disc." << std::endl;
 			romErrorMsg();
 		}
 	}
@@ -67,6 +69,9 @@ void romFinder::romErrorMsg() {
 }
 
 void romFinder::searchCD(std::string path) {
+	// Clear results from any previously selected file
+	xenoFound = false;
+	discNum = 0;
 	std::ifstream file;
 	int byte = -1;
 	file.open(path, std::ios::binary);
@@ -95,12 +100,18 @@ void romFinder::searchCD(std::string path) {
 
 void romFinder::findDiscNum(std::string path) {
 	int val = (int)buffer;
+	Window::log_file << "Disc ID byte: " << val << std::endl;
 	// Determine disc number through the first file difference
 	if (val == 178) {
 		discNum = 1;
 		discFound1 = true;
 		fileSize = std::filesystem::file_size(path);
-		if (fileSize != 718738272) {
+		padDisc1 = (fileSize == 718738272 - postgapBytes);
+		if (padDisc1) {
+			Window::log_file << "Disc 1 is missing its postgap. It will be padded when patching." << std::endl;
+		}
+		else if (fileSize != 718738272) {
+			Window::log_file << "Disc 1 size mismatch. Expected 718738272 bytes, found " << fileSize << "." << std::endl;
 			xenoFound = false;
 		}
 	}
@@ -108,9 +119,17 @@ void romFinder::findDiscNum(std::string path) {
 		discNum = 2;
 		discFound2 = true;
 		fileSize = std::filesystem::file_size(path);
-		if (fileSize != 688700880) {
+		padDisc2 = (fileSize == 688700880 - postgapBytes);
+		if (padDisc2) {
+			Window::log_file << "Disc 2 is missing its postgap. It will be padded when patching." << std::endl;
+		}
+		else if (fileSize != 688700880) {
+			Window::log_file << "Disc 2 size mismatch. Expected 688700880 bytes, found " << fileSize << "." << std::endl;
 			xenoFound = false;
 		}
+	}
+	else {
+		Window::log_file << "Unknown disc ID byte. Expected 178 (disc 1) or 207 (disc 2)." << std::endl;
 	}
 }
 
