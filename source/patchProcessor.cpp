@@ -4,6 +4,7 @@
 void patchProcessor::prepare(int discNum, std::string path) {
 	num = discNum;
 	filePath = path;
+	Window::log_file << "Preparing disc " << discNum << " from " << path << std::endl;
 	SetWindowText(Window::winHwnd, L"Preparing...");
 	// Work around path names with whitespace.
 	Window::log_file << "Check if disc filename has whitespace characters." << std::endl;
@@ -103,6 +104,12 @@ void patchProcessor::start() {
 	Window::log_file << "Changing cursor to reflect loading." << std::endl;
 	SetCursor(LoadCursor(NULL, IDC_WAIT));
 	// Apply patches
+	Window::log_file << "Selected patch directories:" << std::endl;
+	for (const auto& patch : patchList) {
+		if (patch != "") {
+			Window::log_file << "  " << patch << std::endl;
+		}
+	}
 	Window::log_file << "Applying patches." << std::endl;
 	applyPatch::initialise();
 	if (applyPatch::patch()) {
