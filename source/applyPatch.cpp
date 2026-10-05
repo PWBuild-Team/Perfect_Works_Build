@@ -34,6 +34,10 @@ bool applyPatch::patch() {
 	cleanup();
 	makeCue();
 	Window::log_file << "Check filesize to determine if xenoiso executed successfully." << std::endl;
+	if (!std::filesystem::exists(fileName)) {
+		Window::log_file << fileName << " was not created. Returning error." << std::endl;
+		return false;
+	}
 	int fileSize = std::filesystem::file_size(fileName);
 	Window::log_file << fileName << " size: " << fileSize << " bytes" << std::endl;
 	if (fileSize == 0) {
