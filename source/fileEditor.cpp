@@ -133,7 +133,7 @@ void fileEditor::makeSLUS(std::string romFile) {
 		}
 	}
 	batch_file2.close();
-	int batch_exit_code = Window::runCommand("cmd.exe /c commands2.cmd");
+	int batch_exit_code = Window::runCommand("cmd.exe /c .\\commands2.cmd");
 	Window::log_file << "Remove new SLUS command file." << std::endl;
 	remove("commands2.cmd");
 }

@@ -162,7 +162,7 @@ void applyPatch::executeBat() {
 	if (patchProcessor::fmvName != "") {
 		Window::log_file << "Executing batch file. Applying FMV patch and rewriting the file table." << std::endl;
 		Window::logFileContents("commands.cmd");
-		int batch_exit_code = Window::runCommand("cmd.exe /c commands.cmd");
+		int batch_exit_code = Window::runCommand("cmd.exe /c .\\commands.cmd");
 	}
 	Window::log_file << "Execute xenoiso." << std::endl;
 	Window::logFileContents("list.txt");
