@@ -25,6 +25,9 @@ void fileEditor::gameplayEdits() {
 			gameplayFileEditor::removeCap(entry.path().string());
 		}
 	}
+	if (windowHandler::itemspellsticked == BST_CHECKED) {
+		gameplayFileEditor::battleFileEdits();
+	}
 }
 
 void fileEditor::scriptEdits() {
@@ -34,6 +37,29 @@ void fileEditor::scriptEdits() {
 			for (const auto& entry : std::filesystem::directory_iterator(applyPatch::temp)) {
 				exeEdits(entry.path().string());
 			}
+		}
+	}
+	if (windowHandler::scriptticked == BST_CHECKED) {
+		fileSystemTools::toTemp();
+		// Decompress file
+		int batch_decompress = system("..\\..\\Tools\\xenopack.exe -u 2614");
+		// Copy script files
+		std::filesystem::copy("..\\script_subfiles\\2614\\file37", "file37", std::filesystem::copy_options::overwrite_existing);
+		// Recompress file
+		int batch_recompress = system("..\\..\\Tools\\xenopack.exe -p 2614");
+		gameFileTools::remove2614Decomp();
+		std::filesystem::current_path("..\\");
+	}
+	if (windowHandler::metricticked == BST_CHECKED) {
+		if (windowHandler::jpnticked == BST_CHECKED) {
+			metricEditor::editStatus("jp");
+		}
+		else {
+			metricEditor::editStatus("en");
+		}
+		if (windowHandler::itemspellsticked == BST_CHECKED) {
+			metricEditor::decompMenuEdit();
+			metricEditor::compMenuEdit();
 		}
 	}
 }
@@ -75,6 +101,17 @@ void fileEditor::modeEdits() {
 			controlEditor::editBattleExe(entry.path().string());
 		}
 	}
+	if (windowHandler::storymodeticked == BST_CHECKED) {
+		fileSystemTools::toTemp();
+		// Decompress file
+		int batch_decompress = system("..\\..\\Tools\\xenopack.exe -u 2614");
+		// Copy script files
+		std::filesystem::copy("..\\sm_subfiles\\2614\\file3", "file3", std::filesystem::copy_options::overwrite_existing);
+		// Recompress file
+		int batch_recompress = system("..\\..\\Tools\\xenopack.exe -p 2614");
+		gameFileTools::remove2614Decomp();
+		std::filesystem::current_path("..\\");
+	} 
 }
 
 void fileEditor::editSLUS(std::string romFile) {

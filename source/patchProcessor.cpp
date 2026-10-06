@@ -103,6 +103,8 @@ void patchProcessor::initialisePatchLists() {
 	Window::log_file << "Initialise patch names." << std::endl;
 	patchList.emplace_back(expName);
 	patchList.emplace_back(goldName);
+	patchList.emplace_back(bugName);
+	patchList.emplace_back(metricsName);
 	patchList.emplace_back(itemspellsName);
 	patchList.emplace_back(scriptName);
 	patchList.emplace_back(jpnName);
@@ -110,7 +112,6 @@ void patchProcessor::initialisePatchLists() {
 	patchList.emplace_back(fmvName);
 	patchList.emplace_back(fmvPatch);
 	patchList.emplace_back(storyModeName);
-	patchList.emplace_back(bugName);
 	patchList.emplace_back(resizeName);
 	patchList.emplace_back(portraitsName);
 	patchList.emplace_back(monsterName);
@@ -215,6 +216,7 @@ void patchProcessor::reinitialisePatches() {
 	deathblowName = "";
 	jpnName = "";
 	musicName = "";
+	metricsName = "";
 }
 
 // Clear patch lists

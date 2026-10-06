@@ -47,3 +47,26 @@ void gameplayFileEditor::removeCap(std::string file) {
 		std::filesystem::current_path("..\\");
 	}
 }
+
+void gameplayFileEditor::battleFileEdits() {
+	fileSystemTools::toTemp();
+	// Decompress file
+	int batch_decompress = system("..\\..\\Tools\\xenopack.exe -u 2614");
+	// Copy item files
+	// Characters
+	for (int i = 4; i < 15; i++) {
+		std::filesystem::copy("..\\item_subfiles\\2614\\file" + std::to_string(i), "file" + std::to_string(i), std::filesystem::copy_options::overwrite_existing);
+	}
+	// Gears
+	for (int i = 16; i < 33; i++) {
+		std::filesystem::copy("..\\item_subfiles\\2614\\file" + std::to_string(i), "file" + std::to_string(i), std::filesystem::copy_options::overwrite_existing);
+	}
+	// Other
+	for (int i = 36; i < 38; i++) {
+		std::filesystem::copy("..\\item_subfiles\\2614\\file" + std::to_string(i), "file" + std::to_string(i), std::filesystem::copy_options::overwrite_existing);
+	}
+	// Recompress file
+	int batch_recompress = system("..\\..\\Tools\\xenopack.exe -p 2614");
+	gameFileTools::remove2614Decomp();
+	std::filesystem::current_path("..\\");
+}
