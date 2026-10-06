@@ -148,6 +148,10 @@ public:
 	void tooltipTextMaker();
 	void openFile(HWND hWnd);
 	static void windowSelect();
+	static void logSessionInfo();
+	static void logFileContents(const std::string& path);
+	static int runCommand(const std::string& command);
+	static std::string timestamp();
 	void process();
 	void dropdown(NMBCDROPDOWN* pDropDown, std::string option);
 

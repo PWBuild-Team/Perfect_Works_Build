@@ -1,5 +1,6 @@
 #include "pch.h"
 #include "partyStatEditor.h"
+#include "Window.h"
 
 partyStatEditor::partyStatEditor() {
 }
@@ -10,7 +11,7 @@ partyStatEditor::~partyStatEditor() {
 
 void partyStatEditor::deathblowLevels() {
 	// Decompress file
-	int batch_decompress = system("..\\..\\Tools\\xenopack.exe -u 2607.unk4");
+	int batch_decompress = Window::runCommand("..\\..\\Tools\\xenopack.exe -u 2607.unk4");
 	std::string decomp = "file0";
 	// Deathblow level data
 	int dbData[9];
@@ -35,7 +36,7 @@ void partyStatEditor::deathblowLevels() {
 	// Close file
 	fileContents.close();
 	// Recompress file
-	int batch_compress = system("..\\..\\Tools\\xenopack.exe -p 2607.unk4");
+	int batch_compress = Window::runCommand("..\\..\\Tools\\xenopack.exe -p 2607.unk4");
 	// Remove decompressed files
 	remove("file0"), remove("file1"), remove("file2"), remove("file3");
 }

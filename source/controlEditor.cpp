@@ -19,19 +19,19 @@ void controlEditor::editData(std::string trimfile) {
 	fileSystemTools::toTemp();
 	// Decompress file
 	if (trimfile == "2593.unk8") {
-		int batch_decompress = system("..\\..\\Tools\\xenopack.exe -u 2593.unk8");
+		int batch_decompress = Window::runCommand("..\\..\\Tools\\xenopack.exe -u 2593.unk8");
 	}
 	if (trimfile == "3958.unk8") {
-		int batch_decompress = system("..\\..\\Tools\\xenopack.exe -u 3958.unk8");
+		int batch_decompress = Window::runCommand("..\\..\\Tools\\xenopack.exe -u 3958.unk8");
 	}
 	// Copy Japanese control image
 	std::filesystem::copy("..\\jpn_ctrl_subfiles\\2593_3958\\file1", "file1", std::filesystem::copy_options::overwrite_existing);
 	// Recompress file
 	if (trimfile == "2593.unk8") {
-		int batch_recompress = system("..\\..\\Tools\\xenopack.exe -p 2593.unk8");
+		int batch_recompress = Window::runCommand("..\\..\\Tools\\xenopack.exe -p 2593.unk8");
 	}
 	if (trimfile == "3958.unk8") {
-		int batch_recompress = system("..\\..\\Tools\\xenopack.exe -p 3958.unk8");
+		int batch_recompress = Window::runCommand("..\\..\\Tools\\xenopack.exe -p 3958.unk8");
 	}
 	// Remove decompressed files
 	remove("file0"), remove("file1"), remove("file2"), remove("file3"), remove("file4"), remove("file5"), remove("file6"), remove("file7");
@@ -41,12 +41,12 @@ void controlEditor::editData(std::string trimfile) {
 void controlEditor::editBattleFile(std::string trimfile) {
 	fileSystemTools::toTemp();
 	// Decompress file
-	int batch_decompress = system("..\\..\\Tools\\xenopack.exe -u 2614");
+	int batch_decompress = Window::runCommand("..\\..\\Tools\\xenopack.exe -u 2614");
 	// Copy Japanese control images
 	std::filesystem::copy("..\\jpn_ctrl_subfiles\\2614\\file0", "file0", std::filesystem::copy_options::overwrite_existing);
 	std::filesystem::copy("..\\jpn_ctrl_subfiles\\2614\\file1", "file1", std::filesystem::copy_options::overwrite_existing);
 	// Recompress file
-	int batch_recompress = system("..\\..\\Tools\\xenopack.exe -p 2614");
+	int batch_recompress = Window::runCommand("..\\..\\Tools\\xenopack.exe -p 2614");
 	gameFileTools::remove2614Decomp();
 	std::filesystem::current_path("..\\");
 }
@@ -82,7 +82,7 @@ void controlEditor::editBattleExe(std::string file) {
 	if (trimfile == "0038") {
 		// Decompress file
 		std::filesystem::current_path(Window::home);
-		int batch_decompress = system("Tools\\xenocomp.exe -d gamefiles\\temp\\0038 gamefiles\\temp\\0038.dec");
+		int batch_decompress = Window::runCommand("Tools\\xenocomp.exe -d gamefiles\\temp\\0038 gamefiles\\temp\\0038.dec");
 		// Read data documenting control differences and put it into vectors
 		std::vector<int> offsets = dataTools::popOffset(battlediff);
 		std::vector<int> values = dataTools::popValues(battlediff);
@@ -100,7 +100,7 @@ void controlEditor::editBattleExe(std::string file) {
 		fileContents.close();
 		// Recompress file
 		std::filesystem::current_path(Window::home);
-		int batch_compress = system("Tools\\xenocomp.exe -c gamefiles\\temp\\0038.dec gamefiles\\temp\\0038");
+		int batch_compress = Window::runCommand("Tools\\xenocomp.exe -c gamefiles\\temp\\0038.dec gamefiles\\temp\\0038");
 		// Remove decompressed file
 		std::filesystem::current_path(patchProcessor::gamefilePath);
 		std::filesystem::current_path(applyPatch::temp);
