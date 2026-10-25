@@ -9,6 +9,11 @@
 
 // add headers that you want to pre-compile here
 #include "framework.h"
+#include "Window.h"
+#include <ctime>
 #include <filesystem>
+#include <fstream>
+#include <iomanip>
+#include <sstream>
 
 #endif //PCH_H

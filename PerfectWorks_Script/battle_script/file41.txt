@@ -5,6 +5,6 @@ Transformation
 complete!!<New>
 C'mon monster,
 let's go!"<Close><End of Block>
-<TextBlock 2 w:46 h:2>
+<TextBlock 2 w:48 h:2>
   Super Dimension Gear
-      Yggdrasil IV<Close><Close><UNKNOWN CHUNK 215><Wait><Close><End of Block>
+      Yggdrasil IV<Close><Close><End of Block>

@@ -1,7 +1,6 @@
-<TextBlock 1 w:42 h:4>
+<TextBlock 1 w:32 h:4>
 Rico
-"Is that the best you
-can do? Where's your
+"Where's your
 determination!?"<Close><End of Block>
 <TextBlock 2 w:44 h:4>
 Rico
@@ -29,7 +28,7 @@ You're the first one to
 ever injure me.<New>
 Now I don't have to
 hold back.<Delay 30> Exciting!"<Close><End of Block>
-<TextBlock 7 w:18 h:3>
+<TextBlock 7 w:16 h:3>
 Fei
 "Guh<Delay 30>...<Delay 30>
 ungh<Delay 30>...<Delay 30>"<Close><End of Block>

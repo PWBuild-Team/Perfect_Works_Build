@@ -1,4 +1,4 @@
-<TextBlock 1 w:16 h:2>
+<TextBlock 1 w:12 h:1>
 Bart!!<Opcode 2 60><Close><End of Block>
 <TextBlock 2 w:20 h:2>
 Margie
@@ -16,18 +16,18 @@ Heh! It's not such a bad
 feeling having your name
 known by someone as
 beautiful as you."<Close><End of Block>
-<TextBlock 5 w:44 h:3>
+<TextBlock 5 w:42 h:3>
 Bart
 "It's a nice offer,
 but no can do.<New>
 See, for me, 'neither
 way' is much good."<Close><End of Block>
-<TextBlock 6 w:32 h:4>
+<TextBlock 6 w:30 h:4>
 Bart
 "Tch...<Delay 20> Margie!
 Take cover back
 there!"<Close><End of Block>
-<TextBlock 7 w:28 h:3>
+<TextBlock 7 w:26 h:3>
 Bart
 "Listen, just
 stay there!"<Close><End of Block>

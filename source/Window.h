@@ -146,12 +146,13 @@ public:
 	void initialise();
 	void paintProcess();
 	void tooltipTextMaker();
+	static void checkDirectories();
 	void openFile(HWND hWnd);
 	static void windowSelect();
-	static void logSessionInfo();
-	static void logFileContents(const std::string& path);
-	static int runCommand(const std::string& command);
-	static std::string timestamp();
+	static void prepareLog();
+	static void logCommands(std::string path, std::string tool);
+	static int commandHandler(std::string cmd);
+	static std::string time();
 	void process();
 	void dropdown(NMBCDROPDOWN* pDropDown, std::string option);
 
@@ -217,5 +218,8 @@ public:
 	inline static std::string goldModifier = "";
 	inline static LPWSTR title;
 	inline static NMBCDROPDOWN* dropDown;
+	inline static std::string gamefiles = "gamefiles";
+	inline static std::string patches = "patches";
+	inline static std::string tools = "Tools";
 };
 

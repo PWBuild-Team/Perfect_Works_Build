@@ -97,7 +97,7 @@ Achtzehn
 "What are you saying<Delay 40>...<Delay 40>?
 It's me<Delay 40>...<Delay 40> Your father<Delay 40>...
 Nikola..."<Close><End of Block>
-<TextBlock 13 w:40 h:4>
+<TextBlock 13 w:46 h:4>
 Nikola
 "Maria...<Delay 40>
 can you hear me?<New>
@@ -105,8 +105,7 @@ I'm going to release
 the seal on your
 Graviton Cannon by
 remote control now.<New>
-Use that to
-defeat me."<Close><End of Block>
+Use that to defeat me."<Close><End of Block>
 <TextBlock 14 w:48 h:4>
 Nikola
 "It doesn't matter!<Delay 10>
@@ -134,4 +133,4 @@ Nikola
 "Maria<Delay 40>...<Delay 40> We'll
 always be with you.<New>
 Claudia and I...<Delay 40>
-Now and forever<Delay 40>...<Delay 40>"<Close><Close><Close><Close><End of Block>
+Now and forever<Delay 40>...<Delay 40>"<Close><Close><End of Block>
