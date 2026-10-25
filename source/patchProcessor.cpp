@@ -5,8 +5,14 @@ void patchProcessor::prepare(int discNum, std::string path) {
 	num = discNum;
 	filePath = path;
 	space = false;
-	bool needsPostgap = (discNum == 1) ? romFinder::padDisc1 : romFinder::padDisc2;
-	Window::log_file << "Preparing disc " << discNum << " from " << path << std::endl;
+	bool needsPostgap = false;
+	if (discNum == 1) {
+		needsPostgap = romFinder::padDisc1;
+	}
+	if (discNum == 2) {
+		needsPostgap = romFinder::padDisc2;
+	}
+	Window::log_file << "Preparing disc " << discNum << std::endl;
 	SetWindowText(Window::winHwnd, L"Preparing...");
 	// Work around path names with whitespace.
 	Window::log_file << "Check if disc filename has whitespace characters." << std::endl;
@@ -15,12 +21,11 @@ void patchProcessor::prepare(int discNum, std::string path) {
 		removeWhitespace();
 	}
 	else if (needsPostgap) {
-		// Never modify the user's ROM. Pad a copy instead.
-		Window::log_file << "Creating a copy of the ROM inside the home directory to pad." << std::endl;
+		Window::log_file << "Creating a duplicate of the ROM inside the home directory to add padding to." << std::endl;
 		removeWhitespace();
 	}
 	if (needsPostgap) {
-		appendPostgap();
+		addPostgap();
 	}
 	std::filesystem::current_path(Window::home);
 	if (gamefileVerify()) {
@@ -56,35 +61,39 @@ void patchProcessor::removeWhitespace() {
 	space = true;
 }
 
-// Append the 2-second (150 sector) postgap that some dumps omit
-void patchProcessor::appendPostgap() {
-	SetWindowText(Window::winHwnd, L"Padding ROM...");
-	const int sectorSize = 2352;
-	const int gapSectors = romFinder::postgapBytes / sectorSize;
-	std::fstream rom(tempPath, std::ios::binary | std::ios::in | std::ios::out);
+void patchProcessor::addPostgap() {
+	// Append the 2-second (150 sector) postgap that some dumps omit
+	SetWindowText(Window::winHwnd, L"Padding...");
+	Window::log_file << "Padding the ROM." << std::endl;
+	int sectorSize = 2352;
+	int gapSectors = romFinder::postgapBytes / sectorSize;
+	std::fstream tempROM;
+	tempROM.open(tempPath, std::ios::binary | std::ios::in | std::ios::out);
 	// Continue the sector addresses (BCD minute/second/frame) from the last sector
 	unsigned char header[16];
-	rom.seekg(-sectorSize, std::ios::end);
-	rom.read(reinterpret_cast<char*>(header), sizeof(header));
-	auto fromBcd = [](unsigned char b) { return (b >> 4) * 10 + (b & 0x0F); };
-	auto toBcd = [](int v) { return static_cast<char>(((v / 10) << 4) | (v % 10)); };
-	int lastFrame = (fromBcd(header[12]) * 60 + fromBcd(header[13])) * 75 + fromBcd(header[14]);
-	rom.seekp(0, std::ios::end);
+	tempROM.seekg(-sectorSize, std::ios::end);
+	tempROM.read(reinterpret_cast<char*>(header), sizeof(header));
+	auto fromBcd = [](unsigned char b) { 
+		return (b >> 4) * 10 + (b & 0x0F); 
+	};
+	auto toBcd = [](int v) { 
+		return static_cast<char>(((v / 10) << 4) | (v % 10)); 
+	};
+	int prevFrame = (fromBcd(header[12]) * 60 + fromBcd(header[13])) * 75 + fromBcd(header[14]);
+	tempROM.seekp(0, std::ios::end);
 	for (int i = 1; i <= gapSectors; i++) {
-		// Empty mode 2 sector as in Redump dumps: sync pattern, address and mode,
-		// with the subheader and data left as zero
+		// Empty mode 2 sector as in Redump dumps
 		std::vector<char> sector(sectorSize, 0);
 		std::fill(sector.begin() + 1, sector.begin() + 11, static_cast<char>(0xFF));
-		int frame = lastFrame + i;
+		int frame = prevFrame + i;
 		sector[12] = toBcd(frame / 4500);
 		sector[13] = toBcd((frame / 75) % 60);
 		sector[14] = toBcd(frame % 75);
 		sector[15] = 2;
-		rom.write(sector.data(), sectorSize);
+		tempROM.write(sector.data(), sectorSize);
 	}
-	// Flush the last sectors to disk before reading the final size
-	rom.close();
-	Window::log_file << "Postgap appended. ROM size: " << std::filesystem::file_size(tempPath) << std::endl;
+	tempROM.close();
+	Window::log_file << "Postgap appended to the duplicate ROM. New ROM size: " << std::filesystem::file_size(tempPath) << std::endl;
 }
 
 bool patchProcessor::gamefileVerify() {
@@ -145,10 +154,10 @@ void patchProcessor::start() {
 	Window::log_file << "Changing cursor to reflect loading." << std::endl;
 	SetCursor(LoadCursor(NULL, IDC_WAIT));
 	// Apply patches
-	Window::log_file << "Selected patch directories:" << std::endl;
-	for (const auto& patch : patchList) {
-		if (patch != "") {
-			Window::log_file << "  " << patch << std::endl;
+	Window::log_file << "Directories used:" << std::endl;
+	for (int i = 0; i < patchList.size(); i++) {
+		if (patchList[i] != "") {
+			Window::log_file << patchList[i] << std::endl;
 		}
 	}
 	Window::log_file << "Applying patches." << std::endl;

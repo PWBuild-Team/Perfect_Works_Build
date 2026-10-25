@@ -16,7 +16,7 @@ class patchProcessor
 public:
 	static void prepare(int discNum, std::string path);
 	static void removeWhitespace();
-	static void appendPostgap();
+	static void addPostgap();
 	static void start();
 	static void initialisePatchLists();
 	static void finish();
