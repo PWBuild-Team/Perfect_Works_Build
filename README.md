@@ -54,7 +54,9 @@ Xenogears: Perfect Works is a collaborative project aiming to make Xenogears a m
 
 ~ Ryan (↙ ➡ ↘ ⬇ ↙ ⬅ ↘) Piccuito, character writer and handler for game balance on the Xenogears Perfect Works mod.
 
-DISCLAIMER: Some of the patches were designed to work in tandem with each other. The 2x exp and gold patches were designed to work with the lower encounter rate patch. The monster stats and party/item patch both act as a rebalancing hack. They can be used separately from each other, but they were designed with the mindset of using them together.
+DISCLAIMER: 
+* Some of the patches were designed to work in tandem with each other. The 2x exp and gold patches were designed to work with the lower encounter rate patch. The monster stats and party/item patch both act as a rebalancing hack. They can be used separately from each other, but they were designed with the mindset of using them together.
+* We do not condone the use of Generative AI as a whole, though we take the creative process very seriously, and want to ensure AI touches this project as little as possible within the context of the modern internet. The use of AI in any aspect of the retranslation effort has been strictly forbidden. While code changes are manually engineered, in some cases their implementation was possible using tools that were created with AI assistance. If any projects dedicated to creating a PC port want to collaborate with us, they must prove that their output has not been vibe coded in their entirety.
 
 ## Options
 
