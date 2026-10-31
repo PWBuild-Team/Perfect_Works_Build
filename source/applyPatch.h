@@ -24,7 +24,7 @@ public:
 	static void cleanup();
     static void makeCue();
 	static void createTemp();
-	static void applyFMV();
+	static void applyDelta(std::string patchName);
 	static void backupROM();
 	static void iterateTemp();
 	

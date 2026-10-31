@@ -42,11 +42,11 @@ void fileEditor::scriptEdits() {
 	if (windowHandler::scriptticked == BST_CHECKED) {
 		fileSystemTools::toTemp();
 		// Decompress file
-		int batch_decompress = system("..\\..\\Tools\\xenopack.exe -u 2614");
+		int batch_decompress = Window::commandHandler("..\\..\\Tools\\xenopack.exe -u 2614");
 		// Copy script files
 		std::filesystem::copy("..\\script_subfiles\\2614\\file37", "file37", std::filesystem::copy_options::overwrite_existing);
 		// Recompress file
-		int batch_recompress = system("..\\..\\Tools\\xenopack.exe -p 2614");
+		int batch_recompress = Window::commandHandler("..\\..\\Tools\\xenopack.exe -p 2614");
 		gameFileTools::remove2614Decomp();
 		std::filesystem::current_path("..\\");
 	}
@@ -117,11 +117,11 @@ void fileEditor::modeEdits() {
 	if (windowHandler::storymodeticked == BST_CHECKED) {
 		fileSystemTools::toTemp();
 		// Decompress file
-		int batch_decompress = system("..\\..\\Tools\\xenopack.exe -u 2614");
+		int batch_decompress = Window::commandHandler("..\\..\\Tools\\xenopack.exe -u 2614");
 		// Copy script files
 		std::filesystem::copy("..\\sm_subfiles\\2614\\file3", "file3", std::filesystem::copy_options::overwrite_existing);
 		// Recompress file
-		int batch_recompress = system("..\\..\\Tools\\xenopack.exe -p 2614");
+		int batch_recompress = Window::commandHandler("..\\..\\Tools\\xenopack.exe -p 2614");
 		gameFileTools::remove2614Decomp();
 		std::filesystem::current_path("..\\");
 	} 
