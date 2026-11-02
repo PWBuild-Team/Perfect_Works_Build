@@ -209,7 +209,7 @@ DM or tag here if you want immediate feedback on Twitter:
 ## Credits
 
 - Abathor (Xenocritus): Creator, translation, character balance, programming
-- Will Bill: Translation, character balance, programming, icons
+- thefoolishflame: Translation, character balance, programming, icons
 - Nohar: Translation, character balance, programming, patcher
 - Ryan Piccuito ↙ ➡ ↘ ⬇ ↙ ⬅ ↘: Translation, character balance, testing
 - ribbiwawa (@ribbiwawaaa): Translation
