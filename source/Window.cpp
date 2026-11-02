@@ -141,6 +141,7 @@ void Window::tooltipTextMaker() {
 	HWND tt_story_mode = toolGenerator(tips.text_story_mode, winHwnd, storyMode, winInst).hWndTT;
 	HWND tt_jpn_controls = toolGenerator(tips.text_jpn_control, winHwnd, jpnControls, winInst).hWndTT;
 	HWND tt_bug_fix = toolGenerator(tips.text_bug_fix, winHwnd, bugFix, winInst).hWndTT;
+	HWND tt_autorun = toolGenerator(tips.text_autorun, winHwnd, autorun, winInst).hWndTT;
 }
 
 void Window::checkDirectories() {

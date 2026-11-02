@@ -167,4 +167,8 @@ void windowHandler::checkModes() {
 	if (metricticked == BST_CHECKED) {
 		SendMessage(Window::metric, BM_SETCHECK, BST_CHECKED, NULL);
 	}
+	autorunticked = SendMessage(Window::autorun, BM_GETCHECK, NULL, NULL);
+	if (autorunticked == BST_CHECKED) {
+		SendMessage(Window::autorun, BM_SETCHECK, BST_CHECKED, NULL);
+	}
 }

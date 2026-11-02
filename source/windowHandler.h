@@ -39,5 +39,6 @@ public:
 	inline static LRESULT capticked;
 	inline static LRESULT bugticked;
 	inline static LRESULT metricticked;
+	inline static LRESULT autorunticked;
 };
 

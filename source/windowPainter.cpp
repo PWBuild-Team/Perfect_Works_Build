@@ -100,10 +100,12 @@ void windowPainter::modeWindows() {
 	pWin->storyMode = CreateWindow(L"BUTTON", L"Story mode", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(Window::winX * Window::smx), (int)(Window::winY * 0.30), 85, 25, Window::winHwnd, (HMENU)9002, Window::winInst, NULL);
 	pWin->jpnControls = CreateWindow(L"BUTTON", L"JPN controls", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(Window::winX * Window::smx), (int)(Window::winY * 0.36), 85, 25, Window::winHwnd, (HMENU)9002, Window::winInst, NULL);
 	pWin->bugFix = CreateWindow(L"BUTTON", L"Bug fix only", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(Window::winX * Window::smx), (int)(Window::winY * 0.42), 85, 25, Window::winHwnd, (HMENU)9002, Window::winInst, NULL);
+	pWin->autorun = CreateWindow(L"BUTTON", L"Autorun", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(Window::winX * Window::smx), (int)(Window::winY * 0.48), 85, 25, Window::winHwnd, (HMENU)9002, Window::winInst, NULL);
 	// Put in window list
 	Window::windList.emplace_back(Window::storyMode);
 	Window::windList.emplace_back(Window::jpnControls);
 	Window::windList.emplace_back(Window::bugFix);
+	Window::windList.emplace_back(Window::autorun);
 }
 
 void windowPainter::initialiseFont() {

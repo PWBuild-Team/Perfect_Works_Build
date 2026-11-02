@@ -110,6 +110,7 @@ bool patchProcessor::gamefileVerify() {
 // Initialise patch list
 void patchProcessor::initialisePatchLists() {
 	Window::log_file << "Initialise patch names." << std::endl;
+	patchList.emplace_back(autorunName);
 	patchList.emplace_back(expName);
 	patchList.emplace_back(goldName);
 	patchList.emplace_back(bugName);
@@ -226,6 +227,7 @@ void patchProcessor::reinitialisePatches() {
 	jpnName = "";
 	musicName = "";
 	metricsName = "";
+	autorunName = "";
 }
 
 // Clear patch lists

@@ -132,6 +132,10 @@ struct tipDesc {
 	char text_metricText[255] =
 		"Switches character weight from the imperial\n"
 		"system to the metric system.\n";
+	char text_autorun[255] =
+		"Changes how the cancel button functions so\n"
+		"that the characters run by default, while holding\n"
+		"it causes them to walk.";
 };
 
 class Window
@@ -192,6 +196,7 @@ public:
 	inline static HWND cap;
 	inline static HWND bugFix;
 	inline static HWND metric;
+	inline static HWND autorun;
 	inline static HINSTANCE winInst;
 	inline static int winX;
 	inline static int winY;

@@ -282,6 +282,10 @@ void patchVerifier::modeVerify() {
 		}
 		patchProcessor::editExe = true;
 	}
+	if (windowHandler::autorunticked == BST_CHECKED) {
+		Window::log_file << "Autorun directory found." << std::endl;
+		patchProcessor::autorunName = "Autorun";
+	}
 }
 
 void patchVerifier::bugVerify() {
