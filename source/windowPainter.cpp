@@ -33,10 +33,10 @@ void windowPainter::gameplayWindows() {
 	pWin->expList = CreateWindow(L"BUTTON", L"Modifier", WS_CHILD | WS_VISIBLE | BS_SPLITBUTTON, (int)(Window::winX * Window::gameplayx), (int)(Window::winY * 0.42), 110, 25, Window::winHwnd, (HMENU)9004, Window::winInst, NULL);
 	pWin->gold = CreateWindow(L"BUTTON", L"Modify gold", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(Window::winX * Window::gameplayx), (int)(Window::winY * 0.48), 110, 25, Window::winHwnd, (HMENU)9002, Window::winInst, NULL);
 	pWin->goldList = CreateWindow(L"BUTTON", L"Modifier", WS_CHILD | WS_VISIBLE | BS_SPLITBUTTON, (int)(Window::winX * Window::gameplayx), (int)(Window::winY * 0.54), 110, 25, Window::winHwnd, (HMENU)9005, Window::winInst, NULL);
-	pWin->monsters = CreateWindow(L"BUTTON", L"Rebalanced enemies", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(Window::winX * Window::gameplayx), (int)(Window::winY * 0.60), 120, 25, Window::winHwnd, (HMENU)9002, Window::winInst, NULL);
-	pWin->itemspells = CreateWindow(L"BUTTON", L"Rebalanced party/items", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(Window::winX * Window::gameplayx), (int)(Window::winY * 0.66), 160, 25, Window::winHwnd, (HMENU)9002, Window::winInst, NULL);
-	pWin->deathblows = CreateWindow(L"BUTTON", L"No Deathblow levels", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(Window::winX * Window::gameplayx), (int)(Window::winY * 0.72), 160, 25, Window::winHwnd, (HMENU)9002, Window::winInst, NULL);
-	pWin->cap = CreateWindow(L"BUTTON", L"No damage cap", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(Window::winX * Window::gameplayx), (int)(Window::winY * 0.78), 160, 25, Window::winHwnd, (HMENU)9002, Window::winInst, NULL);
+	// pWin->monsters = CreateWindow(L"BUTTON", L"Rebalanced enemies", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(Window::winX * Window::gameplayx), (int)(Window::winY * 0.60), 120, 25, Window::winHwnd, (HMENU)9002, Window::winInst, NULL);
+	pWin->itemspells = CreateWindow(L"BUTTON", L"Rebalanced gameplay", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(Window::winX * Window::gameplayx), (int)(Window::winY * 0.60), 160, 25, Window::winHwnd, (HMENU)9002, Window::winInst, NULL);
+	pWin->deathblows = CreateWindow(L"BUTTON", L"No Deathblow levels", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(Window::winX * Window::gameplayx), (int)(Window::winY * 0.66), 160, 25, Window::winHwnd, (HMENU)9002, Window::winInst, NULL);
+	pWin->cap = CreateWindow(L"BUTTON", L"No damage cap", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(Window::winX * Window::gameplayx), (int)(Window::winY * 0.72), 160, 25, Window::winHwnd, (HMENU)9002, Window::winInst, NULL);
 	// Put in window list
 	Window::windList.emplace_back(Window::encounters);
 	Window::windList.emplace_back(Window::experience);

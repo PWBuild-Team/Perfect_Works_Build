@@ -95,7 +95,7 @@ void patchVerifier::gameplayVerify() {
 }
 
 void patchVerifier::monsterFileVerify() {
-	if (windowHandler::monstersticked == BST_CHECKED) {
+	/* if (windowHandler::monstersticked == BST_CHECKED) {
 		Window::log_file << "Rebalanced monsters directory found." << std::endl;
 		// Check if items/spells and script patches aren't selected to avoid compatibility issues.
 		if (!windowHandler::itemspellsticked == BST_CHECKED && !windowHandler::scriptticked == BST_CHECKED) {
@@ -110,7 +110,7 @@ void patchVerifier::monsterFileVerify() {
 		else if (windowHandler::itemspellsticked == BST_CHECKED && windowHandler::scriptticked == BST_CHECKED) {
 			patchProcessor::monsterName = "monsters_both";
 		}
-	}
+	} */
 	if (windowHandler::expticked == BST_CHECKED) {
 		Window::log_file << "Experience directory found." << std::endl;
 		patchProcessor::expName = "og_monsters";

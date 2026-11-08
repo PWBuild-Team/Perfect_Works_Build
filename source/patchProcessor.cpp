@@ -124,7 +124,7 @@ void patchProcessor::initialisePatchLists() {
 	patchList.emplace_back(storyModeName);
 	patchList.emplace_back(resizeName);
 	patchList.emplace_back(portraitsName);
-	patchList.emplace_back(monsterName);
+	// patchList.emplace_back(monsterName);
 	patchList.emplace_back(musicName);
 	patchList.emplace_back(arenaName);
 	patchList.emplace_back(fastName);
@@ -210,7 +210,7 @@ void patchProcessor::reinitialisePatches() {
 	fmvName = "";
 	roniName = "";
 	itemspellsName = "";
-	monsterName = "";
+	// monsterName = "";
 	resizeName = "";
 	scriptName = "";
 	arenaName = "";

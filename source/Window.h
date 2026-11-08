@@ -29,10 +29,10 @@ struct tipDesc {
 	char text_itemspells[255] =
 		"WARNING: Incompatible with pre-0.4 saves.\n"
 		"The game is rebalanced; with items,\n" 
-		"characters and the damage formula receiving\n"
-		"adjustment. Other significant overhauls are\n"
-		"included. Several features need fine tuning,\n"
-		"meaning some bugs are to be expected.";
+		"characters, enemies, bosses, and the damage\n"
+		"formula receiving adjustment. Several \n"
+		"features need fine tuning, meaning some bugs\n" 
+		"are to be expected.";
 	char text_monsters[255] =
 		"Enemies and bosses will be altered to give\n"
 		"a bigger challenge. Recommended for second\n"
