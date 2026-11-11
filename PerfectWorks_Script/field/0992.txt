@@ -157,7 +157,7 @@ combat maneuvers.<Close><End of Block>
 <TextBlock 30 w:54 h:1>
 (You're the biggest moron!)<Close><End of Block>
 <TextBlock 31 w:48 h:4>
-Bogeys incoming, vector
+Vampires from vector
 3-3-6! Two groups, about
 seven or eight machines,
 distance 2000!<Close><End of Block>

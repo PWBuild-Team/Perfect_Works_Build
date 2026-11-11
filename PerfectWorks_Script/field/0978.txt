@@ -60,8 +60,8 @@ Please help him.<Delay 16>
 I beg you."<Close><End of Block>
 <TextBlock 13 w:34 h:3>
 Maitreya
-"Farrant! Vind!
-Let's move out!!"<Close><End of Block>
+"Vorland, Wind,
+let's move out!!"<Close><End of Block>
 <TextBlock 14 w:32 h:2>
 ...Huh? Wha!?<Delay 32>
 Huh...? Oh no!!<Close><End of Block>

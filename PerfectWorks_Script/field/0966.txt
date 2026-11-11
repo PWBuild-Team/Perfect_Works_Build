@@ -1,5 +1,5 @@
 <TextBlock 1 w:48 h:4>
-Falkon
+Falke
 "Proceed west and aim
 for the flagship!<New>
 Don't even think about
@@ -7,7 +7,7 @@ engaging the destroyers!
 I'll break away shortly
 and come help out!"<Close><End of Block>
 <TextBlock 2 w:46 h:4>
-Falkon
+Falke
 "Stand clear of the
 destroyers! I'm going
 to use nuclear rounds!"<Close><Close><End of Block>
