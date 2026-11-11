@@ -27,9 +27,9 @@ own, I guess.<Close><End of Block>
 I wonder how long it's
 gonna take to fix the 
 fan above the table.<Close><End of Block>
-<TextBlock 8 w:40 h:2>
+<TextBlock 8 w:46 h:2>
 The fan up there has
-stopped completely.<Close><End of Block>
+stopped completely now.<Close><End of Block>
 <TextBlock 9 w:34 h:3>
 Look!<Delay 30>
 The fan up there
