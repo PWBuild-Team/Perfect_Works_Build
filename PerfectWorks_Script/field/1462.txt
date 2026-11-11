@@ -36,7 +36,7 @@ Received EP Drive!<Close><End of Block>
 <TextBlock 6 w:42 h:2>
 Accidentally received
 Mambo Idol!!<Close><End of Block>
-<TextBlock 7 w:54 h:3>
+<TextBlock 7 w:52 h:3>
 'I don't care how it all
 began nor do I care what
 happens in the end.<New>

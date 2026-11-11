@@ -300,10 +300,11 @@ Margie
 "Yes, Lady Sophia.<New>
 She is revered as the
 founding Mother of the
-Nisan nation...<New>
-and the founder of the
-Nisan religion who set
-forth its teachings.<New>
+Nisan nation,<New>
+and the prophet who set
+out the aforementioned
+teachings of the Nisan
+Sect.<New>
 There's a special
 room upstairs that
 has a portrait of
@@ -439,7 +440,7 @@ Preparation should be getting
 underway around about now,
 in anticipation of the Royal
 Capital Army's attack near
-the Nisan borderline.<New>
+the Holy See's borderline.<New>
 But since provoking them
 unnecessarily could backfire,
 we'll be taking action from

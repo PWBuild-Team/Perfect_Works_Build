@@ -110,9 +110,9 @@ Shakhan
 "Open the door.
 Commander Ramsus is
 here to see her."<Close><End of Block>
-<TextBlock 23 w:40 h:2>
+<TextBlock 23 w:44 h:2>
 Shakhan
-"Commander, please."<Close><End of Block>
+"Go on in, Commander."<Close><End of Block>
 <TextBlock 24 w:3 h:1>
 !<Opcode 2 20><Close><End of Block>
 <TextBlock 25 w:3 h:1>

@@ -109,37 +109,37 @@ Margie
 "I found this in
 the city.<Delay 10>
 I really like it."<Close><End of Block>
-<TextBlock 20 w:48 h:3>
+<TextBlock 20 w:44 h:3>
 Thank you so much
 for rescuing Mother
-Marguerite.<New>
-All of us in the Nisan
-Sect are deeply indebted
-to you.<Close><End of Block>
-<TextBlock 21 w:48 h:4>
-Today we came to pray to
-God for peace in Av,
+Marguerite before.<New>
+The Nisan Sect is what
+it is today thanks to
+all of you.<Close><End of Block>
+<TextBlock 21 w:44 h:4>
+Today we pray to God
+for peace in Av,
 Nisan and Kislev.<Delay 60>
 Peace be with you all.<Close><End of Block>
-<TextBlock 22 w:42 h:1>
-Please wait a moment.<Opcode 2 30><Close><End of Block>
+<TextBlock 22 w:28 h:1>
+Just a moment.<Opcode 2 30><Close><End of Block>
 <TextBlock 23 w:52 h:3>
-We are grateful to you
-for rescuing Mother
+We are indebted to you
+for the rescue of Mother
 Marguerite.<New>
 Thanks to you, we can
 return to Nisan overjoyed.<Close><End of Block>
-<TextBlock 24 w:42 h:1>
-Please wait a moment.<Opcode 2 30><Close><End of Block>
-<TextBlock 25 w:44 h:3>
+<TextBlock 24 w:28 h:1>
+Just a moment.<Opcode 2 30><Close><End of Block>
+<TextBlock 25 w:52 h:3>
 We would like to build
-Nisan churches in
-Breidablik and Dazil.<Close><End of Block>
-<TextBlock 26 w:42 h:1>
-Please wait a moment.<Opcode 2 30><Close><End of Block>
-<TextBlock 27 w:44 h:3>
-This is the room 
-Mother Marguerite was 
-locked away in.<New>
-She must've been so
-terrified.<Close><Close><End of Block>
+missions of the Nisan Sect
+in Breidablik and Dazil.<Close><End of Block>
+<TextBlock 26 w:28 h:1>
+Just a moment.<Opcode 2 30><Close><End of Block>
+<TextBlock 27 w:42 h:3>
+Mother Marguerite had
+been locked away in
+this room.<New>
+How forlorn she must
+have felt.<Close><Close><End of Block>

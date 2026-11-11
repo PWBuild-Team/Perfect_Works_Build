@@ -63,18 +63,18 @@ up."<Close><End of Block>
 Agnes
 "Long ago,<Delay 30> before the Fatimas
 of Av were called Fatima...<New>
-The royal brothers and their
+the royal brothers and their
 wives oversaw many prosperous
 reigns and eras.<New>
 I'm looking forward to the
 day when, as the Holy Mother
-of the Nisan Sect,<New>
+of the See of Nisan,<New>
 you will take your place on
 the throne as Bartholomew's
 wife."<Close><End of Block>
 <TextBlock 14 w:44 h:4>
 Margie
-"What!? <Delay 15>Hey, <Delay 5>hold on!<Delay 10>
+"What!?<Delay 15> Hey,<Delay 5> hold on!<Delay 10>
 I hate talking about
 queens and romance...!<New>
 Bart and I are best
@@ -115,12 +115,12 @@ as ever, I hope?<Close><End of Block>
 Bart
 "Yep!
 How's the town?"<Close><End of Block>
-<TextBlock 22 w:50 h:6>
+<TextBlock 22 w:52 h:6>
 Since we got word several
 days ago that there might
 be an army advancing from
 the Royal Capital, the
-Sect's representatives
+Holy See's representatives
 have been in discussion.<Close><End of Block>
 <TextBlock 23 w:28 h:3>
 Bart
@@ -188,7 +188,7 @@ campaign are done <--> just
 completing one final check.<New>
 The Young Master is
 taking Marguerite to
-Nisan!<Close><End of Block>
+the Holy See!<Close><End of Block>
 <TextBlock 39 w:40 h:1>
 Everything is ready.<Close><End of Block>
 <TextBlock 40 w:38 h:1>

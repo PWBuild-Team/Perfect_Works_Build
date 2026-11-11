@@ -55,11 +55,11 @@ with other people?<Close><End of Block>
 <TextBlock 12 w:46 h:2>
 We look forward to the
 dawn of our true world!<Close><End of Block>
-<TextBlock 13 w:56 h:4>
-Recognition of the existence
-of Solaris may present a new
-way of looking at the Nisan
-orthodoxy.<New>
+<TextBlock 13 w:52 h:4>
+Recognition of the
+existence of Solaris
+may present a new way of
+looking at the Nisan Sect.<New>
 In that sense, I believe
 we've finally reached a
 new starting point.<Close><End of Block>
@@ -138,17 +138,18 @@ Agnes
 painting in the mural
 room is Lady Sophia.<New>
 She was the founding
-Divine Mother of Nisan.<New>
+Divine Mother of the
+Nisan faith.<New>
 According to legend, the
 portrait was painted
 about 500 years ago."<Close><End of Block>
-<TextBlock 26 w:48 h:3>
+<TextBlock 26 w:52 h:3>
 Agnes
 "So you saw the painting
 of Lady Sophia?<New>
 The one in that painting
 is the founding Divine
-Mother of Nisan.<New>
+Mother of the Nisan faith.<New>
 Some say that it was
 painted at least 500
 years ago."<Close><End of Block>
@@ -268,17 +269,18 @@ Agnes
 painting in the mural
 room is Lady Sophia.<New>
 She was the founding
-Divine Mother of Nisan.<New>
+Divine Mother of the
+Nisan faith.<New>
 According to legend, the
 portrait was painted
 about 500 years ago."<Close><End of Block>
-<TextBlock 45 w:48 h:3>
+<TextBlock 45 w:52 h:3>
 Agnes
 "So you saw the painting
 of Lady Sophia?<New>
 The one in that painting
 is the founding Divine
-Mother of Nisan.<New>
+Mother of the Nisan faith.<New>
 Some say that it was
 painted at least 500
 years ago."<Close><End of Block>

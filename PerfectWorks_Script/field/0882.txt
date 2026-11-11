@@ -1,5 +1,5 @@
-<TextBlock 1 w:70 h:3>
-<Opcode 1 255>There's probably a guard outside...
+<TextBlock 1 w:66 h:3>
+<Opcode 1 255>There might be a guard outside...
     Open the door
     Just take a peek<Close><End of Block>
 <TextBlock 2 w:34 h:2>

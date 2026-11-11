@@ -11,7 +11,7 @@ Margie
 stuffed toy'!<Delay 10>
 She has a name!<New>
 Her name is..."<Close><End of Block>
-<TextBlock 3 w:50 h:2>
+<TextBlock 3 w:48 h:2>
 Margie
 "Her name is <Chu-Chu>!"<Close><End of Block>
 <TextBlock 4 w:52 h:4>
@@ -149,9 +149,8 @@ all panicked!!"<Close><End of Block>
 ...<Close><End of Block>
 <TextBlock 30 w:46 h:4>
 Margie
-"Funny...<Delay 10>
-I don't see <Chu-Chu>
-anywhere!<New>
+"Funny...<Delay 5> I don't see
+<Chu-Chu> anywhere!<Delay 10>
 Where'd she go off to?"<Close><End of Block>
 <TextBlock 31 w:44 h:3>
 Margie
@@ -212,7 +211,7 @@ Margie
 "Fei, go to Elly.
 You should be there for
 her in times like this."<Close><End of Block>
-<TextBlock 44 w:52 h:3>
+<TextBlock 44 w:50 h:3>
 <Chu-Chu>
 "Don't chu want <Chu-Chu>
 to go with you chu?"<Close><End of Block>
@@ -230,9 +229,9 @@ The Young Master will help
 them too, won't he?"<Close><End of Block>
 <TextBlock 47 w:52 h:4>
 Margie
-"Even though it was the
-Sect's wish, it still left
-a bitter feeling..."<Close><End of Block>
+"Even though it's what
+the Holy See wanted, it...
+still feels kinda wrong."<Close><End of Block>
 <TextBlock 48 w:30 h:2>
 Margie
 "Thanks, Fei!!"<Close><End of Block>
@@ -300,7 +299,7 @@ feel chu good!!"<Close><End of Block>
 <Chu-Chu>
 "It's fun chu see more
 and more people here!!"<Close><End of Block>
-<TextBlock 60 w:52 h:4>
+<TextBlock 60 w:50 h:4>
 <Chu-Chu>
 "<Chu-Chu> can't do muchu
 either, so I'll just be a

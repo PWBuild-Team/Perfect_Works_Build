@@ -10,9 +10,9 @@ well as they say."<Close><End of Block>
     Entrance
     Front courtyard
     Citadel 3rd floor
-    Dining hall<Close><End of Block>
-<TextBlock 3 w:30 h:1>
-Is it alright?<Close><End of Block>
+    Mess hall<Close><End of Block>
+<TextBlock 3 w:32 h:1>
+Is this alright?<Close><End of Block>
 <TextBlock 4 w:52 h:4>
 Shakhan
 "I can't prevent them

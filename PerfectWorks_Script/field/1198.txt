@@ -194,7 +194,7 @@ to maintain the Gear.<New>
 The surface hovering and
 flight capabilties are
 quite impressive.<Close><End of Block>
-<TextBlock 16 w:50 h:4>
+<TextBlock 16 w:48 h:4>
 This is...<Delay 10>um, <Chu-Chu>!
 What're you doing here!?<Delay 10>
 You don't need any

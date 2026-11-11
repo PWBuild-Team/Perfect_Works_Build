@@ -61,7 +61,7 @@ We're already involved.<Delay 20>
 And we can't just stand
 by and watch these
 people die."<Close><End of Block>
-<TextBlock 13 w:38 h:3>
+<TextBlock 13 w:36 h:3>
 Fei
 "...?<Delay 20>
 Going chu help...?<New>
@@ -143,16 +143,16 @@ our common enemy first."<Close><End of Block>
 Billy
 "Y-You're...<Delay 20>
 the Queen...?"<Close><End of Block>
-<TextBlock 25 w:44 h:3>
+<TextBlock 25 w:42 h:3>
 <Chu-Chu>
 "Alright! <Chu-Chu>'s
 going chu help too!"<Close><End of Block>
-<TextBlock 26 w:54 h:4>
+<TextBlock 26 w:52 h:4>
 <Chu-Chu>
 "Nuh-uh... <Chu-Chu>'s not
 a good girl.<Delay 20> I'm at that
 dangerous age right now."<Close><End of Block>
-<TextBlock 27 w:30 h:3>
+<TextBlock 27 w:28 h:3>
 <Chu-Chu>
 "And <Chu-Chu>
 can help chu!<New>

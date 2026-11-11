@@ -34,18 +34,18 @@ The legendary H&S Badge!!<Close><End of Block>
 <TextBlock 6 w:48 h:2>
 The Tag Badge that even
 enthusiasts drool over!!<Close><End of Block>
-<TextBlock 7 w:52 h:4>
+<TextBlock 7 w:48 h:4>
 Fei
 "That old <Chu-Chu> guy
-must have been so happy...<New>
+must've been so happy...<New>
 They were displayed
 so nicely here...<Delay 20>
 I can't take
 these from him."<Close><End of Block>
-<TextBlock 8 w:44 h:4>
+<TextBlock 8 w:38 h:4>
 Fei
 "That old <Chu-Chu>
-guy must have been so
+guy must've been so
 very happy...<New>
 They're polished,
 so shiny...<Delay 20>

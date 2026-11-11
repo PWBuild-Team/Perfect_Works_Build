@@ -231,9 +231,9 @@ you workin' around here.<Close><End of Block>
 Huh? Well, don't worry
 'bout the details
 too much.<Close><End of Block>
-<TextBlock 51 w:44 h:2>
+<TextBlock 51 w:40 h:2>
 Well, let's toast to
-the Tamuz' survival!"<Close><End of Block>
+the Tamuz' survival!<Close><End of Block>
 <TextBlock 52 w:32 h:2>
 Now we can drink
 some more.<Close><End of Block>

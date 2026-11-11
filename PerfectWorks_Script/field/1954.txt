@@ -47,10 +47,12 @@ Rene
 don't understand?"<Close><End of Block>
 <TextBlock 9 w:48 h:4>
 Lacan
-"She's not the kind of
+"Even though it's
+for the benefit of
+the Nisan order,<New>
+she's not the kind of
 person who wants herself
-to become a symbol,<New>
-not even for the Sect.<New>
+to become a symbol.<New>
 ...<Delay 5>In fact, apparently
 she wasn't enthusiastic
 about the painting of

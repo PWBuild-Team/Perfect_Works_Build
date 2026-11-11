@@ -26,13 +26,14 @@ The Young Master's got
 lots of power and
 ambition, just like me.<Close><End of Block>
 <TextBlock 6 w:46 h:4>
-This guy was once an
+This guy used to be an
 Av soldier.<Delay 10>
 You just never know
 what fate has in store!<New>
-We used to fight each
-other but now here we
-are, close pals.<Close><End of Block>
+Until recently we were
+fighting, but now we're
+comrades who eat under
+the same roof.<Close><End of Block>
 <TextBlock 7 w:36 h:2>
 Speaking of food,
 I'm hungry<Delay 5>...<Delay 5><Close><End of Block>
@@ -491,19 +492,19 @@ Mason
 "With Miss Margie
 imprisoned, we dare
 not do anything."<Close><End of Block>
-<TextBlock 100 w:28 h:4>
+<TextBlock 100 w:30 h:4>
 Citan
 "She would not
 happen to be<Delay 10>
-Nisan's<Delay 5>...?"<Close><End of Block>
-<TextBlock 101 w:46 h:4>
+from Nisan<Delay 5>...?"<Close><End of Block>
+<TextBlock 101 w:48 h:4>
 Mason
 "You are well informed,
 my dear Doctor.<New>
 She is the Holy Mother
-Marguerite of Nisan<Delay 5>...<Delay 10>
-and the Young Master's
-cousin, as well."<Close><End of Block>
+Marguerite of the Holy
+See of Nisan,<Delay 5> and cousin
+of the Young Master."<Close><End of Block>
 <TextBlock 102 w:36 h:3>
 Citan
 "Why would Shakhan

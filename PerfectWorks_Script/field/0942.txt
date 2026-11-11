@@ -94,14 +94,13 @@ Remember your rank!"<Close><End of Block>
 <TextBlock 22 w:24 h:2>
 Rank
 "Oh, scary!"<Close><End of Block>
-<TextBlock 23 w:48 h:4>
+<TextBlock 23 w:50 h:4>
 Franz
 "We don't care much for
 rank<Delay 5>...<Delay 5>and we don't care
 much for 'Rank' either!<New>
-But just because you're
-beautiful doesn't mean
-you have to be cocky."<Close><End of Block>
+Don't get cocky just
+'cause you're beautiful."<Close><End of Block>
 <TextBlock 24 w:32 h:3>
 Breuer
 "Ha! This jerk's
@@ -142,11 +141,10 @@ Apparently, what that
 really means is average
 mental power isn't enough
 to even get it running."<Close><End of Block>
-<TextBlock 32 w:44 h:4>
+<TextBlock 32 w:46 h:3>
 Strachey
-"So, useless as she
-may be...she's still
-Jugend, huh?"<Close><End of Block>
+"So, she's disgraced
+but still Jugend, huh?"<Close><End of Block>
 <TextBlock 33 w:42 h:4>
 Franz
 "Hah, this looks like

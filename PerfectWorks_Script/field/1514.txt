@@ -20,7 +20,7 @@ dream...<Close><End of Block>
 No, let's stop
 there...<Delay 20> It's a
 whole other story...<Close><End of Block>
-<TextBlock 4 w:52 h:3>
+<TextBlock 4 w:50 h:4>
 <Chu-Chu>
 "Fei,<Delay 20> where are you
 going chu without me?<New>

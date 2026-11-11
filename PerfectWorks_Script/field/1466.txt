@@ -12,12 +12,12 @@ Fei
 "Not everyone's
 necessarily kind and
 good..."<Close><End of Block>
-<TextBlock 4 w:54 h:4>
+<TextBlock 4 w:52 h:4>
 Citan
 "<Chu-Chu> and her friends
 here may be the last
 of their kind."<Close><End of Block>
-<TextBlock 5 w:48 h:4>
+<TextBlock 5 w:46 h:4>
 Elly
 "If <Chu-Chu> saw this,
 she'd surely faint from
@@ -26,7 +26,7 @@ happiness!"<Close><End of Block>
 Bart
 "Ha ha!<Delay 20>
 Who woulda figured!?"<Close><End of Block>
-<TextBlock 7 w:52 h:4>
+<TextBlock 7 w:50 h:4>
 Rico
 "<Chu-Chu> will be happy.<Delay 20>
 She's got company here."<Close><End of Block>
@@ -194,7 +194,7 @@ Hmm...<Delay 20>
 Want to exchange the set
 of three for our treasure?<Delay 20>
 It's a deal, yes it is.<Close><End of Block>
-<TextBlock 31 w:46 h:4>
+<TextBlock 31 w:42 h:4>
 Exchange for the
 <Chu-Chu>s' treasure?<Delay 20>
 <Opcode 1 255>    Sure!
@@ -208,7 +208,7 @@ Received Charger A!<Close><End of Block>
 Received Power Ring S!<Close><End of Block>
 <TextBlock 35 w:22 h:1>
 Cheapskate!<Close><End of Block>
-<TextBlock 36 w:54 h:4>
+<TextBlock 36 w:52 h:4>
 Those Solaris guys were
 cruel to the <Chu-Chu>s,
 who'd lived on this planet

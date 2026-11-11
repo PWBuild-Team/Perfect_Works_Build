@@ -1,66 +1,73 @@
-<TextBlock 1 w:70 h:3>
-<Opcode 1 255>There's probably a guard outside...
+<TextBlock 1 w:66 h:3>
+<Opcode 1 255>There might be a guard outside...
     Open the door
     Just take a peek<Close><End of Block>
-<TextBlock 2 w:70 h:3>
-<Opcode 1 255>There's probably a guard outside...
+<TextBlock 2 w:66 h:3>
+<Opcode 1 255>There might be a guard outside...
     Open the door
     Just take a peek<Close><End of Block>
-<TextBlock 3 w:50 h:5>
-...Due to confusing
-orders, we were not able
-to do well in our prior
-campaign against growing
-patrols around the ruins.<New>
-So we must immediately 
-restructure our system
-of giving orders.
-Have you any ideas?<Close><End of Block>
-<TextBlock 4 w:40 h:3>
-General, the problem
-is that pushy Major
-Vanderkam. He...<Close><End of Block>
-<TextBlock 5 w:56 h:5>
+<TextBlock 3 w:52 h:4>
+...In the previous
+operation aiming to mop
+up the Kislev troops
+deployed around the ruins,<New>
+our forces were unable to
+show their true power due
+to confusion about the
+chain of command.<Close><End of Block>
+<TextBlock 4 w:44 h:4>
+General, the problem's
+that pushy bastard...
+Major Vanderkam.
+He<--><Close><End of Block>
+<TextBlock 5 w:46 h:5>
 Hold your tongue!<Delay 20>
-I understand your resentment
+I understand your anger
 toward Major Vanderkam,
-but we don't want any bad 
-feelings with Geburah.<Close><End of Block>
-<TextBlock 6 w:48 h:3>
-I'm sorry. <Delay 30>
-What about that new guy,
-Ramsus? What about him?<Close><End of Block>
-<TextBlock 7 w:46 h:4>
-I've heard he is 
-rather talented...
-He shouldn't trouble
-us like that Vanderkam.<Close><End of Block>
+but we can't afford to
+antagonize Geburah.<Close><End of Block>
+<TextBlock 6 w:54 h:3>
+My apologies.<Delay 30>
+But what about that newly
+posted guy? Ramsus, was it?<Close><End of Block>
+<TextBlock 7 w:44 h:5>
+From what I've heard,
+he's pretty sharp...
+I'm sure he'll do more
+than just hold us back
+the way Vanderkam did.<Close><End of Block>
 <TextBlock 8 w:40 h:2>
 That surprise attack
-was amazing.<Close><End of Block>
-<TextBlock 9 w:46 h:2>
-But, he is an outsider.
-You can't trust him!<Close><End of Block>
-<TextBlock 10 w:26 h:1>
-Who's there? <Opcode 2 30><Close><End of Block>
-<TextBlock 11 w:42 h:2>
-Stop daydreaming!
-Arrest the intruder! <Opcode 2 30><Close><End of Block>
-<TextBlock 12 w:62 h:4>
+was amazing too.<Close><End of Block>
+<TextBlock 9 w:38 h:3>
+But nevertheless,
+he's an outsider.
+We can't trust him!<Close><End of Block>
+<TextBlock 10 w:22 h:1>
+Who's that?<Opcode 2 30><Close><End of Block>
+<TextBlock 11 w:52 h:2>
+What are you waiting for!?
+Arrest the intruder!<Opcode 2 30><Close><End of Block>
+<TextBlock 12 w:52 h:5>
 Do you know what the
-biggest problem is since
-the end of the war with 
-Kislev? <New>
-The excavation rights to 
-the ruins in Dazil!<New>
-Soldiers in the area have
-to protect those rights.<New>
-Drafted soldiers are being
-sent home so career veterans
-must be reorganized.<New>
-But until the reorganized units
-arrive, the guards at the
-ruins can't return.<Close><End of Block>
+biggest problem is now
+we've called a truce with
+Kislev?<New>
+It's the ruins-excavation
+rights <--> one example
+being the Dazil region!<New>
+It follows that the forces
+in that vicinity must hold
+on to those rights.<New>
+The soldiers who were
+drafted are all being
+sent home, so the career
+soldiers that remain have
+to be reorganized.<New>
+But until the reorganized
+units arrive, the ruins-
+defense soldiers can't
+get home.<Close><End of Block>
 <TextBlock 13 w:34 h:2>
 You have too many
 <Opcode 4 20><Close><End of Block>

@@ -1,5 +1,5 @@
-<TextBlock 1 w:42 h:1>
-The Tournament arena.<Opcode 2 30><Close><End of Block>
+<TextBlock 1 w:52 h:1>
+It's the Tournament venue.<Opcode 2 30><Close><End of Block>
 <TextBlock 2 w:24 h:1>
 It's locked.<Opcode 2 30><Close><End of Block>
 <TextBlock 3 w:2 h:1>

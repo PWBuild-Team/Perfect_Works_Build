@@ -401,7 +401,7 @@ Billy is not in the lead
 position.<Close><End of Block>
 <TextBlock 95 w:32 h:1>
 Don't chu worry.<Close><End of Block>
-<TextBlock 96 w:26 h:2>
+<TextBlock 96 w:24 h:2>
 Billy
 "<Chu-Chu>!"<Close><End of Block>
 <TextBlock 97 w:46 h:1>

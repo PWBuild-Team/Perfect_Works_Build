@@ -1,9 +1,10 @@
-<TextBlock 1 w:50 h:3>
-I came as I was called...
-Maybe it's my age but, I
-don't like noisy places.<Close><End of Block>
-<TextBlock 2 w:54 h:4>
-I'm glad to have lived
-so long. I never dreamed
-they would call me the
-moment the country changed.<Close><Close><End of Block>
+<TextBlock 1 w:64 h:4>
+I came here because they went
+to the trouble of inviting me,
+but...<Delay 10>perhaps because of my age,
+I don't do well in noisy places.<Close><End of Block>
+<TextBlock 2 w:48 h:4>
+I've lived a long life.<Delay 10>
+To think I'd be called
+upon at the exact moment
+the country changes...<Close><Close><End of Block>

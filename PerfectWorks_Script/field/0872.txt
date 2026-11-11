@@ -93,32 +93,31 @@ It's locked.<Opcode 2 30><Close><End of Block>
     Return<Close><End of Block>
 <TextBlock 19 w:2 h:1>
 !<Opcode 2 15><Close><End of Block>
-<TextBlock 20 w:40 h:2>
-Hey, what is it that
-we're guarding here?<Close><End of Block>
-<TextBlock 21 w:38 h:4>
+<TextBlock 20 w:48 h:2>
+Hey, what're we standing
+guard here for?<Close><End of Block>
+<TextBlock 21 w:42 h:4>
 We're here to chase
-out anyone from the
-Tournament who gets
-lost in the castle.<Close><End of Block>
-<TextBlock 22 w:42 h:5>
-Babysitters, huh? <Delay 30>
+out anyone who strays
+into the castle from
+the Tournament venue.<Close><End of Block>
+<TextBlock 22 w:48 h:4>
+We're babysitters, huh?<Delay 30>
 Well, when it gets to
-the pre-semi-finals
-we'll go check out
-the Tournament.<Close><End of Block>
-<TextBlock 23 w:28 h:2>
-Yeah, 
-let's do that.<Close><End of Block>
-<TextBlock 24 w:30 h:2>
-Oh man, if that
-guy wins...<Close><End of Block>
-<TextBlock 25 w:26 h:1>
-That's right.<Close><End of Block>
-<TextBlock 26 w:38 h:1>
-Gimme my 100G back!<Close><End of Block>
-<TextBlock 27 w:26 h:2>
-Oh well.
+the quarter-finals let's
+knock off and go watch.<Close><End of Block>
+<TextBlock 23 w:24 h:2>
+Yeah.
+Let's do it.<Close><End of Block>
+<TextBlock 24 w:36 h:2>
+Don't tell me THAT
+guy's gonna win...<Close><End of Block>
+<TextBlock 25 w:38 h:1>
+Sure looks like it.<Close><End of Block>
+<TextBlock 26 w:40 h:1>
+I want my 100G back.<Close><End of Block>
+<TextBlock 27 w:34 h:2>
+Tell me about it.
 What a waste.<Close><End of Block>
 <TextBlock 28 w:2 h:1>
 !<Opcode 2 15><Close><End of Block>

@@ -58,20 +58,19 @@ Mason
 "Indeed. When he was 10, he
 was assigned to His Majesty
 King Edbart, as a squire."<Close><End of Block>
-<TextBlock 12 w:46 h:3>
-Oh my, Major Vanderkam!
-Bringing this thing
-into the room...<New>
-It's going to be so
-difficult to clean
-with this here.<Close><End of Block>
+<TextBlock 12 w:52 h:2>
+Honestly, Major Vanderkam!<New>
+Bringing this thing into
+the room...without a care
+for how difficult it makes
+the cleaning.<Close><End of Block>
 <TextBlock 13 w:48 h:4>
-I thought Mason would
-clean that up for me, 
-but instead, when he saw
-it, he got so excited.<New>
-Men...<Close><End of Block>
-<TextBlock 14 w:70 h:3>
-<Opcode 1 255>There's probably a guard outside...
+That Mason, I thought
+he'd get rid of this
+thing for me, but he was
+delighted to see it.<New>
+Men, I ask you...<Close><End of Block>
+<TextBlock 14 w:66 h:3>
+<Opcode 1 255>There might be a guard outside...
     Open the door
     Just take a peek<Close><Close><End of Block>

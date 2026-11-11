@@ -8,14 +8,18 @@ Bart
 <TextBlock 3 w:46 h:2>
 Margie
 "Alright, let's go in!"<Close><End of Block>
-<TextBlock 4 w:10 h:1>
-<Opcode 1 255>Nisan<Close><End of Block>
-<TextBlock 5 w:10 h:1>
-<Opcode 1 255>Nisan<Close><End of Block>
-<TextBlock 6 w:10 h:1>
-<Opcode 1 255>Nisan<Close><End of Block>
-<TextBlock 7 w:10 h:1>
-<Opcode 1 255>Nisan<Close><End of Block>
+<TextBlock 4 w:16 h:2>
+<Opcode 1 255>Holy See
+of Nisan<Close><End of Block>
+<TextBlock 5 w:16 h:2>
+<Opcode 1 255>Holy See
+of Nisan<Close><End of Block>
+<TextBlock 6 w:16 h:2>
+<Opcode 1 255>Holy See
+of Nisan<Close><End of Block>
+<TextBlock 7 w:16 h:2>
+<Opcode 1 255>Holy See
+of Nisan<Close><End of Block>
 <TextBlock 8 w:30 h:1>
 <Opcode 1 255>Nisan Cathedral<Close><End of Block>
 <TextBlock 9 w:18 h:1>
@@ -24,8 +28,9 @@ Margie
 <Opcode 1 255>Secret Dock<Close><End of Block>
 <TextBlock 11 w:64 h:4>
     With the help of Fei and the
-      others, Nisan was freed
-        from Shakhan's army.<New>
+      others, the Holy See of
+        Nisan was freed from
+           Shakhan's army.<New>
      However, the Fatima Jasper
      and the legendary treasure
        of the Av royal family

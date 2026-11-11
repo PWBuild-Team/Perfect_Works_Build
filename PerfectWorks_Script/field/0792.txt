@@ -662,10 +662,10 @@ prepare their defenses and
 evacuate.<Close><End of Block>
 <TextBlock 106 w:54 h:1>
 May heaven protect you all.<Close><End of Block>
-<TextBlock 107 w:46 h:4>
-Neither of us serve
-heaven within the
-Nisan cathedral...<New>
+<TextBlock 107 w:52 h:4>
+Neither of us are servants
+of heaven within the
+cathedral...<New>
 But as people who have
 lived in this land for
 many years, we offer
