@@ -143,4 +143,11 @@ daydreaming..."<Close><End of Block>
 Fei
 "Huh?
 No...
-It's nothing..."<Close><Close><End of Block>
+It's nothing..."<Close><End of Block>
+<TextBlock 31 w:10 h:2>
+Fei
+"Hm?"<Opcode 2 90><Close><End of Block>
+<TextBlock 32 w:26 h:3>
+Fei
+"What the...?<Delay 30>
+Again?"<Close><Close><End of Block>

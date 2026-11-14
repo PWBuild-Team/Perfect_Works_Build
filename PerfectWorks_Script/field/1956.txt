@@ -1,3 +1,2 @@
-<TextBlock 1 w:36 h:2>
-Lacan
-"A...<Delay 5>...<Delay 5>portrait?"<Close><Close><End of Block>
+<TextBlock 1 w:28 h:1>
+A<Delay 10> portrait<Delay 10>...?<Opcode 2 90><Close><Close><End of Block>
