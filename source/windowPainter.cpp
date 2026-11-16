@@ -33,10 +33,10 @@ void windowPainter::gameplayWindows() {
 	pWin->expList = CreateWindow(L"BUTTON", L"Modifier", WS_CHILD | WS_VISIBLE | BS_SPLITBUTTON, (int)(Window::winX * Window::gameplayx), (int)(Window::winY * 0.42), 110, 25, Window::winHwnd, (HMENU)9004, Window::winInst, NULL);
 	pWin->gold = CreateWindow(L"BUTTON", L"Modify gold", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(Window::winX * Window::gameplayx), (int)(Window::winY * 0.48), 110, 25, Window::winHwnd, (HMENU)9002, Window::winInst, NULL);
 	pWin->goldList = CreateWindow(L"BUTTON", L"Modifier", WS_CHILD | WS_VISIBLE | BS_SPLITBUTTON, (int)(Window::winX * Window::gameplayx), (int)(Window::winY * 0.54), 110, 25, Window::winHwnd, (HMENU)9005, Window::winInst, NULL);
-	pWin->monsters = CreateWindow(L"BUTTON", L"Rebalanced enemies", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(Window::winX * Window::gameplayx), (int)(Window::winY * 0.60), 120, 25, Window::winHwnd, (HMENU)9002, Window::winInst, NULL);
-	pWin->itemspells = CreateWindow(L"BUTTON", L"Rebalanced party/items", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(Window::winX * Window::gameplayx), (int)(Window::winY * 0.66), 160, 25, Window::winHwnd, (HMENU)9002, Window::winInst, NULL);
-	pWin->deathblows = CreateWindow(L"BUTTON", L"No Deathblow levels", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(Window::winX * Window::gameplayx), (int)(Window::winY * 0.72), 160, 25, Window::winHwnd, (HMENU)9002, Window::winInst, NULL);
-	pWin->cap = CreateWindow(L"BUTTON", L"No damage cap", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(Window::winX * Window::gameplayx), (int)(Window::winY * 0.78), 160, 25, Window::winHwnd, (HMENU)9002, Window::winInst, NULL);
+	// pWin->monsters = CreateWindow(L"BUTTON", L"Rebalanced enemies", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(Window::winX * Window::gameplayx), (int)(Window::winY * 0.60), 120, 25, Window::winHwnd, (HMENU)9002, Window::winInst, NULL);
+	pWin->itemspells = CreateWindow(L"BUTTON", L"Rebalanced gameplay", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(Window::winX * Window::gameplayx), (int)(Window::winY * 0.60), 160, 25, Window::winHwnd, (HMENU)9002, Window::winInst, NULL);
+	pWin->deathblows = CreateWindow(L"BUTTON", L"No Deathblow levels", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(Window::winX * Window::gameplayx), (int)(Window::winY * 0.66), 160, 25, Window::winHwnd, (HMENU)9002, Window::winInst, NULL);
+	pWin->cap = CreateWindow(L"BUTTON", L"No damage cap", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(Window::winX * Window::gameplayx), (int)(Window::winY * 0.72), 160, 25, Window::winHwnd, (HMENU)9002, Window::winInst, NULL);
 	// Put in window list
 	Window::windList.emplace_back(Window::encounters);
 	Window::windList.emplace_back(Window::experience);
@@ -76,10 +76,12 @@ void windowPainter::storyWindows() {
 	pWin->script = CreateWindow(L"BUTTON", L"Script/name changes", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(Window::winX * Window::storyx), (int)(Window::winY * 0.30), 120, 25, Window::winHwnd, (HMENU)9002, Window::winInst, NULL);
 	pWin->fasttext = CreateWindow(L"BUTTON", L"Fast text", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(Window::winX * Window::storyx), (int)(Window::winY * 0.36), 110, 25, Window::winHwnd, (HMENU)9002, Window::winInst, NULL);
 	pWin->instant = CreateWindow(L"BUTTON", L"Instant text", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(Window::winX * Window::storyx), (int)(Window::winY * 0.42), 110, 25, Window::winHwnd, (HMENU)9002, Window::winInst, NULL);
+	pWin->metric = CreateWindow(L"BUTTON", L"Metric system", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(Window::winX * Window::storyx), (int)(Window::winY * 0.48), 110, 25, Window::winHwnd, (HMENU)9002, Window::winInst, NULL);
 	// Put in window list
 	Window::windList.emplace_back(Window::fasttext);
 	Window::windList.emplace_back(Window::script);
 	Window::windList.emplace_back(Window::instant);
+	Window::windList.emplace_back(Window::metric);
 }
 
 void windowPainter::audioWindows() {
@@ -98,10 +100,12 @@ void windowPainter::modeWindows() {
 	pWin->storyMode = CreateWindow(L"BUTTON", L"Story mode", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(Window::winX * Window::smx), (int)(Window::winY * 0.30), 85, 25, Window::winHwnd, (HMENU)9002, Window::winInst, NULL);
 	pWin->jpnControls = CreateWindow(L"BUTTON", L"JPN controls", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(Window::winX * Window::smx), (int)(Window::winY * 0.36), 85, 25, Window::winHwnd, (HMENU)9002, Window::winInst, NULL);
 	pWin->bugFix = CreateWindow(L"BUTTON", L"Bug fix only", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(Window::winX * Window::smx), (int)(Window::winY * 0.42), 85, 25, Window::winHwnd, (HMENU)9002, Window::winInst, NULL);
+	pWin->autorun = CreateWindow(L"BUTTON", L"Autorun", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(Window::winX * Window::smx), (int)(Window::winY * 0.48), 85, 25, Window::winHwnd, (HMENU)9002, Window::winInst, NULL);
 	// Put in window list
 	Window::windList.emplace_back(Window::storyMode);
 	Window::windList.emplace_back(Window::jpnControls);
 	Window::windList.emplace_back(Window::bugFix);
+	Window::windList.emplace_back(Window::autorun);
 }
 
 void windowPainter::initialiseFont() {

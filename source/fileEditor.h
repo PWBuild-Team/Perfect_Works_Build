@@ -8,7 +8,10 @@
 #include "partyStatEditor.h"
 #include "audioEditor.h"
 #include "helper/gameFileTools.h"
+#include "helper/fileSystemTools.h"
 #include "gameplayFileEditor.h"
+#include "helper/dataTools.h"
+#include "metricEditor.h"
 
 class fileEditor
 {
@@ -23,5 +26,9 @@ public:
 	static void makeSLUS(std::string romFile);
 	static void exeEdits(std::string file);
 	static void editTextSpeed(std::string file);
+
+	// Global variables
+public: 
+	
 };
 

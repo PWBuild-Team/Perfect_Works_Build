@@ -110,8 +110,11 @@ bool patchProcessor::gamefileVerify() {
 // Initialise patch list
 void patchProcessor::initialisePatchLists() {
 	Window::log_file << "Initialise patch names." << std::endl;
+	patchList.emplace_back(autorunName);
 	patchList.emplace_back(expName);
 	patchList.emplace_back(goldName);
+	patchList.emplace_back(bugName);
+	patchList.emplace_back(metricsName);
 	patchList.emplace_back(itemspellsName);
 	patchList.emplace_back(scriptName);
 	patchList.emplace_back(jpnName);
@@ -119,10 +122,9 @@ void patchProcessor::initialisePatchLists() {
 	patchList.emplace_back(fmvName);
 	patchList.emplace_back(fmvPatch);
 	patchList.emplace_back(storyModeName);
-	patchList.emplace_back(bugName);
 	patchList.emplace_back(resizeName);
 	patchList.emplace_back(portraitsName);
-	patchList.emplace_back(monsterName);
+	// patchList.emplace_back(monsterName);
 	patchList.emplace_back(musicName);
 	patchList.emplace_back(arenaName);
 	patchList.emplace_back(fastName);
@@ -208,7 +210,7 @@ void patchProcessor::reinitialisePatches() {
 	fmvName = "";
 	roniName = "";
 	itemspellsName = "";
-	monsterName = "";
+	// monsterName = "";
 	resizeName = "";
 	scriptName = "";
 	arenaName = "";
@@ -224,6 +226,8 @@ void patchProcessor::reinitialisePatches() {
 	deathblowName = "";
 	jpnName = "";
 	musicName = "";
+	metricsName = "";
+	autorunName = "";
 }
 
 // Clear patch lists

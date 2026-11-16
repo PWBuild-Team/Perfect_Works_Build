@@ -29,10 +29,10 @@ struct tipDesc {
 	char text_itemspells[255] =
 		"WARNING: Incompatible with pre-0.4 saves.\n"
 		"The game is rebalanced; with items,\n" 
-		"characters and the damage formula receiving\n"
-		"adjustment. Other significant overhauls are\n"
-		"included. Several features need fine tuning,\n"
-		"meaning some bugs are to be expected.";
+		"characters, enemies, bosses, and the damage\n"
+		"formula receiving adjustment. Several \n"
+		"features need fine tuning, meaning some bugs\n" 
+		"are to be expected.";
 	char text_monsters[255] =
 		"Enemies and bosses will be altered to give\n"
 		"a bigger challenge. Recommended for second\n"
@@ -129,6 +129,13 @@ struct tipDesc {
 	char text_bug_fix[255] =
 		"Ignores all other patches and just implements\n"
 		"the bug fixes.\n";
+	char text_metricText[255] =
+		"Switches character weight from the imperial\n"
+		"system to the metric system.\n";
+	char text_autorun[255] =
+		"Changes how the cancel button functions so\n"
+		"that the characters run by default, while holding\n"
+		"it causes them to walk.";
 };
 
 class Window
@@ -188,6 +195,8 @@ public:
 	inline static HWND instant;
 	inline static HWND cap;
 	inline static HWND bugFix;
+	inline static HWND metric;
+	inline static HWND autorun;
 	inline static HINSTANCE winInst;
 	inline static int winX;
 	inline static int winY;

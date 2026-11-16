@@ -17,8 +17,7 @@ I'm too scared...<Delay 20>
 C'mon, don't play dumb.<Delay 30>
 You do a big jump by
 pressing the <T> button
-while running with the
-<C> button held down, right?<New>
+while running, right?<New>
 You can jump much further
 than with a regular jump.<New>
 Even when we play pranks

@@ -64,8 +64,11 @@ void applyPatch::prepareFiles() {
 	if (!patchProcessor::patchList.empty()) {
 		createTemp();
 		std::filesystem::current_path(Window::home);
+		if (patchProcessor::num == 2) {
+			applyDelta("bugfix");
+		}
 		if (patchProcessor::fmvName != "") {
-			applyFMV();
+			applyDelta("fmv");
 		}
 		if (patched) {
 			backupROM();
@@ -127,26 +130,40 @@ void applyPatch::iterateTemp() {
 	fileEditor::modeEdits();
 }
 
-void applyPatch::applyFMV() {
-	Window::log_file << "Applying FMV undub." << std::endl;
+void applyPatch::applyDelta(std::string patchName) {
+	if (patchName == "bugfix") {
+		Window::log_file << "Applying Stars of Tears patch." << std::endl;
+	}
+	if (patchName == "fmv") {
+		Window::log_file << "Applying FMV undub." << std::endl;
+	}
 	std::filesystem::current_path(Window::home);
+	std::string patchFile;
+	if (patchName == "bugfix") {
+		patchFile = "disc2_0007str.xdelta";
+	}
+	if (patchName == "fmv") {
+		patchFile = patchProcessor::fmvPatch;
+	}
 	Window::log_file << "Creating batch file commands." << std::endl;
 	if (patched) {
 		// Create copy of bin file to stack patches
 		Window::log_file << "Make backup of the ROM if it has already been patched." << std::endl;
 		batch_file << "copy \"" + fileName + "\" backup.bin \n" << std::endl;
 		batch_file << "del \"" + fileName + "\" \n" << std::endl;
-		batch_file << "Tools\\xdelta3-3.0.11-i686.exe -d  -s backup.bin patches\\" + patchProcessor::fmvPatch + " \"" + fileName + "\" \n" << std::endl;
+		batch_file << "Tools\\xdelta3-3.0.11-i686.exe -d  -s backup.bin patches\\" + patchFile + " \"" + fileName + "\" \n" << std::endl;
 	}
 	else {
-		batch_file << "Tools\\xdelta3-3.0.11-i686.exe -d  -s \"" + oldPath + "\" patches\\" + patchProcessor::fmvPatch + " \"" + fileName + "\" \n" << std::endl;
+		batch_file << "Tools\\xdelta3-3.0.11-i686.exe -d  -s \"" + oldPath + "\" patches\\" + patchFile +" \"" + fileName + "\" \n" << std::endl;
 		patched = true;
 	}
-	if (patchProcessor::num == 1) {
-		batch_file << "Tools\\Insert_log_file.exe " + fileName + " Tools\\xenocd1_softmod_files_extended.txt -new" << std::endl;
-	}
-	if (patchProcessor::num == 2) {
-		batch_file << "Tools\\Insert_log_file.exe " + fileName + " Tools\\xenocd2_softmod_files_extended.txt -new" << std::endl;
+	if (patchName == "fmv") {
+		if (patchProcessor::num == 1) {
+			batch_file << "Tools\\Insert_log_file.exe " + fileName + " Tools\\xenocd1_softmod_files_extended.txt -new" << std::endl;
+		}
+		if (patchProcessor::num == 2) {
+			batch_file << "Tools\\Insert_log_file.exe " + fileName + " Tools\\xenocd2_softmod_files_extended.txt -new" << std::endl;
+		}
 	}
 }
 
@@ -159,8 +176,13 @@ void applyPatch::backupROM() {
 
 void applyPatch::executeBat() {
 	// Execute patch file
-	if (patchProcessor::fmvName != "") {
-		Window::log_file << "Executing batch file. Applying FMV patch and rewriting the file table." << std::endl;
+	if (patchProcessor::num == 2) {
+		Window::log_file << "Executing batch file. Applying xdelta patches." << std::endl;
+		Window::logCommands("commands.cmd", "CMD");
+		int batch_exit_code = Window::commandHandler("cmd.exe /c .\\commands.cmd");
+	}
+	if (patchProcessor::fmvName != "" && patchProcessor::num == 1) {
+		Window::log_file << "Executing batch file. Applying xdelta patch." << std::endl;
 		Window::logCommands("commands.cmd", "CMD");
 		int batch_exit_code = Window::commandHandler("cmd.exe /c .\\commands.cmd");
 	}

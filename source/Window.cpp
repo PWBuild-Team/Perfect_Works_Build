@@ -121,7 +121,7 @@ void Window::tooltipTextMaker() {
 	HWND tt_gold = toolGenerator(tips.text_gold, winHwnd, gold, winInst).hWndTT;
 	HWND tt_goldList = toolGenerator(tips.text_goldList, winHwnd, goldList, winInst).hWndTT;
 	HWND tt_itemspells = toolGenerator(tips.text_itemspells, winHwnd, itemspells, winInst).hWndTT;
-	HWND tt_monsters = toolGenerator(tips.text_monsters, winHwnd, monsters, winInst).hWndTT;
+	// HWND tt_monsters = toolGenerator(tips.text_monsters, winHwnd, monsters, winInst).hWndTT;
 	HWND tt_deathblows = toolGenerator(tips.text_deathblow, winHwnd, deathblows, winInst).hWndTT;
 	HWND tt_cap = toolGenerator(tips.text_cap, winHwnd, cap, winInst).hWndTT;
 	// Arena
@@ -132,6 +132,7 @@ void Window::tooltipTextMaker() {
 	HWND tt_fast = toolGenerator(tips.text_fast, winHwnd, fasttext, winInst).hWndTT;
 	HWND tt_script = toolGenerator(tips.text_script, winHwnd, script, winInst).hWndTT;
 	HWND tt_instant = toolGenerator(tips.text_instantText, winHwnd, instant, winInst).hWndTT;
+	HWND tt_metric = toolGenerator(tips.text_metricText, winHwnd, metric, winInst).hWndTT;
 	// Audio
 	HWND tt_fmvs = toolGenerator(tips.text_fmvs, winHwnd, fmvs, winInst).hWndTT;
 	HWND tt_voice = toolGenerator(tips.text_voices, winHwnd, voice, winInst).hWndTT;
@@ -140,6 +141,7 @@ void Window::tooltipTextMaker() {
 	HWND tt_story_mode = toolGenerator(tips.text_story_mode, winHwnd, storyMode, winInst).hWndTT;
 	HWND tt_jpn_controls = toolGenerator(tips.text_jpn_control, winHwnd, jpnControls, winInst).hWndTT;
 	HWND tt_bug_fix = toolGenerator(tips.text_bug_fix, winHwnd, bugFix, winInst).hWndTT;
+	HWND tt_autorun = toolGenerator(tips.text_autorun, winHwnd, autorun, winInst).hWndTT;
 }
 
 void Window::checkDirectories() {

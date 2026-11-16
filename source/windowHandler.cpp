@@ -63,10 +63,10 @@ void windowHandler::checkGameplay() {
 	if (itemspellsticked == BST_CHECKED && bugticked == BST_CHECKED) {
 		SendMessage(Window::bugFix, BM_SETCHECK, BST_UNCHECKED, NULL);
 	}
-	monstersticked = SendMessage(Window::monsters, BM_GETCHECK, NULL, NULL);
+	/*monstersticked = SendMessage(Window::monsters, BM_GETCHECK, NULL, NULL);
 	if (monstersticked == BST_CHECKED && bugticked == BST_CHECKED) {
 		SendMessage(Window::bugFix, BM_SETCHECK, BST_UNCHECKED, NULL);
-	}
+	}*/
 	deathblowsticked = SendMessage(Window::deathblows, BM_GETCHECK, NULL, NULL);
 	if (deathblowsticked == BST_CHECKED && bugticked == BST_CHECKED) {
 		SendMessage(Window::bugFix, BM_SETCHECK, BST_UNCHECKED, NULL);
@@ -162,5 +162,13 @@ void windowHandler::checkModes() {
 				}
 			}
 		}
+	}
+	metricticked = SendMessage(Window::metric, BM_GETCHECK, NULL, NULL);
+	if (metricticked == BST_CHECKED) {
+		SendMessage(Window::metric, BM_SETCHECK, BST_CHECKED, NULL);
+	}
+	autorunticked = SendMessage(Window::autorun, BM_GETCHECK, NULL, NULL);
+	if (autorunticked == BST_CHECKED) {
+		SendMessage(Window::autorun, BM_SETCHECK, BST_CHECKED, NULL);
 	}
 }
