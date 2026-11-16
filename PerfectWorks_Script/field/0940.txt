@@ -1,8 +1,8 @@
 <TextBlock 1 w:30 h:2>
-<Opcode 1 255>    Third Floor
+<Opcode 1 255>    3rd Floor
     Basement<Close><End of Block>
 <TextBlock 2 w:30 h:2>
-<Opcode 1 255>    Third Floor
+<Opcode 1 255>    3rd Floor
     Basement<Close><End of Block>
 <TextBlock 3 w:42 h:4>
 Shakhan
@@ -107,22 +107,22 @@ Margie
 "I'm not worried."<Close><End of Block>
 <TextBlock 21 w:38 h:3>
 Bart
-"Hey, Fei, how did
+"Hey, Fei, how'd
 the Tournament go?"<Close><End of Block>
-<TextBlock 22 w:26 h:3>
+<TextBlock 22 w:32 h:3>
 Fei
-"Uh, I won...
-I guess..."<Close><End of Block>
+"Oh, I won...
+More or less..."<Close><End of Block>
 <TextBlock 23 w:48 h:3>
 Bart
 "That's what I thought.
 I knew you could do it."<Close><End of Block>
 <TextBlock 24 w:30 h:3>
 Fei
-"I lost halfway
+"I lost partway
 through..."<Close><End of Block>
 <TextBlock 25 w:30 h:4>
 Bart
-"No way!?
+"What!?
 I thought you'd
 win for sure!"<Close><Close><End of Block>

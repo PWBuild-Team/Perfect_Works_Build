@@ -1,12 +1,10 @@
-<TextBlock 1 w:40 h:3>
+<TextBlock 1 w:38 h:3>
 Fei
-"...Geburah's aerial
-battleship!"<Opcode 2 60><Close><End of Block>
-<TextBlock 2 w:30 h:4>
+"...the Geburah
+aerial battleship."<Opcode 2 60><Close><End of Block>
+<TextBlock 2 w:48 h:2>
 Margie
-"Yeah, but look
-what's coming
-out of it...!"<Opcode 2 30><Close><End of Block>
+"It gets worse <--> look!"<Opcode 2 30><Close><End of Block>
 <TextBlock 3 w:46 h:4>
 Shakhan
 "Tomorrow will be the

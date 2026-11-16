@@ -1,11 +1,9 @@
-<TextBlock 1 w:54 h:4>
-Let me sit there.<New>
-I want to see what it
-feels like to be the
-leader of a whole
-country...<New>
-I'm running in the Prime
-Minister election you know.<New>
-Someday I'll probably be
-sitting here for real.<Close>
-itting here for real.<Close><Close><End of Block>
+<TextBlock 1 w:56 h:4>
+I only sat down for a 
+second. I wanted to see
+what it'd feel like to be
+leader of a whole country...<New>
+But I'm running in the Prime
+Minister election you know.<Delay 50>
+Maybe someday I'll be
+able to sit here for real.<Close><End of Block>

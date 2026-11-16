@@ -186,11 +186,11 @@ Do you wanna change the
 name of <Seibzehn>?<Delay 20>
 <Opcode 1 255>    Yeah, why not!?
     No, not now...<Close><End of Block>
-<TextBlock 36 w:36 h:4>
+<TextBlock 36 w:38 h:4>
 General Maitreya,
-Falkon and Farrant
+Falke and Vorland
 are gone.<Delay 10>
-...I miss them.<Close><End of Block>
+...How I miss them.<Close><End of Block>
 <TextBlock 37 w:42 h:4>
 We don't have enough
 underwater equipment,

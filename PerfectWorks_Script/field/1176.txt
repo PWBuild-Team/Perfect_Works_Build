@@ -50,14 +50,14 @@ Bart
 "Next time, speak up!!
 Then we'll go get the
 job done!"<Close><End of Block>
-<TextBlock 11 w:42 h:4>
+<TextBlock 11 w:50 h:4>
 Margie
-"Sorry...but...
-I heard a rumor in
-town that day...<New>
-It was said that the
-Sect sisters captured
-by Av were still
+"I'm sorry...it's just...
+There'd been a rumor in
+town around then...<New>
+Saying that sisters of
+the Holy See who'd been
+captured by Av were still
 alive..."<Close><End of Block>
 <TextBlock 12 w:30 h:4>
 Margie
@@ -79,12 +79,12 @@ it again..."<Close><End of Block>
 Margie
 "Yeah...<Delay 32>
 I'll do that."<Close><End of Block>
-<TextBlock 16 w:36 h:4>
+<TextBlock 16 w:42 h:4>
 Mason
-"Please, don't be
-so hard on her...<New>
-The Nisan Sect is
-Marguerite's home.
+"Please, don't be so
+hard on her...<New>
+The Holy See of Nisan
+is Marguerite's home.
 It's perfectly
 understandable."<Close><End of Block>
 <TextBlock 17 w:50 h:4>

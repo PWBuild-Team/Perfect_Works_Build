@@ -4,11 +4,12 @@ are weaker than men?<Delay 10>
 <Opcode 1 255>    I think so
     Not really<Close><End of Block>
 <TextBlock 2 w:50 h:2>
-What? Don't underestimate
+Hmph, don't underestimate
 desert women!<Close><End of Block>
-<TextBlock 3 w:38 h:2>
-You're just saying
-that to impress me.<Close><End of Block>
+<TextBlock 3 w:50 h:3>
+It's only the guys who
+don't understand that who
+talk big, am I right?<Close><End of Block>
 <TextBlock 4 w:48 h:3>
 Aren't you nervous?
 I've had to pee a couple
@@ -25,28 +26,29 @@ Competitor
 D'you know my name?"<Delay 10>
 <Opcode 1 255>    Yes I do
     Nope<Close><End of Block>
-<TextBlock 7 w:34 h:4>
+<TextBlock 7 w:32 h:4>
 Competitor
 "That's right...
-I am the one and
+I'm the one and
 only...Big Joe!"<Close><End of Block>
-<TextBlock 8 w:34 h:3>
+<TextBlock 8 w:42 h:4>
 Competitor
-"What, you don't
-remember? I am...<Delay 50>
-Big Joe!<New>
-The man who
-controls
+"Hmph, you don't
+remember!<New>
+My name is...<Delay 50>Big Joe!
+The man who controls
 the world."<Close><End of Block>
-<TextBlock 9 w:44 h:4>
+<TextBlock 9 w:46 h:4>
 Big Joe
 "Hey, boy.
 Do you know the
 secret of strength?<New>
-It's...<Delay 30>
-gratitude to all your
-fans. Their love gives
-me strength."<Close><End of Block>
+It's...<Delay 30>the feeling of
+gratitude. Gratitude
+toward the ones who
+cheer you on.<New>
+It's the ladies' love
+that gives me courage."<Close><End of Block>
 <TextBlock 10 w:38 h:4>
 Big Joe
 "Hey, boy.<New>
@@ -54,11 +56,11 @@ Do you have anyone
 cheering for you?"<Delay 10>
 <Opcode 1 255>    Yes
     No<Close><End of Block>
-<TextBlock 11 w:38 h:3>
+<TextBlock 11 w:48 h:3>
 Big Joe
-"Okay, don't forget
-to thank them."<Close><End of Block>
+"Okay, don't forget your
+gratitude toward them."<Close><End of Block>
 <TextBlock 12 w:42 h:3>
 Big Joe
-"Oh boy. Life is too
+"Oh boy. Life's too
 long to walk alone."<Close><Close><End of Block>

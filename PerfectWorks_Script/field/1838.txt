@@ -188,14 +188,13 @@ such as serotonin, and
 regulate emotion."<Close><End of Block>
 <TextBlock 37 w:4 h:1>
 ?<Delay 5>?<Opcode 2 15><Close><End of Block>
-<TextBlock 38 w:52 h:4>
+<TextBlock 38 w:54 h:4>
 Torah
 "Well, I suppose that
-was a bit of a mouthful...<Delay 10>
-But in short, it means<New>
-that the manifestation
-of 'Id', your second
-personality, can be
+was a bit of a mouthful...<New>
+But in short, it means the
+manifestation of 'Id', your
+second personality, can be
 physically suppressed."<Close><End of Block>
 <TextBlock 39 w:14 h:2>
 Fei

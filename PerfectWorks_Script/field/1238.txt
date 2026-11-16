@@ -119,7 +119,7 @@ Come again soon.<Close><End of Block>
 My li'l sister pushed me.
 She always picks on me.
 I'm so scared.<Close><End of Block>
-<TextBlock 35 w:50S h:3>
+<TextBlock 35 w:50 h:3>
 My li'l sister pushed me.
 She always bullies me.
 I'm so scared.<New>

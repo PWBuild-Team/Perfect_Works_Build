@@ -90,11 +90,12 @@ Margie
 "Sister, please stop!<Delay 30>
 You're about to say weird
 stuff again, aren't you!?"<Close><End of Block>
-<TextBlock 18 w:50 h:3>
+<TextBlock 18 w:48 h:4>
 Agnes
 "It's not weird!<New>
-Since long ago, the Nisan
-mothers and the kings of
+Since long ago, the holy
+mothers of the Nisan
+faith and the kings of
 Av have always<-->"<Close><End of Block>
 <TextBlock 19 w:40 h:3>
 Margie
@@ -171,7 +172,7 @@ Maria
 "D'you want to change?"<Delay 10>
 <Opcode 1 255>    Please
     That's okay<Close><End of Block>
-<TextBlock 34 w:50 h:4>
+<TextBlock 34 w:48 h:4>
 <Chu-Chu>
 "<Chu-Chu> is raring chu
 go like a big bonfire!<New>

@@ -73,13 +73,13 @@ against rock and metal!<New>
 There's no way I can
 lose.<Close><End of Block>
 <TextBlock 17 w:50 h:4>
-Everyone is so excited...
-Isn't there a big
-festival or something?
-Isn't there?<Close><End of Block>
+Huh, everyone's so on
+edge... I mean, it's only
+a festival, right...?
+Isn't it?<Close><End of Block>
 <TextBlock 18 w:6 h:1>
 ...<Close><End of Block>
-<TextBlock 19 w:54 h:3>
+<TextBlock 19 w:56 h:3>
 Attention all participants.
-We will be starting soon.
-Please enter the arena.<Close><Close><End of Block>
+We will be starting shortly.
+Please take your places.<Close><Close><End of Block>

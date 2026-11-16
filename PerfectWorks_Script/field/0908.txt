@@ -383,7 +383,7 @@ guns just for show."<Close><End of Block>
 Bart
 "I guess I'd better
 go to Jasper too."<Close><End of Block>
-<TextBlock 69 w:38 h:3>
+<TextBlock 69 w:36 h:3>
 <Chu-Chu>
 "Me chu! <Chu-Chu>
 wants to go chu!"<Close><End of Block>

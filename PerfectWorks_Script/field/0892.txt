@@ -1,28 +1,27 @@
 <TextBlock 1 w:34 h:2>
 I'm busy!
 Get outta my way!<Close><End of Block>
-<TextBlock 2 w:40 h:3>
+<TextBlock 2 w:42 h:3>
 I thought I'd have 
-lots of free time
+a bit of free time
 once the war ended.<New>
-But these guys are
-always in the dining
-hall.<New>
+But the guys who came
+back just hang out
+in the mess hall.<New>
 So I'm real busy! 
 Outta my way!<Close><End of Block>
-<TextBlock 3 w:50 h:3>
-While this is warming,
+<TextBlock 3 w:50 h:4>
+While this is heating up,
 I'll get this ready...<Delay 30> 
-Was I cutting vegetables?<New>
-No, wait... Hey, your
-talking to me got me all
-mixed up.<Close><End of Block>
-<TextBlock 4 w:38 h:3>
-I wonder how the 
-Tournament's going?<New>
-I'd like to go see
-it, but the head
-chef won't let me.<Close><End of Block>
+Oh, was I cutting
+vegetables?<Delay 10> No, wait...<New>
+...Man, you talking to me
+got me all mixed up.<Close><End of Block>
+<TextBlock 4 w:58 h:4>
+I wonder how the Tournament's
+been going...? I'd like to go
+see it too! But the head chef
+would get mad at me.<Close><End of Block>
 <TextBlock 5 w:44 h:3>
 I wonder if the
 Dragon-Slaying Boxer
@@ -135,23 +134,23 @@ Beloved Squire.<Close><End of Block>
 <TextBlock 36 w:36 h:2>
 Hey, you're the
 Beloved Slacker.<Close><End of Block>
-<TextBlock 37 w:38 h:3>
-Hey, thanks to you 
-I hit it big. 
-Thank you.<Close><End of Block>
-<TextBlock 38 w:46 h:2>
-Ma yelled at me because
-you lost so quickly!<Close><End of Block>
-<TextBlock 39 w:54 h:3>
-This is enough seasoning. 
-They will all be tired out 
-from today's Tournament.<Close><End of Block>
-<TextBlock 40 w:46 h:3>
-Can't fight on an
-empty stomach...<New>
-Even without a fight,
-you still can't do much
-when you're hungry.<Close><End of Block>
+<TextBlock 37 w:36 h:3>
+Hey, 'cause of you
+I made a profit!
+Thanks.<Close><End of Block>
+<TextBlock 38 w:56 h:2>
+You got beat so quickly!<Delay 10>
+Ma scolded me 'cause of you!<Close><End of Block>
+<TextBlock 39 w:64 h:4>
+Hmm, let's make the seasoning
+stronger today.<Delay 10> They'll probably
+be sweating from all the
+excitement at the Tournament.<Close><End of Block>
+<TextBlock 40 w:54 h:4>
+Can't fight on an empty
+stomach...right?<Delay 10>
+Fight or no fight, ya can't
+do much if you're hungry.<Close><End of Block>
 <TextBlock 41 w:34 h:2>
 You have too many
 <Opcode 4 20><Close><End of Block>
@@ -170,7 +169,7 @@ You have too many
 <TextBlock 46 w:40 h:2>
  
  Received <Opcode 4 20><Close><End of Block>
-<TextBlock 47 w:70 h:3>
-<Opcode 1 255>There's probably a guard outside...
+<TextBlock 47 w:66 h:3>
+<Opcode 1 255>There might be a guard outside...
     Open the door
     Just take a peek<Close><Close><End of Block>

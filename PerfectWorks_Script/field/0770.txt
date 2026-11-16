@@ -1,6 +1,6 @@
-<TextBlock 1 w:6 h:1>
+<TextBlock 1 w:4 h:1>
 !!<Opcode 2 30><Close><End of Block>
-<TextBlock 2 w:18 h:1>
+<TextBlock 2 w:16 h:1>
 Sis...!!<Opcode 2 30><Close><End of Block>
 <TextBlock 3 w:36 h:3>
 Franz
@@ -15,9 +15,9 @@ Now what kind of sound will
 you make when I do this?"<Opcode 2 60><Close><End of Block>
 <TextBlock 6 w:10 h:1>
 Wha!?<Close><End of Block>
-<TextBlock 7 w:46 h:2>
+<TextBlock 7 w:38 h:2>
 Fei
-"Why are you fighting?"<Close><End of Block>
+"Why do you fight?"<Close><End of Block>
 <TextBlock 8 w:40 h:3>
 Franz
 "You,<Delay 10>

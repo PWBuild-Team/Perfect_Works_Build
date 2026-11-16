@@ -117,10 +117,9 @@ but I wonder if it
 was safe in there?)"<Close><End of Block>
 <TextBlock 25 w:52 h:4>
 Billy
-"(Margie's the Holy
-Mother of this Sect,
-isn't she?<New>
-After hearing that Nisan
+"(Margie's the Holy Mother
+of this See, isn't she?<New>
+After hearing that it
 may have fallen into the
 hands of these villains...<New>
 there's no way she

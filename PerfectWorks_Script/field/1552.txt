@@ -188,12 +188,12 @@ To me..."<Close><End of Block>
 Maria
 "...<Delay 20>
 I'm sorry..."<Close><End of Block>
-<TextBlock 42 w:42 h:4>
+<TextBlock 42 w:40 h:4>
 Maria
 "...!?<Delay 20>
 What are you
 saying, <Chu-Chu>!?"<Close><End of Block>
-<TextBlock 43 w:34 h:2>
+<TextBlock 43 w:32 h:2>
 Maria
 "<Chu-Chu>...!?"<Close><End of Block>
 <TextBlock 44 w:10 h:3>

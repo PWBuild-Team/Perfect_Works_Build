@@ -279,9 +279,9 @@ ya!?"<Close><End of Block>
 Sigurd
 "Young Master!
 Stay out of mischief."<Close><End of Block>
-<TextBlock 27 w:40 h:2>
-"Ouch ouch ouch!!
-Don't pull my ears!"<Opcode 2 15><Close><End of Block>
+<TextBlock 27 w:36 h:2>
+Ouch ouch ouch!!
+Don't pull my ear!<Opcode 2 15><Close><End of Block>
 <TextBlock 28 w:52 h:3>
 Citan
 "Let us go and wait in our

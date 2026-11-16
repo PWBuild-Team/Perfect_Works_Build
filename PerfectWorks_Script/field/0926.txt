@@ -24,11 +24,11 @@ I saw the boy you're after
 fight in the Tournament...<New>
 I could tell right away.
 He resembles you greatly."<Close><End of Block>
-<TextBlock 6 w:50 h:4>
+<TextBlock 6 w:52 h:4>
 Grahf
-"You used the influence
-of the Ministry to set
-you up with that man...<New>
+"I see you've pulled some
+strings with the Ministry,
+and are using that man...<New>
 I don't know what you're
 up to, but don't you dare
 think about plotting

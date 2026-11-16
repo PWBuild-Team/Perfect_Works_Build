@@ -57,10 +57,10 @@ fine."<Close><End of Block>
 Citan
 "But, with Shakhan
 being so quiet..."<Close><End of Block>
-<TextBlock 9 w:48 h:4>
+<TextBlock 9 w:52 h:4>
 Bart
 "That's what the people
-from her Sect said, too.<New>
+of the Holy See said, too.<New>
 In any case, the danger
 to her has not changed.<New>
 So they say they want

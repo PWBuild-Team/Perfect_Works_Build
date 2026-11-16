@@ -1,34 +1,32 @@
-<TextBlock 1 w:42 h:3>
-Hmm...I'm worried. <Delay 50>
-The army's power is
-rising too quickly...<New>
-What will happen to
+<TextBlock 1 w:50 h:3>
+Ahh...I'm worried.<Delay 50>
+The power of the military
+is growing quickly...<New>
+What'll become of
 civilian officials
 like me?<Close><End of Block>
-<TextBlock 2 w:38 h:3>
-Hmm...I'm worried. <Delay 50>
-If political power 
-changes hands...<New>
-what will happen to
-those working for
-Shakhan?<Close><End of Block>
-<TextBlock 3 w:50 h:4>
+<TextBlock 2 w:48 h:5>
+Ahh...I'm worried.<Delay 50>
+If the administration
+changes...what'll become
+of people like me who
+worked for Shakhan?<Close><End of Block>
+<TextBlock 3 w:56 h:4>
 Well if it isn't His
 Highness, Bartholomew!
-It has been a long time.<New>
-Are you well, Your 
-Highness?<Close><End of Block>
-<TextBlock 4 w:44 h:4>
-My family has served
-in Fatima Castle for 
-generations, no matter
-who was in power.<Close><End of Block>
-<TextBlock 5 w:70 h:3>
-<Opcode 1 255>There's probably a guard outside...
+It's been a long time.
+Are you well, Your Highness?<Close><End of Block>
+<TextBlock 4 w:50 h:4>
+My family will serve
+Fatima Castle for 
+generations to come,
+no matter who's in power.<Close><End of Block>
+<TextBlock 5 w:66 h:3>
+<Opcode 1 255>There might be a guard outside...
     Open the door
     Just take a peek<Close><End of Block>
-<TextBlock 6 w:70 h:3>
-<Opcode 1 255>There's probably a guard outside...
+<TextBlock 6 w:66 h:3>
+<Opcode 1 255>There might be a guard outside...
     Open the door
     Just take a peek<Close><End of Block>
 <TextBlock 7 w:34 h:2>

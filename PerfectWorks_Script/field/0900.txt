@@ -68,10 +68,10 @@ I'll stay focused.<Close><End of Block>
 Let's avoid fighting
 our cousins in the Av
 army and finish this.<Close><End of Block>
-<TextBlock 12 w:46 h:4>
-Soon I'll return to the
+<TextBlock 12 w:48 h:4>
+Soon we'll return to the
 castle! I wonder if the
-old man from the dining
+old man from the mess
 hall is still alive?<Close><End of Block>
 <TextBlock 13 w:52 h:3>
 Congratulations on your
@@ -121,7 +121,7 @@ What was his name?<Close><End of Block>
 <TextBlock 18 w:44 h:3>
 Bart
 "You mean His Highness
-Prince Bartholomew."<Close><End of Block>
+Prince Bartholomew?"<Close><End of Block>
 <TextBlock 19 w:50 h:3>
 Yes, His Highness Prince
 Bartholomew! Boy, you
@@ -130,8 +130,8 @@ If Bartholomew was still
 alive he'd be just about
 your age...<New>
 Did you know that both
-he and his family were
-killed by that Shakhan?<New>
+he and his family died
+because of that Shakhan?<New>
 You won't beat me,
 Shakhan. I'll protect
 Av's water till I die.<New>
@@ -152,7 +152,7 @@ Father would be glad."<Close><End of Block>
 ...Whaddya mean, 'Father'?
 Are you the son of an
 acquaintance of mine?<New>
-Wait wait, I remember...<Delay 200>
+Wait, wait, I remember...<Delay 200>
 !<Delay 30> 
 No, no, that's not it.<New>
 I don't recall the King
@@ -172,17 +172,17 @@ You were still a child
 when your father, the
 King, passed away.<New>
 How I miss those days.
-I am glad to see that
-you are still alive!<Close><End of Block>
-<TextBlock 26 w:46 h:3>
+I'm glad to see that
+you're still alive!<Close><End of Block>
+<TextBlock 26 w:50 h:3>
 Bart
-"Old man, that was then
-but this is now.<New>
+"Old man, let's save the
+stories for another time.<New>
 When things calm down,
 I'll come back."<Close><End of Block>
-<TextBlock 27 w:48 h:3>
+<TextBlock 27 w:44 h:3>
 What!? Playing in the
-reservoir again? Get up
+waterway again? Get up
 out of there now, boy!<Close><End of Block>
 <TextBlock 28 w:46 h:4>
 What!?

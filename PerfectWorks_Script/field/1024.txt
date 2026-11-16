@@ -31,7 +31,7 @@ Today's earnings are forty
 Hob-Jerky and ten Scales.
 I also collected thirteen
 Fangs and Eyeballs.<Delay 15>
-Total reward is<Delay 10> 14595G!!<Close><End of Block>
+Total reward is<Delay 10> 22150G!!<Close><End of Block>
 <TextBlock 7 w:54 h:5>
 Hmmm, as I thought! When ya
 rank goes up, suddenly ya
@@ -42,7 +42,7 @@ make my fortune!<Close><End of Block>
 Today,<Delay 5> fifteen Eyeballs
 and twenty-two Fangs, huh?
 Total reward is<Delay 5>...<Delay 15>ummm<Delay 5>...<Delay 45>
-3150G.<Delay 5> Not bad<Delay 5>...<Delay 5>perhaps.<Close><End of Block>
+6300G.<Delay 5> Not bad<Delay 5>...<Delay 5>perhaps.<Close><End of Block>
 <TextBlock 9 w:58 h:3>
 You also earned a lot, huh?<Delay 30>
 Oh how the money you risk yer
@@ -51,7 +51,7 @@ life for warms the heart!<Close><End of Block>
 Today's earnings are<Delay 5>...<Delay 5>
 three Scales and <Delay 10>eight
 Hob-Meat?
-Total reward is 2700G<Delay 5>...<Delay 5>
+Total reward is 6100G<Delay 5>...<Delay 5>
 Not much is it!?<New>
 Hob-Meat is quite rare
 booty around here, but for

@@ -1,80 +1,87 @@
-<TextBlock 1 w:42 h:3>
-We must rewrite all
-false history books
-on the monarchy.<New>
-We also must get rid
-of any books that
-might cause problems.<Close><End of Block>
-<TextBlock 2 w:52 h:4>
-But now, any pre-Shakhan
-records are getting dated.
-Strange how the present
-becomes the past.<Close><End of Block>
-<TextBlock 3 w:48 h:3>
-I am rearranging all the
-records that were hidden
-from Shakhan.<New>
-I was told to burn them,
-but I hid them instead.<Close><End of Block>
-<TextBlock 4 w:72 h:3>
+<TextBlock 1 w:56 h:4>
+All false history of the
+time of the monarchy is
+to be rewritten.<New>
+All historical records that
+would be a cause for concern
+for the current order have
+been disposed of.<Close><End of Block>
+<TextBlock 2 w:56 h:4>
+But now, it seems even pre-
+Shakhan records are becoming
+outdated. Strange how the
+present changes the past.<Close><End of Block>
+<TextBlock 3 w:46 h:4>
+I'm rearranging all the
+records that'd been
+hidden so Shakhan
+couldn't find them.<New>
+I was actually told to
+burn them, but I hid
+them instead.<Close><End of Block>
+<TextBlock 4 w:66 h:3>
 Do you know Breidablik's history?<Delay 10>
 <Opcode 1 255>    Yes, I do
     No, I don't<Close><End of Block>
-<TextBlock 5 w:40 h:1>
-Wow, you know a lot.<Close><End of Block>
-<TextBlock 6 w:58 h:5>
-This city was built on a
-desert rockbed. This was
-partially to escape sand
-erosion, but that's not
-all.<New>
-An underground water basin
-wells up here. The rockbed
-is made of limestone, so
-the water level continued
-to rise to its present level.<New>
+<TextBlock 5 w:52 h:1>
+My, you are well informed.<Close><End of Block>
+<TextBlock 6 w:60 h:6>
+The city was built on bedrock
+that was sticking out above
+the desert. This was partly
+to avoid sand erosion, but
+it was not the only reason.<New>
+An underground water channel
+below the desert wells up
+here. Since the bedrock was
+limestone, the area around it
+gradually rose up, and it came
+to be in its current position.<New>
 Fatima Castle was originally
-built to protect the water
-source, but gradually the
-desert people started to
-live here.<New>
-They were soon joined by a
-steady flow of people from
-the northern lands.
-That is the story of 
-Breidablik, this city.<Close><End of Block>
-<TextBlock 7 w:58 h:5>
-'Av's True History'<New>
+a fort to protect the water
+source, but one by one the
+desert people and refugees
+from the north began to
+settle here.<New>
+That is the story of our
+Breidablik.<Close><End of Block>
+<TextBlock 7 w:58 h:6>
+'The Official History of Av'<New>
 ...In the dark days of the
-Fatima rule, the people had
-little to eat and even less
-to be happy about.<New>
+Fatima dynasty, the people
+were provided only little
+food, and even less joy.
 Their hardships peaked during
 the reign of Edbart IV...<New>
-Using the people's fury as
-his power base, Shakhan, the
-Prime Minister then, lead
-the armies that broke the
-tyrany of the Fatima dynasty.<New>
-Those heroes became the 
-nucleus of Av's current
-armed forces...<Close><End of Block>
-<TextBlock 8 w:62 h:4>
-It is said the founder of Av,
-one Roni Fatima, was part of a
-desert caravan, but he probably
-also had other sides to him.<New>
-The myths speak of the
-involvement of giants in
-battles that were part of
-a massive power struggle.<New>
-Almost all the records from
-that time have been lost, and
-what little remains is doubted
-to be historically correct.<New>
-But then Roni Fatima could have
-been behind altering things.<Close><End of Block>
-<TextBlock 9 w:70 h:3>
-<Opcode 1 255>There's probably a guard outside...
+...With the people's anger
+as his source of power, it
+was the then Prime Minister
+Shakhan and his army who
+put an end to the tyranny
+of the Fatima dynasty.<New>
+The heroes of that time 
+became the basis for the
+current Av Regular Army...<Close><End of Block>
+<TextBlock 8 w:62 h:5>
+Although it is taught that
+the founding father Roni Fatima
+was a desert merchant, he is
+believed to have had another
+side to him also.<New>
+Are the myths of his apparent
+connection to a giant and the
+clashes with a mighty enemy
+force grounded in historical
+fact?<New>
+Almost all the historical
+records of that time have been
+lost, but this in itself leads
+us to ask if history has been
+distorted in some way.<New>
+Your author suspects that the
+perpetrator of such distortion
+was Roni Fatima himself.<Close><End of Block>
+<TextBlock 9 w:66 h:3>
+<Opcode 1 255>There might be a guard outside...
     Open the door
     Just take a peek<Close><Close><End of Block>
