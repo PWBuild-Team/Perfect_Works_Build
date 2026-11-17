@@ -157,7 +157,7 @@ In those dreams,<Delay 5>
 I loved one man<Delay 5>...<Delay 15>
 No matter the day,<Delay 15>
 no matter the era,<Delay 15>
-that did'n't change<Delay 5>...<Delay 45>
+that didn't change<Delay 5>...<Delay 45>
  
 As for his name<Delay 5>...<Close><End of Block>
 <TextBlock 14 w:52 h:12>
