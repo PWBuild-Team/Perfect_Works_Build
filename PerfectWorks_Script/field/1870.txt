@@ -91,8 +91,8 @@ Gear that's been aligned
 with a Vessel of Anima."<Close><End of Block>
 <TextBlock 15 w:52 h:4>
 Dominia
-"It has nothing to do with
-us what the Gazel do, or
+"It's no concern of ours
+what the Ministry do, or
 what becomes of the Lambs.<New>
 We each have a duty
 to fulfill.<New>
