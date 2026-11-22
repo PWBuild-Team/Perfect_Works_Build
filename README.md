@@ -3,7 +3,7 @@ Xenogears Perfect Works Build: Includes an improved translation, rebalanced game
 
 Download the latest release here:
 
-https://github.com/NoharOSP/Perfect_Works_Build/releases/tag/0.11.4
+https://github.com/NoharOSP/Perfect_Works_Build/releases/tag/0.12.0
 
 For more in-depth information about the build, visit the wiki:
 
@@ -46,7 +46,7 @@ WARNING: When a ROM has been made, do not resume progress by loading a save stat
 
 - Name/terminology changes: 100%
 - Main script: 100%
-- NPC script: 35% (plus all name/terminology changes)
+- NPC script: 40% (plus all name/terminology changes)
 
 ## Introduction
 
@@ -73,8 +73,7 @@ DISCLAIMER:
 - 1/2 encounters: Halves the game's encounter rate.
 - Modify experience: Increase experience yield from enemies by 1.5x or 2x.
 - Modify gold: Increase gold yield from enemies by 1.5x or 2x.
-- Rebalanced enemies: Changes stats of specific enemies and bosses to make them more challenging.
-- Rebalanced party/items: Modifies the stats and abilities of the party, as well as adds new items while adjusting existing ones.
+- Rebalanced gameplay: Changes stats of specific enemies and bosses to make them more challenging, while also modifying the stats and abilities of the party. New items have been added and existing ones have been adjusted.
 - No Deathblow levels: All Deathblows are available to learn at level 1.
 - No damage cap: The damage displayed can exceed 9999.
 
@@ -89,6 +88,7 @@ DISCLAIMER:
 - Script/name changes: Retranslates the game's script.
 - Fast text: Increases the text scroll speed.
 - Instant text: Text displays instantly.
+- Metric system: Converts lbs to kg.
 
 ### Audio
 
@@ -104,96 +104,30 @@ DISCLAIMER:
 
 ## Version history
 
-### Version 0.11.4
+### Version 0.12.0
 
-10/04/2026
+11/XX/2026
 
-- NPC script up to the Breidablik market, plaza, and arena has been completed.
-- AutoBooster and TurboEngine have been readded and no longer drain fuel during on-foot battles. Details are in the wiki.
-- Changed Alice to Arle.
-- Changed Gunner to Latrine.
-- Changed Marseilles to Marseille.
-- Changed Jerico to Jellicoe.
-- An NPC who went unnamed in the North American translation has had their name restored to Banana Boat.
-- The fix to Billy's ammo now applies to all patches.
-- Fixed the trailing s bug when renaming Gears.
-- Shop arrow bug has been fixed.
-- Bug fixes have been made to Ft Jasper's cannon room.
-- Siebzehn now uses its corrected name during its boss fight in the script patch.
-- Fix Shevat palace music bug.
-- Fixed animation glitch when Lacan abandons the Sophia painting.
-- Deathblows which apply buffs can now damage Gears.
-- Harmonised all variations of surface dweller.
-
-### Version 0.11.3
-
-08/23/2026
-
-- Half encounters now work correctly when the script patch is used.
-- The correct control icons will now be shown before using a Deathblow if the Japanese control patch is used.
-- The Drive descriptions have been corrected in shops.
-- Key scenes have had dialogue boxes dismissed before fading out.
-- Dropdown menu text for the default experience and gold modifiers has been corrected.
-- We, the Wounded Shall Advance into the Light is used over Premonition when Elly arrives at Golgotha in all patches.
-- Bugs have been fixed with Ft Jasper during the Gate 2 sequence.
-- A bug has been fixed where experience and gold changes overwrite other patches.
-
-### Version 0.11.2
-
-08/09/2026
-
-- NPC script up to Nisan has been updated.
-- Fixed a bug from the original game where Ether amp is reset when entering a Gear shop menu.
-- Def Up now works correctly with all patches, though block will also be more frequent.
-- Corrected a typo with Power Aeon's name.
-- Adjusted the name lengths of Cyclone Kick, Double Shock, ThermoThump, Tsunami Ice, and Pile Crusher.
-- Fixes have been made to Babel Tower's exterior mirror platform.
-- The Power Shut Down alert has been changed to Stall.
-- The Eth Eng Out of Control alert has been changed to Ether-machine Fault.
-- The Eth Eng Shutdown alert has been changed to Ether Amp Down.
-- The Out of Fuel alert has been changed to Low On Fuel.
-- Merkabah window sizes have been corrected.
-- Shevat jukebox audio bug has been fixed.
-- Bracer's Def Up boost applies to Bart rather than the opponent.
-- Anima Dungeon shop no longer duplicates Black Helm and Black Leather.
-- AutoBooster has been removed from the Yggdrasil II/Thames shop until bugs associated with it have been fixed. 
-- Fire Bomb and Pile Crusher no longer inflict Pierce and will now play their animations with rebalanced items/characters.
-- Fixed a graphical bug with the Solaris skybridge.
-- Added clarity to the tooltips for the no damage cap and no Deathblow level patches.
-- When the instant text and script patches are merged, fast text variants of retranslated scenes will be used.
-
-### Version 0.11.1
-
-07/05/2026
-
-- Weltall attack bug has been fixed.
-- Church of the Ethos has been changed to The Church.
-- Completed expanded Billy gun tutorial.
-- Fixed camera angles during Gebler briefing.
-
-### Version 0.11.0
-
-06/30/2026
-
-- Main script has been completed.
-- 9999 damage cap can be turned off.
-- Instant text option is available.
-- Experience and gold modifiers can now be selected through a dropdown menu.
-- Renmazuo's Holy Light and Healing Light have been modified. Details are in the README.
-- Weltall's attack output is no longer affected by the battle executable in rebalanced items/characters.
-- Nisan shop pointer has been updated so Fei is positioned properly during a cutscene.
-- An option is now available to just apply bug fixes without any additional patches.
-- The crit rate for Elly's Ethers now increases when her Ether stat increases.
-- Translation for Battle Arena monsters has been updated when the basic and expert modes have been applied.
-- The basic and expert arena patches no longer overwrite rebalanced items and characters changes.
-- Elly's critical hit message is now just a critical hit alert.
-- Wither and Weaken have now been restored for Gears.
-- Bracer's effect now works correctly.
-- Buttons have been added to the Billy tutorial.
-- Medena's name has been changed to Medina.
-- Improved the grammar of Dan's battle dialogue.
-- Sword Citan will now use the Japanese voice clips during battle when the battle undub patch is applied.
-- Shevat music channel bug in the palace has been fixed.
+- Stars of Tears FMV can be accessed via the same method used for the Japanese only naming screen in Citan's House.
+- An option to have autorun has been added.
+- An option to switch to the metric system to show weight has been added.
+- Rebalance items/spells and rebalanced monsters have been combined into one feature called "rebalanced gameplay".
+- Subtitles have been added to the Speed minigame and in-battle voice clips.
+- Elly's Ether spells have been rebalanced. Details are in the wiki.
+- The playable Gears have had their attack outputs modified. Details are in the wiki.
+- The patcher has been modified to accept disc dumps that are missing the 2 second postgap.
+- Battle UI will now display Booster as On if the player turns it on.
+- Fixed a bug where voiced lines from Fei, Elly, and Citan are cut off.
+- Fixed a bug where instant text is used when no battle flashes is selected in disc 1.
+- Fixed Merkabah FMV timings.
+- Breidablik NPC script has been completed.
+- Farrand has been changed to Vorland.
+- Falkon has been changed to Falke.
+- Vind has been corrected Wind.
+- Av Castle mess hall fan events have been fixed.
+- Nisan nun dialogue triggers have been fixed.
+- Midori's Ring bug has been fixed.
+- Fixed game freeze that can occur with Deathblows when Booster is used.
 
 ## Links
 
@@ -224,7 +158,7 @@ DM or tag here if you want immediate feedback on Twitter:
 - ChrisGLink: Translation
 - einlanzer: Testing
 - linnaealyn: Testing, FMV font
-- Opok: Documentation, decomp tools, trailing s bug fix
+- Opok: Documentation, decomp tools, trailing s bug fix, autorun code
 - [An Eye for the Infinite](https://web.archive.org/web/20101225035716/http://moonreading.lunarpages.com/xeno/): Translation
 - [Almagest](http://almagest712.blogspot.com/2017/11/xenogears-my-father-you-mean-my-dad.html): Translation
 - cactusmomma: Translation
@@ -247,6 +181,7 @@ DM or tag here if you want immediate feedback on Twitter:
 - Joshua MacDonald: xdelta
 - FFMaster: Fast text code
 - RyleFury: Deus bug fix, softsub tools
-- Sephiroth1311: Deus and shop arrow bug fix
+- Sephiroth1311: Deus bug fix, metric system patch
+- FourthStrongest: Testing
 
 
