@@ -106,7 +106,7 @@ DISCLAIMER:
 
 ### Version 0.12.0
 
-11/XX/2026
+11/22/2026
 
 - Stars of Tears FMV can be accessed via the same method used for the Japanese only naming screen in Citan's House.
 - An option to have autorun has been added.
@@ -128,6 +128,9 @@ DISCLAIMER:
 - Nisan nun dialogue triggers have been fixed.
 - Midori's Ring bug has been fixed.
 - Fixed game freeze that can occur with Deathblows when Booster is used.
+- Duplicate Magnetic Coats in shops have been removed.
+- Citan despawn timing in the sewers has been fixed.
+- Sewer and Master Key descriptions use Noatun over Nortune when the script and gameplay balance patches are merged.
 
 ## Links
 
