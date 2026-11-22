@@ -131,6 +131,7 @@ DISCLAIMER:
 - Duplicate Magnetic Coats in shops have been removed.
 - Citan despawn timing in the sewers has been fixed.
 - Sewer and Master Key descriptions use Noatun over Nortune when the script and gameplay balance patches are merged.
+- The deleted scene where Sophia's portrait is commissioned is viewable if the player talks to the picture.
 
 ## Links
 
