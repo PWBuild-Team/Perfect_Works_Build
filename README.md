@@ -1,4 +1,4 @@
-# Perfect_Works_Build
+# Perfect Works Build
 Xenogears Perfect Works Build: Includes an improved translation, rebalanced gameplay, and other quality of life improvements.
 
 Download the latest release here:
